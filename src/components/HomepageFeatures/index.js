@@ -1,45 +1,47 @@
-import React from 'react';
+//Exporterar "Kommande evenemang" till index.js under \pages
+import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import axios from 'axios';
+import { EventCalendar } from './calendar';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Engagera dig',
+    img: require('@site/static/img/reception.jpg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Vill du engagera dig i sektionen? Kolla in våra <a href="/docs/intro">nämnder</a> och hitta en som passar dig!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Välmående',
+    img: require('@site/static/img/pride.jpg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Vi vill att alla ska må bra. Läs mer om hur vi jobbar med <a href="/docs/intro">välmående</a> på sektionen.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'För företag',
+    img: require('@site/static/img/dinner.jpg').default,
+
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Vill du samarbeta med oss? Läs mer om hur vi jobbar med <a href="/business">företag</a> på sektionen.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+
+function Feature({ img, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img role="img" src={img}/>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -49,16 +51,34 @@ function Feature({Svg, title, description}) {
   );
 }
 
+
+
 export default function HomepageFeatures() {
+
+
   return (
     <section className={styles.features}>
       <div className="container">
+        <h2>
+          Kommande evenemang
+        </h2>
+        <EventCalendar />
+
+
+
+
+
+
         <div className="row">
+
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+
+
         </div>
       </div>
     </section>
   );
 }
+
