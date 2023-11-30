@@ -10,7 +10,7 @@ __Trygghetsformulär__:
 [*Trygghetsrådet*](https://docs.google.com/forms/d/e/1FAIpQLSfoblX_LtHPZYEc3jOn5Y-HyGiQJk_Gir4pdK9aDVL0JfkZjw/viewform)
 
 __Skyddsombudformulär__:  
-Glöm inte bort att Skyddsombuder har tystnadsplikt!
+Glöm inte bort att Skyddsombudet har tystnadsplikt!
 
 [*Skyddsombud*](https://docs.google.com/forms/d/e/1FAIpQLScmNc5y1MaOz-vk1gkn79-JDfuOCUKhcE7rqh0eyD3ZUSujzQ/viewform)
 
