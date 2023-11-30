@@ -19,7 +19,7 @@ En sektionsmedlem är en person som studerar Industriell Ekonomi på KTH och som
 
 
 __Sektionens resurser__     
-Sektionens nämnder och medlemmar får utnyttja sektionens gemensamma resurser för att driva sin verksamhet. Resurserna är materiella såväl som ekonomiska. Våra materiella tillgångar består främst utav: Sektionslokalen Istället (förkortas till Issy), alla egendomar i Istället och förråden i lokalen samt Sektionsbilen, som nu kallas Ivan.
+Sektionens nämnder och medlemmar får utnyttja sektionens gemensamma resurser för att driva sin verksamhet. Resurserna är materiella såväl som ekonomiska. Våra materiella tillgångar består främst utav: Sektionslokalen Istället (förkortas till Issy), alla egendomar i Istället och förråden i lokalen samt Sektionsbilen, som nu kallas Volkis.
 
 
 __Stadgar och Reglemente__  
