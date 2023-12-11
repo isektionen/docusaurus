@@ -4,8 +4,15 @@ Välmående är något vi prioriterar högt på I-sektionen. Vi har olika stöd 
 
 SKYDDSOMBUD ÄR SEKRETESSBELAGDA
 
-Trygghetsrådet:    
-https://docs.google.com/forms/d/e/1FAIpQLSfoblX_LtHPZYEc3jOn5Y-HyGiQJk_Gir4pdK9aDVL0JfkZjw/viewform
+[*Resurser för välmående*](https://drive.google.com/file/d/1bdMQcFk1cjmVgjSzM-Ibv4qi1l5a201O/view)
 
-Skyddsombud:    
-https://docs.google.com/forms/d/e/1FAIpQLScmNc5y1MaOz-vk1gkn79-JDfuOCUKhcE7rqh0eyD3ZUSujzQ/viewform
+
+__Trygghetsformulär__:
+
+[*Trygghetsrådet*](https://docs.google.com/forms/d/e/1FAIpQLSfoblX_LtHPZYEc3jOn5Y-HyGiQJk_Gir4pdK9aDVL0JfkZjw/viewform)
+
+__Skyddsombudformulär__:  
+Glöm inte bort att Skyddsombudet har tystnadsplikt!
+
+[*Skyddsombud*](https://docs.google.com/forms/d/e/1FAIpQLScmNc5y1MaOz-vk1gkn79-JDfuOCUKhcE7rqh0eyD3ZUSujzQ/viewform)
+

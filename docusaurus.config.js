@@ -86,12 +86,11 @@ const config = {
           { to: '/section', label: 'Om sektionen', position: 'left' },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
           
-          { 
-            href: 'https://pubquery.se/',
-            label: 'PubQuery', 
-            position: 'right' 
+          {
+            href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
+            label: 'Dokument',
+            position: 'left',
           },
-          
           {
             href: 'https://www.facebook.com/groups/1695683603989665',
             label: 'Facebook',
@@ -106,7 +105,7 @@ const config = {
       //footerns element
       footer: {
         style: 'dark',
-        links: [{title:"aight"}],
+        links: [{title:"Väntar på att Hugo ska fixa footern"}],
         copyright: `Copyright © ${new Date().getFullYear()} I-T gruppen.`,
       },
       prism: {
