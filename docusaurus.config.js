@@ -82,15 +82,15 @@ const config = {
           },
           { to: '/blog', label: 'Nyheter', position: 'left' },
           { to: '/business', label: 'Företag', position: 'left' },
+          { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
           
-          { 
-            href: 'https://pubquery.se/',
-            label: 'PubQuery', 
-            position: 'right' 
+          {
+            href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
+            label: 'Dokument',
+            position: 'left',
           },
-          
           {
             href: 'https://www.facebook.com/groups/1695683603989665',
             label: 'Facebook',

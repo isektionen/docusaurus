@@ -1,7 +1,4 @@
 {
-  "title": {
-    "message": "Chapter för Industriell Ekonomi"
-  },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"

@@ -6,6 +6,5 @@ sidebar_position: 1
 
 Det här är sektionskartan!
 
-![map](../static//img/karta.png)
-
+<img src={require("/static/img/karta.png").default}/>
 Du kan bläddra bland alla nämnder i sidofältet! Vi är säkra på att du kommer hitta något som passar dig!

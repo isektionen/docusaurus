@@ -13,7 +13,7 @@ Revisionens roll kan delas upp i två funktioner: en granskande och en stödjand
 *26.2 Verksamhet*
 
  *Revisorerna skall*
-- *utföra revision* 
+- *utföra revision.* 
 - *verifiera bokföring, beslutsmässighet och verksamhet i sektionen.* 
 - *uttala sig om ansvarsfrihet för sektionens styrelse under det år som revisionen avser.* 
 - *beakta dels god revisionssed och dels god revisorssed. Detta innebär bland annat att en revisor ej ska vara en aktiv medlem av ekonomirådet under samma räkenskapsår som denne är revisor.* 
