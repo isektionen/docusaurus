@@ -10,7 +10,7 @@ const config = {
   plugins: [
     [
       "docusaurus-plugin-dotenv",
-      {
+      { 
         systemvars: true,
       },
     ],
@@ -67,33 +67,49 @@ const config = {
     ({
       //Headerns element
       navbar: {
-        title: 'I-Sektionen KTH',
+        title: 'I-sektionen KTH',
         logo: {
           alt: 'My Site Logo',
           src: 'img/indeklogo.svg',
           srcDark: 'img/indeklogowhite.svg',
         },
+        hideOnScroll: true,
         items: [
+          { to: '/blog', label: 'Aktuellt', position: 'left' },
           {
-            type: 'doc',
-            docId: 'intro',
+            type: 'dropdown',
+            label: 'Sektionen',
             position: 'left',
-            label: 'Nämnder',
+            to: '/docs/intro',
+            items: [
+              { to: '/docs/board', label: 'Styrelsen'},
+              { to: '/doc-intro', label: 'Sektionskarta'},
+              {
+                href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
+                label: 'Dokument',
+              },
+            ],
           },
-          { to: '/blog', label: 'Nyheter', position: 'left' },
-          { to: '/business', label: 'Företag', position: 'left' },
-          { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
-          { to: '/section', label: 'Om sektionen', position: 'left' },
+          {
+            type: 'dropdown',
+            label: 'Plugga på I',
+            position: 'left',
+            items: [
+              { to: '/section', label: 'Vad är en sektion?'},
+              { to: '/for-sokande', label: 'För sökande'},
+              { to: 'for-antagna', label: 'För antagna'},
+            ],
+          },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
-          
-          {
-            href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
-            label: 'Dokument',
-            position: 'left',
-          },
+          { to: '/business', label: 'För företag', position: 'left' },
           {
             href: 'https://www.facebook.com/groups/1695683603989665',
             label: 'Facebook',
+            position: 'right',
+          },
+          {
+            href: 'https://www.google.com', //TODO: Lägg till länk till kontakt
+            label: 'Kontakt',
             position: 'right',
           },
           {
