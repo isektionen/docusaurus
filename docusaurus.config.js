@@ -82,6 +82,7 @@ const config = {
           },
           { to: '/blog', label: 'Nyheter', position: 'left' },
           { to: '/business', label: 'Företag', position: 'left' },
+          { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
           
@@ -104,8 +105,36 @@ const config = {
       //footerns element
       footer: {
         style: 'dark',
-        links: [{title:"Väntar på att Hugo ska fixa footern"}],
-        copyright: `Copyright © ${new Date().getFullYear()} I-T gruppen.`,
+        links: [
+          {
+            title: 'Facebook',
+            items: [
+              {
+                html: `<a href="https://www.facebook.com/groups/1695683603989665">
+                Sektionens Facebooksida
+                </a>`,
+              }
+            ],
+          },
+          {
+            title: 'Github',
+            items: [
+              {
+                html: `<a href="https://github.com/koderik/docusaurus-iare"><img src="https://img.shields.io/github/stars/koderik/docusaurus-iare?style=social" alt="Stars"></a>`,
+              }
+            ],
+          },
+          {
+            title: 'KTH',
+            items: [
+              {
+                html: `<a href="https://www.kth.se/">KTH</a>`,
+              }
+            ],
+          },
+          
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} I-T gruppen. Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,

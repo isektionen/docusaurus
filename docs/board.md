@@ -27,4 +27,3 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 <img src={require("/static/img/Pas.png").default} width="230"/>
 
 <img src={require("/static/img/Ka.png").default} width="230"/>
-
