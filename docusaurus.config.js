@@ -85,7 +85,7 @@ const config = {
           { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
-          
+                  
           {
             href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
             label: 'Dokument',
@@ -104,7 +104,7 @@ const config = {
       },
       //footerns element
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Facebook',
@@ -120,7 +120,9 @@ const config = {
             title: 'Github',
             items: [
               {
-                html: `<a href="https://github.com/koderik/docusaurus-iare"><img src="https://img.shields.io/github/stars/koderik/docusaurus-iare?style=social" alt="Stars"></a>`,
+                html: `<a href="https://github.com/isektionen/docusaurus">
+                Github
+                </a>` 
               }
             ],
           },
@@ -134,7 +136,7 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} I-T gruppen. Built with Docusaurus`,
+        copyright: `Copyright © 2023 Produced by I-T gruppen. Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,
