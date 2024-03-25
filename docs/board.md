@@ -14,49 +14,58 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 <div style={{display: 'flex'}}>
 <figure>
 <img src={require("/static/img/Ordf.png").default} width="300"/> 
-<figcaption>Ordf. Edvin Fasth</figcaption>
+<figcaption>Ordf. Edvin Fasth
+ordf@iare.se</figcaption>
 </figure>
 
 <figure>
 <img src={require("/static/img/Kassor.png").default} width="300"/>
-<figcaption>Kassör. Axel Bertling</figcaption>
+<figcaption>Kassör. Axel Bertling
+kassor@iare.se</figcaption>
 </figure>
 
 <figure>
 <img src={require("/static/img/Admin.jpeg").default} width="300"/>
-<figcaption>Admin. David Selin</figcaption>
+<figcaption>Admin. David Selin
+admin@iare.se</figcaption>
 </figure>
 
 <figure>
 <img src={require("/static/img/Vice.jpeg").default} width="300"/>
-<figcaption>Vice Ordf. Frida Andersson</figcaption>
+<figcaption>Vice Ordf. Frida Andersson
+vice@iare.se</figcaption>
 </figure>
 
 <figure>
-<img src={require("/static/img/Na.png").default} width="250"/>
-<figcaption>NA. Edvin Ramström</figcaption>
+<img src={require("/static/img/Na.png").default} width="120"/>
+<figcaption>NA. Edvin Ramström
+naringslivsansvarig@iare.se</figcaption>
 </figure>
 </div>
 
 <div style={{display: 'flex'}}>
 <figure>
 <img src={require("/static/img/Event.jpeg").default} width="300"/>
-<figcaption>EA. Emma Hellström</figcaption>
+<figcaption>EA. Emma Hellström
+event@iare.se</figcaption>
 </figure>
 
 <figure>
 <img src={require("/static/img/Socialt.jpeg").default} width="300"/>
-<figcaption>SA. Emma Blomdahl</figcaption>
+<figcaption>SA. Emma Blomdahl
+socialt@iare.se</figcaption>
 </figure>
 
 <figure>
 <img src={require("/static/img/Pas.png").default} width="203"/>
-<figcaption>PAS. Leia Björlin</figcaption>
+<figcaption>PAS. Leia Björlin
+pas@iare.se</figcaption>
 </figure>
 
 <figure>
-<img src={require("/static/img/Ka.png").default} width="203"/>
-<figcaption>KA. Sofia Mobrin</figcaption>
+<img src={require("/static/img/Ka.png").default} width="123"/>
+<figcaption>KA. Sofia Mobrin
+kommunikation@iare.se</figcaption>
 
 </figure>
 </div>

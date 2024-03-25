@@ -85,14 +85,16 @@ const config = {
           { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
+          { to: '/askning', label: 'Äskningsformulär', position: 'right' },
+          
                   
           {
             href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
             label: 'Dokument',
-            position: 'left',
+            position: 'right',
           },
           {
-            href: 'https://www.facebook.com/groups/1695683603989665',
+            href: 'https://www.facebook.com/IndustriellEkonomiKTH',
             label: 'Facebook',
             position: 'right',
           },
@@ -107,15 +109,23 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Facebook',
+            title: 'Sociala medier',
             items: [
               {
-                html: `<a href="https://www.facebook.com/groups/1695683603989665">
+                html: `<a href="https://www.facebook.com/IndustriellEkonomiKTH">
                 Sektionens Facebooksida
                 </a>`,
-              }
-            ],
+              },
+
+              {
+                html: `<a href="https://www.instagram.com/isektionen_kth/">
+                Sektionens Instagramsida
+                </a>`,
+              }  
+              ],
+            
           },
+         
           {
             title: 'Github',
             items: [
@@ -136,7 +146,7 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © 2023 Produced by I-T gruppen. Built with Docusaurus`,
+        copyright: `Copyright © 2023 KA ansvarig utgivare, utvecklad av I-T gruppen`,
       },
       prism: {
         theme: lightCodeTheme,
