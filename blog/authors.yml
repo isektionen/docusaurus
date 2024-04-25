@@ -1,12 +1,13 @@
 it:
   name: IT Gruppen
   title: Vi fixar hemsidan
-  image_url: https://cdn.soccerwiki.org/images/player/14259.png
-
+  url: https://github.com/koderik
+  image_url: https://doggy.se/wp-content/uploads/2023/06/spaniel-kontorshund-smulan-doggy-1600x800-1.jpg
 nln:
   name: Näringslivsnämnden
   title: Vi sköter kontakten med näringslivet
-  image_url: https://github.com/yangshun.png
+  url: https://ikea.com
+  image_url: https://doggy.se/wp-content/uploads/2023/06/spaniel-kontorshund-smulan-doggy-1600x800-1.jpg  
 
 cmi:
   name: Klubbmästeriet
