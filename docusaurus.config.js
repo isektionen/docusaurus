@@ -79,16 +79,15 @@ const config = {
             type: 'dropdown',
             label: 'Sektionen',
             position: 'left',
-            to: '/docs/intro',
             items: [
               { to: '/docs/board', label: 'Styrelsen'},
               { to: '/trygghet', label: 'Trygghetsfunktioner' },
+              { to: '/docs/intro', label: 'Översikt'},
               
             ],
           },
 
           { to: '/blog', label: 'Nyheter', position: 'left' },
-          { to: '/business', label: 'Företag', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
           
           
