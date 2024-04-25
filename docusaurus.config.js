@@ -103,7 +103,7 @@ const config = {
             href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
             label: 'Dokument',
             position: 'right',
-          },
+
           {
             type: 'dropdown',
             label: 'Plugga på I',
