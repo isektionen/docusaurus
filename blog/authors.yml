@@ -1,19 +1,108 @@
 it:
   name: IT Gruppen
   title: Vi fixar hemsidan
-  url: https://github.com/koderik
-  image_url: https://www.google.com/search?sca_esv=572214004&rlz=1C1CHBD_svSE1021SE1021&sxsrf=AM9HkKn31rMovUq27KuW3q-k7j8yB8gn9Q:1696957525848&q=meme&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi2rJu0--uBAxV8RvEDHQpVAyAQ0pQJegQIDRAB&biw=1536&bih=739&dpr=1.25#imgrc=yVneuuLbmZNtqM
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
 
 nln:
   name: Näringslivsnämnden
   title: Vi sköter kontakten med näringslivet
-  url: https://ikea.com
   image_url: https://github.com/yangshun.png
 
 cmi:
   name: Klubbmästeriet
   title: Vi sköter krökandet
-  url: https://ikea.com
-  image_url: https://github.com/yangshun.png
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+idrott:
+  name: Idrottsnämnden
+  title: hoohaa
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+dagenI:
+  name: Dagen I
+  title: Går du i ettan, stanna hemma
+  image_url: https://dagenise.files.wordpress.com/2023/11/marke-dagen-i-2023.png?w=200
+
+geni:
+  name: GenI
+  title: Vi arbetar med JML-relaterade frågor
+  image_url: https://drive.google.com/drive/u/0/folders/15uwvHt4ieiZDLRDyx82U-Ah9haNW2IpG
+
+spexet:
+  name: ISpexet
+  title: woohoo spex
+  image_url: https://cdn.vox-cdn.com/thumbor/PzidjXAPw5kMOXygTMEuhb634MM=/11x17:1898x1056/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/72921759/vlcsnap_2023_12_01_10h37m31s394.0.jpg
+
+kmn:
+  name: Kommunikationsnämnden
+  title: Vi kommunicerar
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+internationella:
+  name: Internationella Gruppen
+  title: Vi ger extra merit
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+alumni:
+  name: I-Alumni
+  title: bruh
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+soft:
+  name: SOFT
+  title: byggare bob
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+mottagningen:
+  name: Mottagningen
+  title: vattenskål
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+estiem:
+  name: ESTIEM
+  title: resa
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+kravallen:
+  name: Kravallen
+  title: festival party party
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+styrelsen:
+  name: Styrelsen
+  title: poweeeeeer
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+valleb:
+  name: Valberedningen
+  title: aka valle-B
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+iskillnad:
+  name: I-Skillnad
+  title: blud
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+icase:
+  name: I-Case
+  title: joba på mckinsi
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+istart:
+  name: I-Start
+  title: entreprenörerna
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+studienämnden:
+  name: Studienämnden
+  title: plugg
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+ik:
+  name: Ingenjörskapital
+  title: stonks
+  image_url: https://cdn.soccerwiki.org/images/player/14259.png
+
+
 
 
