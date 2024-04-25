@@ -73,8 +73,9 @@ const config = {
           src: 'img/indeklogo.svg',
           srcDark: 'img/indeklogowhite.svg',
         },
-        hideOnScroll: false,
+        hideOnScroll: true,
         items: [
+          { to: '/blog', label: 'Aktuellt', position: 'left' },
           {
             type: 'dropdown',
             label: 'Sektionen',
@@ -82,29 +83,26 @@ const config = {
             to: '/docs/intro',
             items: [
               { to: '/docs/board', label: 'Styrelsen'},
-              { to: '/trygghet', label: 'Trygghetsfunktioner' },
-              
+              { to: '/doc-intro', label: 'Sektionskarta'},
+              {
+                href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
+                label: 'Dokument',
+              },
             ],
           },
 
           { to: '/blog', label: 'Nyheter', position: 'left' },
           { to: '/business', label: 'Företag', position: 'left' },
+          { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
-          
+          { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
+          { to: '/askning', label: 'Äskningsformulär', position: 'right' },
           
                   
           {
-            type: 'dropdown',
+            href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
             label: 'Dokument',
             position: 'right',
-            items: [
-              {
-                href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnk',
-                label: 'Dokument',
-              },
-              {href: 'https://drive.google.com/file/d/1w-9MTxMKx7OploFJI-0G9Wr_A832I0WW/view?usp=sharing', 
-              label: 'Äskningsformulär'},
-            ],
           },
           {
             type: 'dropdown',
@@ -117,11 +115,16 @@ const config = {
             ],
 
           },
-          
+          { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
           { to: '/business', label: 'För företag', position: 'left' },
           {
             href: 'https://www.facebook.com/IndustriellEkonomiKTH',
             label: 'Facebook',
+            position: 'right',
+          },
+          {
+            href: 'https://www.google.com', //TODO: Lägg till länk till kontakt
+            label: 'Kontakt',
             position: 'right',
           },
           {
