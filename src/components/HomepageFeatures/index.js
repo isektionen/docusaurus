@@ -23,7 +23,7 @@ const FeatureList = [
     
     
     <>
-    <Translate>Vi vill att alla ska må bra. Läs mer om hur vi jobbar med</Translate><a href="/docs/intro"><Translate>välmående</Translate></a> <Translate>på sektionen.</Translate>
+    <Translate>Vi vill att alla ska må bra. Läs mer om hur vi jobbar med</Translate><a href="/trygghet"><Translate>välmående</Translate></a> <Translate>på sektionen.</Translate>
     </>
       
     ),
