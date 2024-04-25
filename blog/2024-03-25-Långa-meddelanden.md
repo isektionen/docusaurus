@@ -7,7 +7,7 @@ tags: [it, hemsida]
 
 Lite info om denna nyhetskanal:
 
-Om det är väldigt långt blog inlägg kan en sammanfattning visas här. Tryck sedan på *Läs Mer* nere till höger för att se hela inlägget, precis som i detta fall.
+Om det är ett väldigt långt blogginlägg kan en sammanfattning visas här. Tryck sedan på *Läs Mer* nere till höger för att se hela inlägget, precis som i detta fall.
 
 <!-- truncate -->
 
