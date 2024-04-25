@@ -1,6 +1,6 @@
 ---
 slug: hej
-title: Kom på rekrytering
+title: Exempel
 authors: cmi
 tags: [cmi, alkohol]
 ---

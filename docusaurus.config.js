@@ -90,6 +90,20 @@ const config = {
               },
             ],
           },
+
+          { to: '/blog', label: 'Nyheter', position: 'left' },
+          { to: '/business', label: 'Företag', position: 'left' },
+          { to: '/doc-intro', label: 'Sektionskarta', position: 'left' },
+          { to: '/section', label: 'Om sektionen', position: 'left' },
+          { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
+          { to: '/askning', label: 'Äskningsformulär', position: 'right' },
+          
+                  
+          {
+            href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnkNJ6',
+            label: 'Dokument',
+            position: 'right',
+          },
           {
             type: 'dropdown',
             label: 'Plugga på I',
@@ -99,11 +113,12 @@ const config = {
               { to: '/for-sokande', label: 'För sökande'},
               { to: 'for-antagna', label: 'För antagna'},
             ],
+
           },
           { to: '/trygghet', label: 'Trygghetsfunktioner', position: 'left' },
           { to: '/business', label: 'För företag', position: 'left' },
           {
-            href: 'https://www.facebook.com/groups/1695683603989665',
+            href: 'https://www.facebook.com/IndustriellEkonomiKTH',
             label: 'Facebook',
             position: 'right',
           },
@@ -120,23 +135,33 @@ const config = {
       },
       //footerns element
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Facebook',
+            title: 'Sociala medier',
             items: [
               {
-                html: `<a href="https://www.facebook.com/groups/1695683603989665">
+                html: `<a href="https://www.facebook.com/IndustriellEkonomiKTH">
                 Sektionens Facebooksida
                 </a>`,
-              }
-            ],
+              },
+
+              {
+                html: `<a href="https://www.instagram.com/isektionen_kth/">
+                Sektionens Instagramsida
+                </a>`,
+              }  
+              ],
+            
           },
+         
           {
             title: 'Github',
             items: [
               {
-                html: `<a href="https://github.com/koderik/docusaurus-iare"><img src="https://img.shields.io/github/stars/koderik/docusaurus-iare?style=social" alt="Stars"></a>`,
+                html: `<a href="https://github.com/isektionen/docusaurus">
+                Github
+                </a>` 
               }
             ],
           },
@@ -150,7 +175,7 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} I-T gruppen. Built with Docusaurus`,
+        copyright: `Copyright © 2023 KA ansvarig utgivare, utvecklad av I-T gruppen`,
       },
       prism: {
         theme: lightCodeTheme,
