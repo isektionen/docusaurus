@@ -8,7 +8,7 @@ SOFt är nämnden för dig som är nyfiken och öppen för att lösa problem och
 
 ### Ordförande
 
-__Sakarias Åman Rosengren__ I-22, soft@iare.nu
+__Alexander Borén__ I-22, soft@iare.nu
 
 <img src={require("/static/img/Sakarias.jpg").default} width="230"/>
 

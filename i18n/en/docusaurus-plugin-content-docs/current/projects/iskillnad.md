@@ -1,7 +1,10 @@
 # iSkillnad
 
-iSkillnad is the chapter for Industrial Economics' committee with a focus on sustainability. Based on the Agenda 2030 goals, iSkillnad organizes various events during the year to draw attention to various sustainability issues. Our goal is to get more Iars involved in sustainability and to make it easier for the chapter as a whole to become more sustainable.
+Skillnad is a board initiative that aims to actively contribute to the UN's sustainability goals, Agenda 2030. Among other things, we act as a platform to facilitate the sustainability work of other boards and for the section as a whole. In addition, we also arrange our own events linked to Agenda 2030.
 
+Among other things, we organize breakfasts with companies that work with sustainability in various ways. In addition, every year we hold a Musikhjälpen pub where we in the section together collect money that is donated to Musikhjälpen. Our biggest event is the Run for Change charity race, where we run a race together with companies and donate money to charity at the same time.
+
+We collaborate both with other committees in the section and with charitable organizations to jointly contribute to a sustainable society.
 ### Chairman
 __Martha Päären__ I-22 iskillnad@iare.nu
 

@@ -1,16 +1,16 @@
 # Election Committee
 
-The Election Committee
-The chapter's Election Committee consists of three to seven elected members, of which one is the elected President and one seat is reserved for Ettan. The task of the election committee is to promote and manage the election process of all elected positions in the chapter before and during each chapter meeting. In practice, the election process is as follows:
+The election committee at the section consists of three to seven elected members, one of whom is the elected Chairman and one place is reserved for One. The election committee's task is to promote and manage the election process for all elected positions on the section before and during each section meeting. In practical terms, the selection process is as follows:
 
-The election committee opens the application period.
-Interested candidates apply and are then interviewed by the Election Committee.
-Once the Committee has interviewed all the candidates for a particular post, it produces a preamble, or recommendation, which is simply a justification of which candidate it considers most suitable for the post.
-The electoral committee moderates the elections during the associated chapter meeting where all candidates can give speeches and are then elected by the chapter members who attend. It is also possible to run for a position on the spot.
-The Election Committee takes great care to maintain the integrity of all applicants and to make the process as impartial and equal for all as possible. Nomination Committee interviews are designed to prepare the candidate for the SM and is a chance to brainstorm ideas for their speech and ask questions. The Election Committee uses the interview as a basis for compiling a list of candidates for each position - a very difficult task as all the applicant chapter members of the I-chapter are usually highly suitable - and it is worth pointing out that it is the chapter that ultimately chooses the elected representative and the Election Committee therefore encourages all candidates to continue their candidacy regardless of who was nominated.
+1. The selection committee opens the application period.
+2. Interested candidates apply and may then attend an interview with the Selection Committee.
+3. When the selection committee has interviewed all the candidates for a certain position, they draw up a preliminary statement, or recommendation, which is simply a justification for which candidate they consider to be the most suitable for the position.
+4. The election committee moderates the elections themselves during the associated section meeting where all candidates are allowed to give speeches and one/several are then elected by the section members who attend. It is also possible to apply for a post on site.
+
+The selection committee attaches great importance to maintaining the integrity of all applicants and to managing the process as impartially and equally for everyone as possible. The selection committee's interviews are for preparing the candidate for SM and are a chance to brainstorm ideas before their speech and ask questions. The selection committee uses the interview as a basis for compiling a foreword for each position - a very difficult task as all applicant section members of the I-Section are usually highly suitable - and it is worth pointing out that it is the section that ultimately chooses the elected representative and the selection committee encourages therefore all candidates to continue their candidacy regardless of who was nominated.
 
 ### President
 
-__Atle Johansson__ I-21 valberedningen@iare.nu
+__Harald Ingemarsson__ I-22 valberedningen@iare.nu
 
 <img src={require("/static/img/Atle.png").default} width="230"/>
