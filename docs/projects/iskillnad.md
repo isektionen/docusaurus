@@ -1,8 +1,11 @@
 # iSkillnad
 
-iSkillnad är Sektionen för Industriell Ekonomis nämnd med fokus upp hållbarhet. Med grund i Agenda 2030-målen anordnar iSkillnad olika event under året för att uppmärksamma olika hållbarhetsfrågor. Vårt mål är att få fler Iare engagerade i hållbarhet samt göra det lättare för sektionen i stort att bli mer hållbara.
+iSkillnad är ett nämndinitiativ som har som syfte att aktivt bidra till FNs hållbarhetsmål, Agenda 2030. Vi agerar bland annat som en plattform för att underlätta hållbarhetsarbetet hos andra nämnder samt för sektionen i sin helhet. Dessutom arrangerar vi även egna event kopplade till Agenda 2030.
 
+Vi anordnar bland annat frukostar med företag som jobbar med hållbarhet på olika sätt. Dessutom håller vi varje år en Musikhjälpen-pub där vi i sektionen tillsammans samlar in pengar som skänks till Musikhjälpen. Vårt största event är välgörenhetsloppet Run for Change, där vi tillsammans med företag springer ett lopp och samtidigt skänker pengar till välgörenhet.
+
+Vi samarbetar både med andra nämnder på sektionen och välgörenhetsorganisationer för att tillsammans bidra till ett hållbart samhälle.
 ### Ordförande
-__Martha Päären__ I-22 iskillnad@iare.nu
+__Saga Jakobsson__ I-23 iskillnad@iare.nu
 
 <img src={require("/static/img/Martha.jpg").default} width="230"/>

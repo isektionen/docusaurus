@@ -43,7 +43,6 @@ function EventCalendar() {
 
         const url = `https://www.googleapis.com/calendar/v3/calendars/${calendarId}/events?key=${apiKey}&timeMin=${beginningOfYearISO}`;
 
-
         const currentDate = new Date();
         const currentYear = currentDate.getUTCFullYear();
         const currentMonth = String(currentDate.getUTCMonth() + 1).padStart(2, '0');
@@ -57,15 +56,14 @@ function EventCalendar() {
                     end: item.end && (item.end.dateTime || item.end.date),
                 }));
                 // beginning of this month
-                const month_begin = new Date(currentYear, currentMonth - 1, 1).getTime();
                 const month_end = new Date(currentYear, currentMonth, 1).getTime();
-                
-
 
                 const upcomingEvents = eventData.filter(event => {
                     const eventTimestamp = new Date(event.start).getTime();
-                    return eventTimestamp >= month_begin && eventTimestamp < month_end;
+                    return eventTimestamp >= currentDate && eventTimestamp < month_end;
                 });
+
+                upcomingEvents.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
 
                 setEvents(upcomingEvents);
             })
