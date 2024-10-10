@@ -16,9 +16,9 @@ Nämnden består av 30-40 studenter som brinner för att skapa ett gott samarbet
 
 ### Ordförande
 
-__Alexandra Schwalbe__ 
-I-22
+__Gabriel Otta__ 
+I-23
 naringsliv@iare.nu
 
-<img src={require("/static/img/Alexandra.jpg").default} width="230"/>
+<img src={require("/static/img/Nln.jpg").default} width="230"/>
 

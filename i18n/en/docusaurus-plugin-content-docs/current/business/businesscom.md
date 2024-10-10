@@ -15,3 +15,10 @@ Collaborations result in various events intended for the students that are arran
 The committee consists of 30-40 students who are passionate about creating a good collaboration with the business community. This is so that the members of the chapter will ultimately get their dream job and/or internship. NLN is divided into two groups, with a chairman who helps and supervises the two groups in their work. One is the company group, which takes care of the day-to-day contact. The other is the event group, which administers and carries out all events organized by the NLN.
 
 ### Chairman
+
+__Gabriel Otta__
+I-23
+naringsliv@iare.nu
+
+<img src={require("/static/img/Nln.jpg").default} width="230"/>
+
