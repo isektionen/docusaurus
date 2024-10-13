@@ -28,4 +28,4 @@ You can reach ESTIEM's president at estiem@iare.nu or the local responsible at l
 #### President
 __Mathea Belsa Krohné__ I-23 estiem@iare.nu
 
-<img src={require("/static/img/Emil.jpg").default} width="230"/>
+<img src={require("/static/img/Estiem.jpg").default} width="230"/>

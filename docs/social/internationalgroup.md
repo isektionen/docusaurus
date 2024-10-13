@@ -2,12 +2,12 @@
 
 ### Vad är internationella gruppen?
 
-Internationella gruppen är en nämnd som syftar till att välkomna internationella studenter till I-sektionen. Vi skapar kontakt mellan utbytesstudenter och I-are. Under höst- respektive vårterminen kan du som I-are ansöka om att vara Buddy (fadder i Internationella mottagningen) och därmed delta på de event som anordnas. Antalet Buddies rekryteras utefter hur många utbytesstudenter som kommer. Om du har varit Buddy under en termin och deltagit i de event som anordnats kan du tillgodoräkna dig 0,2 i merit på ditt betygssnitt.
+Internationella gruppen är I-sektionens nämnd som står för inkludering av de internationella studenterna tillhörandes I-sektionen. Vi välkomnar de internationella studenterna till sektionen under THS internationella mottagning och finns där för att besvara deras frågor. Under året anordnar vi olika typer av event som riktar sig till de internationella studenterna, allt från pubar och matlagningskvällar till vandringar och sportevenemang. För att eventen ska bli så bra som möjligt samarbetar vi mycket med andra nämnder och kan därmed få hjälp med att anordna fler typer av event.
 
-Styrelsen för Internationella gruppen består i år av sex personer
-
+### Organisation
+I nuläget har internationella gruppen 30 medlemmar och organisationen är decentraliserad och dynamisk för att alla ska kunna vara med och komma med idéer och  ta egna initiativ.
 ### Ordförande
 
-__Oliver Folke__ I-22
+__Erik Folkman__ I-23, Internationellt@iare.nu
 
-<img src={require("/static/img/Oliver.jpg").default} width="230"/>
+<img src={require("/static/img/Internationella.jpg").default} width="230"/>

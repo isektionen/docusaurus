@@ -8,4 +8,4 @@ Till Skyddsombudet kan man vända sig om man vill anmäla incidenter, både i de
 
 __Sofia Tillman__ I-22 skyddsombud@iare.nu
 
-<img src={require("/static/img/Alma.jpg").default} width="230"/>
+<img src={require("/static/img/Skydd.jpg").default} width="230"/>

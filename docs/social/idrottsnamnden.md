@@ -1,11 +1,12 @@
 # Idrottsnämnden
-### Vad är Idrottsnämnden?
-Idrottsrådets syfte är att främja fysisk aktivitet, hälsa och kondition inom sektionen. Bara för att du studerar vid KTH betyder det inte att ditt liv som aktiv och hälsosam person är över. Vårt mål är att förena sektionen med roliga fysiska aktiviteter.
+### Organisation
+Idrottsnämnden består av ca 30 idrottsintresserade Iare från olika årskurser. Inom nämnden finns idag en styrgrupp bestående av en förtroendevald ordförande, vice ordförande, ekonomiansvarig, aktivitetsansvarig, kommunikationsansvarig och internansvarig, samt olika projektgrupper som utgörs av nämndens medlemmar. Projektgrupperna jobbar under året med att anordna olika typer av event för hela I-sektionen.
 
-Från pokerkvällar och klättring för nybörjare, till ett color-run där du kan hitta glädjen i att springa såväl som att kasta färg på andra. Idrottsrådet ska vara till för så många som möjligt och så ofta som möjligt. Vår vision är att vara den mest aktiva kommittén i sektionen. Fler kontinuerliga koncept som våra älskade padelligaspel men även veckolöpning för de som inte vågar våga sig ut i höstmörkret själva.... bör blandas med större evenemang som exempelvis skidresan.
+### Verksamhet
+Idrottsnämndens uppdrag är att erbjuda I-sektionens medlemmar ett brett utbud av olika idrottsrelaterade aktiviteter. Att balansera studierna med träning och sociala sammanhang är inte alltid helt lätt, något som Idrottsnämnden vill underlätta genom att erbjuda möjligheter till socialt umgänge i idrottens anda.
 
-Nämnden siktar framöver på att bestå av ca 30 medlemmar. För att alla ska få möjligheten att utvecklas på olika fronter har medlemmarna inga fasta ansvarsområden inom nämnden. Teamet bestämmer här tillsammans hur man tar sig an de olika eventen. Här kan en helt ny medlem vara ledande inför ett visst event som denne har extra stort intresse medan det i andra fall är fördelaktigt att ha tidigare erfarenhet.
-
+Några exempel på uppskattade aktiviteter som Idrottsnämnden anordnar under året är fotbollsmatcherna mot Handelshögskolan och Indek i Uppsala, skidresan till Alperna och löpgruppen I-run.
 ### Ordförande
-__Elisabeth Hvalgren__ I-22
-<img src={require("/static/img/Elisabeth.jpg").default} width="230"/>
+__John Nelson__ I-23
+idrott@iare.nu
+<img src={require("/static/img/Idrott.jpg").default} width="230"/>

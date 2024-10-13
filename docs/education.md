@@ -16,6 +16,6 @@ Kram Studienämnden
 
 ### Ordförande
 
-__Lisa Etzell__ I-21, sno@iare.nu
+__Jonathan Howser__ I-22, sno@iare.nu
 
-<img src={require("/static/img/Lisa.jpg").default} width="230"/>
+<img src={require("/static/img/Studie.jpg").default} width="230"/>

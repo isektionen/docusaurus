@@ -9,4 +9,4 @@ Spexdirecteur och nämndansvarig 2023/2024 är Alma Gunnarsson, I-21. För mer i
 
 *iSpexet – för ett riktigt roligt och studentikost år på KTH!*
 
-<img src={require("/static/img/Alma.jpg").default} width="230"/>
+<img src={require("/static/img/Ispexet.jpg").default} width="230"/>
