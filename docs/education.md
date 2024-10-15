@@ -19,3 +19,4 @@ Kram Studienämnden
 __Jonathan Howser__ I-22, sno@iare.nu
 
 <img src={require("/static/img/Studie.jpg").default} width="230"/>
+

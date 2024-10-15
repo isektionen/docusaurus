@@ -32,3 +32,24 @@
   --ifm-color-primary-lightest: #ffffff;
   --ifm-background-color: #0f0600;
 }
+
+.row {
+  display: flex; /* Use flexbox for layout */
+  flex-wrap: wrap; /* Allow wrapping of cards */
+  padding: 10px; /* Add padding for spacing */
+}
+
+.card {
+  display: flex; /* Use flexbox for the card */
+  flex-direction: column; /* Arrange children vertically */
+  justify-content: space-between; /* Distribute space evenly */
+  height: 100%; /* Make sure cards take full height of their parent */
+}
+
+.card__body {
+  flex-grow: 1; /* Allow the card body to grow */
+  padding: 20px; /* Add padding for spacing */
+  display: flex; /* Use flexbox for inner layout */
+  flex-direction: column; /* Arrange inner items vertically */
+  justify-content: space-between; /* Ensure the title, paragraph, and link are spaced evenly */
+}

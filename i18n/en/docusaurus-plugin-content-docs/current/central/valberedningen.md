@@ -13,4 +13,4 @@ The selection committee attaches great importance to maintaining the integrity o
 
 __Harald Ingemarsson__ I-22 valberedningen@iare.nu
 
-<img src={require("/static/img/Val.png").default} width="230"/>
+<img src={require("/static/img/Val.jpg").default} width="230"/>

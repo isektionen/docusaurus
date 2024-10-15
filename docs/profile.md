@@ -1,4 +1,0 @@
-# Grafisk Profil
-
-# Logotyper
-

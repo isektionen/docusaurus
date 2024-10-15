@@ -98,7 +98,7 @@ const config = {
             position: 'right',
             items: [
               {
-                href: 'https://drive.google.com/drive/u/0/folders/1FpFpRoUvu_zvAaiXydCgSrEMjJWnk',
+                href: 'https://drive.google.com/drive/folders/1v3UvdSYbOsk1f2zUqJ3VmoEz9vevuJKe?usp=drive_link',
                 label: 'Dokument',
               },
               {href: 'https://drive.google.com/file/d/1w-9MTxMKx7OploFJI-0G9Wr_A832I0WW/view?usp=sharing', 
@@ -137,27 +137,22 @@ const config = {
             title: 'Sociala medier',
             items: [
               {
-                html: `<a href="https://www.facebook.com/IndustriellEkonomiKTH">
-                Sektionens Facebooksida
-                </a>`,
+                html: `<a href="https://www.facebook.com/IndustriellEkonomiKTH"><img src="/img/facebook.svg" style="margin-right: 5px" width ="31" alt=""/></a>
+                <a href="https://www.instagram.com/isektionen_kth/"><img src="/img/instagram.svg" style="margin-right: 4px" width ="31" alt=""/></a>
+                <a href="https://calendar.google.com/calendar/u/0/embed?src=iare.nu_pre97odp8btuq3u2a9i6u3fnbc@group.calendar.google.com&ctz=Europe/Stockholm"><img src="/img/googlecal.svg" width ="31" alt=""/></a>`,
               },
 
-              {
-                html: `<a href="https://www.instagram.com/isektionen_kth/">
-                Sektionens Instagramsida
-                </a>`,
-              }  
               ],
             
           },
-         
+
           {
             title: 'Github',
             items: [
               {
                 html: `<a href="https://github.com/isektionen/docusaurus">
-                Github
-                </a>` 
+                <img src="/img/github.svg" alt=""/>
+                </a>`
               }
             ],
           },
@@ -165,7 +160,7 @@ const config = {
             title: 'KTH',
             items: [
               {
-                html: `<a href="https://www.kth.se/">KTH</a>`,
+                html: `<a href="https://www.kth.se/"><img src="/img/kth.svg" width ="28" alt=""></a>`,
               }
             ],
           },

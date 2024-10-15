@@ -9,4 +9,8 @@ Spex director and committee manager 2023/2024 is Alma Gunnarsson, I-21. For more
 
 *iSpexet – for a really fun and student-friendly year at KTH!*
 
+### Directeur
+
+__Gustaf Petersson__ I-21
+
 <img src={require("/static/img/Ispexet.jpg").default} width="230"/>

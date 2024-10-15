@@ -11,4 +11,9 @@ The I-chapter's mentoring program will also be continued and pushed forward. It 
 
 In addition, the goal is to create and launch the I-chapter's own alumni podcast where knowledge from interested alumni can be disseminated and a greater insight into their professional life can be given, in an easily accessible way via mobile or similar. 
 
-Involvement in I-Alumni means varied work with many different types of projects. For those who want, there is a lot of responsibility to bear 
+Involvement in I-Alumni means varied work with many different types of projects. For those who want, there is a lot of responsibility to bear .
+
+### President
+__Edvin Röhr__ I-23 alumni@iare.nu
+
+<img src={require("/static/img/Ialumni.jpg").default} width="230"/>
