@@ -1,19 +1,12 @@
 # Dagen-I
-Dagen I är sektionen för Industriell Ekonomis egna arbetsmarknadsdag. Organisationen är en nämnd
-inom sektionen sedan 2011 för att ge studenter från civilingenjörsprogrammet och masterprogrammet i
-Industriell Ekonomi möjlighet att träffa företag och olika arbetsgivare. Detta ger “I-studenter”
-möjligheten att bygga upp värdefulla relationer för framtiden. Det är också platsen där företag har
-möjlighet att nå ut och träffa toppstudenter från I-programmet.
+Dagen I är Industriell Ekonomis egen arbetsmarknadsdag, där vi ger dig chansen att knyta värdefulla kontakter med företag och arbetsgivare. Sedan 2011 har vi jobbat för att skapa de bästa forumen för studenter från Industriell Ekonomi, så att du kan möta företagen som kan bli din framtida arbetsplats.
 
-Under arbetsmarknadsdagarna hålls ett antal evenemang såsom frukost- och lunchföreläsningar samt
-workshops både på KTH Campus och på plats hos företagen. Arbetsmarknadsdagarna avslutas med en
-mässa och en festlig bankett för både företagsrepresentanter och I-studenter.
+Under Eventveckan, veckan innan Dagen I, händer det mycket kul, som frukost- och lunchföreläsningar samt kvällsevent både på KTH Campus och ute hos företagen. Dagarna avslutas med en stor mässa och en bankett där både företagsrepresentanter och studenter är välkomna att delta och mingla.
 
-Vår ambition är att skapa en karriärmässa på engelska med ett brett utbud av utställande företag som väl
-representerar den framtida arbetsmarknaden som väntar våra studenter samt utbytesstudenter efter
-examen.
+Vår målsättning är att skapa en karriärmässa med ett brett urval av företag som speglar de områden du studerar och vill arbeta inom efter examen. Dagen - I består av ca 40 medlemmar som tillsammans jobbar mot en händelsefylld vecka.
 
-Kontakt om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se,
-kontakta projektledaren på projektledare@dageni.se eller näringslivsansvariga på naringsliv@dageni.se.
-### Projektledare Dagen I 2023/2024
-__Ellinor Schmekel__ I-22
+Om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se, eller kontakta projektledaren på projektledare@dageni.se
+### Projektledare Dagen I 2024/2025
+__Timur Armak__ I-23, dageni@iare.nu    
+<img src={require("/static/img/Dageni.jpg").default} width="230"/>
+

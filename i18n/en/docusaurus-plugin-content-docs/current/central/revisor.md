@@ -26,8 +26,8 @@ As an auditor, you can also provide both feedback and suggestions to other elect
 To get in touch with the audit, you can contact the auditors at revisorer@iare.nu
 
 #### Auditors,
-__Johan Svensson__, I-22 __Max Kenning__, I-21 
+__Gustaf Svensson__, I-19 __Max Kenning__, I-21 
 
 
 
-<img src={require("/static/img/Johan.jpg").default} width="230"/>.
+<img src={require("/static/img/Revisor.jpg").default} width="500"/>.

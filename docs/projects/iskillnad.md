@@ -8,4 +8,4 @@ Vi samarbetar både med andra nämnder på sektionen och välgörenhetsorganisat
 ### Ordförande
 __Saga Jakobsson__ I-23 iskillnad@iare.nu
 
-<img src={require("/static/img/Martha.jpg").default} width="230"/>
+<img src={require("/static/img/Iskillnad.jpg").default} width="230"/>

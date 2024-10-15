@@ -15,6 +15,6 @@ Engagemang i I-Alumni innebär varierande arbete med många olika typer av proje
 
 ### Ordförande
 
-__Richard Ericson__ I-22 alumni@iare.nu
+__Edvin Röhr__ I-23 alumni@iare.nu
 
-<img src={require("/static/img/Richard.jpg").default} width="230"/>
+<img src={require("/static/img/Ialumni.jpg").default} width="230"/>

@@ -2,19 +2,27 @@
 
 ### What is I-Case?
 
-I-Case is an attractive recruitment platform for the Stockholm business community. The board's purpose is best described as a bridge between Stockholm's business community and the I-Case students. As a member of I-Case, you get to develop your skills in case solving while visiting a variety of companies during the year that are interested in recruiting you!
+I-Case is an attractive recruitment platform for Stockholm’s business community. The committee’s purpose is best described as a bridge between Stockholm’s business sector and the students of the I-Chapter. Through I-Case, you get to develop your skills in case-solving while visiting a variety of companies throughout the year that are interested in recruiting you!
 
-### Activities
+### Size and Organization
+I-Case as an organization consists of a board that works hard to connect students in the Industrial Engineering chapter with potential future employers. We always recruit first-year students to ensure the committee’s future.
 
-As one of the board's 70 members, you will be invited to several events during the academic year at different companies. The structure of a case evening can vary, but in general it usually goes as follows:
+Additionally, all students in the Industrial Engineering section are welcome to attend our events (subject to availability)!
 
-+ Case solution in group, you get a business case to be solved and presented.
-+ Presentation of the completed case - valuable feedback from company representatives.
-+ Dinner and mingle with company representatives
-+ I-Case is here for everyone (regardless of academic age) and also offers training in basic economic models and approaches as well as case-oriented presentation techniques! Towards the end of the year, the case competition I-Case Challenge is organized where I-students from KTH, LTH, LTU, CTH and LiTH compete against each other.
+Our events vary but usually have the following format:
+- Group case-solving, where you receive a business case to solve and present
+- Presentation of the completed case and valuable feedback from company representatives
+- Dinner and mingling with company representatives
+- Case practice at school, which for instance can be practice prior to your case interview
 
-### Organization
+I-Case is open to everyone (regardless of academic year) and also offers training in basic economic models and approaches as well as case-oriented presentation techniques! Towards the end of the year, we organize the I-Case Challenge case competition where Industrial Engineering students from KTH, LTH, LTU, CTH, and LiTH compete against each other. We also organize TIMES together with ESTIEM, which is the European Championship in case-solving for IEM-students!
 
-I-Case as an organization consists of a board that works hard to connect students at the I-chapter to potential future employers. We always recruit the first place to secure the board's future. As a member, no voluntary work is required, but the requirements for a member are presence at the events, a cheerful mood and curiosity!
+All that is required from participants at our events is a positive attitude and curiosity!
 
-### Contact
+### Chairman
+
+__Erik Bringle__ I-23
+i-case@iare.nu
+
+<img src={require("/static/img/Icase.jpg").default} width="230"/>
+

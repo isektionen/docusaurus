@@ -29,4 +29,4 @@ Det finns många privatpersoner som vill hyra ut rum eller lägenheter i Stockho
 
 Gustaf Svensson, ÖPH
 
-<img src={require("/static/img/Emil.jpg").default} width="230"/>
+<img src={require("/static/img/Oph.jpg").default} width="230"/>

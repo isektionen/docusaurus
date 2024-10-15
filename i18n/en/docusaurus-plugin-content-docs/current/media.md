@@ -8,6 +8,6 @@ KMN consists of four groups that ensure that the chapter's communication and pub
 
 ### Reporter
 
-__Thea Averskog__ I-22, reporter@iare.nu
+__Tuva Gunnarsson__ I-23, reporter@iare.nu
 
-<img src={require("/static/img/Thea.jpg").default} width="230"/>
+<img src={require("/static/img/Kmn.jpg").default} width="230"/>

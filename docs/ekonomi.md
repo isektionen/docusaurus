@@ -20,6 +20,6 @@ Under året anordnar vi i IK tillsammans med samarbetspartners olika rekrytering
 
 ### Ordförande
 
-__Harald Carling__ I-22, ordforande.ik@iare.nu
+__Stellan Ban Spaak__ I-23, ordforande.ik@iare.nu
 
-<img src={require("/static/img/Harald.jpg").default} width="230"/>
+<img src={require("/static/img/Ik.jpg").default} width="230"/>

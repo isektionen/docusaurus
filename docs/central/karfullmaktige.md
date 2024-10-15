@@ -4,6 +4,6 @@ Kårfullmäktige är sektionens möjlighet till att påverka THS (Tekniska Högs
 
 Under verksamhetsåret 2023/2024 har I-sektionen 3 ledamöter i Kårfullmäktige. Dessa är:
 
-__Linn Rågmo__, I-21  
-__Gustaf Lembre__, I-22  
-__Gustaf Svensson__, I-19
+__Harald Ingemarsson__, I-22  
+__Frida Andersson__, I-21  
+__Suppleant Alma Gunnarsson__, I-21

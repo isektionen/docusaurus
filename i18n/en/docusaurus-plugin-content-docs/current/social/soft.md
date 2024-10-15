@@ -10,4 +10,4 @@ SOFt is the committee for those who are curious and open to solving problems and
 
 __Alexander Borén__ I-22, soft@iare.nu
 
-<img src={require("/static/img/Sakarias.jpg").default} width="230"/>.
+<img src={require("/static/img/Soft.jpg").default} width="230"/>.

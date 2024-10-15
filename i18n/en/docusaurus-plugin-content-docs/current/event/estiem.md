@@ -1,16 +1,31 @@
 # ESTIEM
-ESTIEM, European Students of Industrial Engineering and Management, is a cooperation organization for European students studying Industrial Engineering and Management. The purpose of ESTIEM is to socialize and make contacts between I-students from all over Europe. This is achieved through, among other things, study visits with the aim of developing knowledge for study and working life, but also to travel, discover other cities and countries and at the same time of course have a lot of fun! Within the organization, events of various kinds are organized, from academic to purely social. "Work hard play hard" is the common denominator during all the different events, which also means that there is usually a party well into the small hours for those who want to.
 
-### Activities
-ESTIEM at KTH works in projects and organizes a few major events per year. Examples of these are the case solution competition TIMES (Tournament In Management and Engineering Skills), where the best teams from each university go on to semi-finals and finally a final to select the European champions, and Destination X, a trip where about 50 I-students go to an unknown destination to have fun together. In addition to this, we also organize smaller exchanges with other ESTIEMers, where we for example travel as a group to another city in Europe to hang out with other I-students and have fun!
+ESTIEM does not purely operate as a committee here at KTH but exists as part of a
+bigger organization in Europe with the same name (European Students of Industrial
+Engineering and Management). The purpose of ESTIEM is to promote international
+relationships among all IEM students and support their personal development.
 
-### Organization
-ESTIEM at KTH is made up of a small board and a number of project managers. After recruitment in the fall, each project manager is assigned a project group. There are about 30 members in total where 4 people are board members and 4 project leaders.
+As a member of the committee you will have the opportunity to discover different
+cultures through exciting trips, festivals and often weekend long exchanges across the
+whole continent. ESTIEM also arranges the biggest case competition for IEM students,
+study visits and various courses where students can network with companies and
+develop skills and experiences that complements their academic education. The
+common ground for all of these events is that they offer affordable trips, enjoyable
+company and often night-long parties for those who want to join.
+
+Aside from traveling around Europe, our members often participate in project groups
+for our events held exclusively for the chapter members like cozy quiz pubs, the
+renowned Destination X and the local qualification round for the big yearly case
+competition.
+
+If you want to know more about us or have any questions you are welcome to swing by
+our recruitment pub and get the chance to win a guaranteed spot for Destination X! We
+are looking forward to receiving your application and meeting you for an interview!
 
 ### Contact
 You can reach ESTIEM's president at estiem@iare.nu or the local responsible at lr_stockholm@estiem.org
 
 #### President
-__Namn__ I-XX estiem@iare.nu
+__Mathea Belsa Krohné__ I-23 estiem@iare.nu
 
-<img src={require("/static/img/Emil.jpg").default} width="230"/>
+<img src={require("/static/img/Estiem.jpg").default} width="230"/>

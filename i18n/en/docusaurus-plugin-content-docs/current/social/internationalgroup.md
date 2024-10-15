@@ -2,12 +2,12 @@
 
 ### What is the International Group?
 
-The International Group is a committee that aims to welcome international students to the I-chapter. We create contact between exchange students and I-ers. During the autumn and spring semesters you can apply to be a Buddy (sponsor in the International Reception) and thus participate in the events that are organized. The number of Buddies is recruited according to how many exchange students arrive. If you have been a Buddy for a semester and participated in the events organized, you can add 0.2 credits to your grade point average.
+The International Group is the committee within the I-Chapter responsible for the inclusion of international students belonging to the I-Chapter. We welcome international students to our chapter during THS International Reception and are available to answer their questions. During the year, we organize various events for the international students, everything from pub nights and cooking evenings to hikes and sports events. To make the events as successful as possible, we collaborate with other committees, allowing us to arrange a wider variety of activities.
 
-This year the board of the International Group consists of six people
-
+### Organization
+Currently, the International Group has 30 members, and the organization is decentralized and dynamic, allowing members to contribute ideas and take their own initiatives.
 ### President
 
-Oliver Folke__ I-22
+__Erik Folkman__ I-23, Internationellt@iare.nu
 
-<img src={require("/static/img/Oliver.jpg").default} width="230"/>
+<img src={require("/static/img/Internationella.jpg").default} width="230"/>
