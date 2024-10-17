@@ -3,9 +3,7 @@
 //importerar också Hero, vilket står för att loggan ändrar färg när man öppnar sidan
 import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import { useMediaQuery } from 'react-responsive'; // Import useMediaQuery
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
@@ -69,6 +67,7 @@ function HomepageHeader() {
             // add brown 3d stroke to bottom left of text
             // make it drop font 
             textShadow: '2px 2px #7d5a3e',
+            color: 'white',
 
 
 
@@ -79,6 +78,7 @@ function HomepageHeader() {
         <p className="hero__subtitle" style={{
           fontSize: isDesktop ? '2rem' : '1.2rem', // Use different font sizes based on screen width
           textShadow: '2px 2px #7d5a3e',
+          color: 'white'
           // add text stroke
 
         }}>{siteConfig.tagline}</p>

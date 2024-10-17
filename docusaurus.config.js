@@ -87,7 +87,7 @@ const config = {
             ],
           },
 
-          { to: '/blog', label: 'Nyheter', position: 'left' },
+          { to: '/blog', label: 'Aktuellt', position: 'left' },
           { to: '/section', label: 'Om sektionen', position: 'left' },
           
           
