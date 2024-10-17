@@ -1,10 +1,17 @@
 //Exporterar "Kommande evenemang" till index.js under \pages
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import axios from 'axios';
 import { EventCalendar } from './calendar';
 import Translate from '@docusaurus/Translate';
+import Link from "@docusaurus/Link";
+import BcgIcon from '@site/static/img/bcg.svg';
+import AvgIcon from '@site/static/img/AVG.svg';
+import EmcIcon from '@site/static/img/Emc.svg';
+import DeloitteIcon from '@site/static/img/Deloitte.svg';
+import McKinseyIcon from '@site/static/img/mckinsey.svg';
+import BainIcon from '@site/static/img/bain.svg';
+import PwcIcon from '@site/static/img/pwc.svg';
 
 const FeatureList = [
   {
@@ -12,7 +19,10 @@ const FeatureList = [
     img: require('@site/static/img/reception.jpg').default,
     description: (
       <>
-        <Translate>Vill du engagera dig i sektionen? Kolla in våra</Translate><a href="/docs/intro"><Translate>nämnder</Translate></a><Translate>och hitta en som passar dig!</Translate>
+        <Translate>Vill du engagera dig i sektionen? Kolla in våra</Translate><Link
+            to={process.env.DOCUSAURUS_CURRENT_LOCALE === 'sv' ? '/docs/intro' : '/en/docs/intro'}>
+        <Translate>nämnder</Translate>
+        </Link><Translate>och hitta en som passar dig!</Translate>
       </>
     ),
   },
@@ -23,7 +33,10 @@ const FeatureList = [
     
     
     <>
-    <Translate>Vi vill att alla ska må bra. Läs mer om hur vi jobbar med</Translate><a href="/trygghet"><Translate>välmående</Translate></a> <Translate>på sektionen.</Translate>
+    <Translate>Vi vill att alla ska må bra. Läs mer om hur vi jobbar med</Translate><Link
+        to={process.env.DOCUSAURUS_CURRENT_LOCALE === 'sv' ? '/trygghet' : '/en/trygghet'}>
+      <Translate>välmående</Translate>
+    </Link><Translate>på sektionen.</Translate>
     </>
       
     ),
@@ -36,7 +49,10 @@ const FeatureList = [
     
     <>
       <Translate>Vill du samarbeta med oss? Läs mer om hur vi jobbar med</Translate>
-        <a href="/business"><Translate>företag</Translate></a> <Translate>på sektionen.</Translate>
+     <Link
+          to={process.env.DOCUSAURUS_CURRENT_LOCALE === 'sv' ? '/business' : '/en/business'}>
+        <Translate>företag</Translate>
+      </Link><Translate>på sektionen.</Translate>
     </>
       
       
@@ -49,7 +65,7 @@ function Feature({ img, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img role="img" src={img}/>
+        <img role="img" src={img} alt={""}/>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -77,8 +93,6 @@ export default function HomepageFeatures() {
 
 
 
-
-
         <div className="row">
 
           {FeatureList.map((props, idx) => (
@@ -87,7 +101,49 @@ export default function HomepageFeatures() {
 
 
         </div>
+          <div className="text--center">
+              <h2 style={{textAlign: "center"}}>
+                  <Translate>
+                      Huvudsamarbetspartner
+                  </Translate>
+              </h2>
+              <a href={"https://www.bcg.com/"}><BcgIcon width={300} height={200}/></a>
+          </div>
+          <div className="text--center">
+              <h2>
+                  <Translate>
+                      Våra Samarbetspartners
+                  </Translate>
+              </h2>
+          </div>
+          <div className="row" style={{ justifyContent: "center", textAlign: "center" }}>
+              <div className="col col--3">
+                  <a href={"https://appliedvaluegroup.com/"}><AvgIcon width={200} height={100}/></a>
+              </div>
+
+              <div className="col col--3">
+                    <a href={"https://www.ericsson.com/en/careers/strategic-programs-practice"}><EmcIcon width={200} height={100}/></a>
+              </div>
+
+              <div className="col col--3">
+                    <a href={"https://www2.deloitte.com/se/sv.html"}><DeloitteIcon width={200} height={100}/></a>
+              </div>
+          </div>
+          <div className="row" style={{ justifyContent: "center", textAlign: "center" }}>
+              <div className="col col--3">
+                  <a href={"https://www.mckinsey.com/careers/"}><McKinseyIcon width={200} height={100}/></a>
+              </div>
+
+              <div className="col col--3">
+                  <a href={"https://www.bain.com/"}><BainIcon width={200} height={100}/></a>
+              </div>
+
+              <div className="col col--3">
+                  <a href={"https://www.pwc.se/karriar/"}><PwcIcon width={200} height={100}/></a>
+              </div>
+          </div>
       </div>
+
     </section>
   );
   
