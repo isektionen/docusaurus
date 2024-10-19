@@ -88,7 +88,7 @@ const config = {
           },
 
           { to: '/blog', label: 'Aktuellt', position: 'left' },
-          { to: '/section', label: 'Om sektionen', position: 'left' },
+          { to: '/section', label: 'Om Sektionen', position: 'left' },
           
           
                   
@@ -117,7 +117,7 @@ const config = {
 
           },
           
-          { to: '/business', label: 'För företag', position: 'left' },
+          { to: '/business', label: 'För Företag', position: 'left' },
           {
             href: 'https://www.facebook.com/IndustriellEkonomiKTH',
             label: 'Facebook',
