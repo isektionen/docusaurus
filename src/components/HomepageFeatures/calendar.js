@@ -54,12 +54,13 @@ function EventCalendar() {
                     start: item.start && (item.start.dateTime || item.start.date),
                     end: item.end && (item.end.dateTime || item.end.date),
                 }));
-                // beginning of this month
-                const month_end = new Date(currentYear, currentMonth, 1).getTime();
+
+                // two weeks from now
+                const two_weeks_from_now = new Date(currentDate.getTime() + 14 * 24 * 60 * 60 * 1000).getTime();
 
                 const upcomingEvents = eventData.filter(event => {
                     const eventTimestamp = new Date(event.start).getTime();
-                    return eventTimestamp >= currentDate && eventTimestamp < month_end;
+                    return eventTimestamp >= currentDate && eventTimestamp < two_weeks_from_now;
                 });
 
                 upcomingEvents.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
