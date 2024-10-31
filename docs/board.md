@@ -97,7 +97,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Mimi First Carr</h4>
-        <p>Näringslivsansvarig Ansvarig</p>
+        <p>Näringslivsansvarig</p>
         <a href="mailto:naringslivsansvari@iare.nu">naringslivsansvarig@iare.nu</a>
       </div>
     </div>
