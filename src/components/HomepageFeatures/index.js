@@ -36,7 +36,7 @@ const FeatureList = [
     <Translate>Vi vill att alla ska må bra. Läs mer om hur vi jobbar med</Translate><Link
         to={process.env.DOCUSAURUS_CURRENT_LOCALE === 'sv' ? '/trygghet' : '/en/trygghet'}>
       <Translate>välmående</Translate>
-    </Link><Translate>på sektionen.</Translate>
+    </Link><Translate> på sektionen.</Translate>
     </>
       
     ),
@@ -52,7 +52,7 @@ const FeatureList = [
      <Link
           to={process.env.DOCUSAURUS_CURRENT_LOCALE === 'sv' ? '/business' : '/en/business'}>
         <Translate>företag</Translate>
-      </Link><Translate>på sektionen.</Translate>
+      </Link><Translate> på sektionen.</Translate>
     </>
       
       

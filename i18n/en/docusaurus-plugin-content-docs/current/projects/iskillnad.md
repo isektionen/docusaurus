@@ -1,3 +1,6 @@
+---
+pagination_prev: event/reception 
+---
 # iSkillnad
 
 Skillnad is a board initiative that aims to actively contribute to the UN's sustainability goals, Agenda 2030. Among other things, we act as a platform to facilitate the sustainability work of other boards and for the section as a whole. In addition, we also arrange our own events linked to Agenda 2030.

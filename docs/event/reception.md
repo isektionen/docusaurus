@@ -1,3 +1,6 @@
+---
+pagination_next: projects/iskillnad
+---
 # Mottagningen
 
 Mottagningen handlar om att på absolut bästa sätt, med porterbruna ovvar och schmeckar, välkomna den nya generationen I-are. Med två veckor till terminsstart samlas vi på campus och tar emot de nyantagna på det bästa sättet vi kan! Mottagningen är sektionens största event med över 170 medlemmar som finns där för n0llans skull!

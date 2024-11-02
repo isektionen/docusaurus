@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+pagination_next: central/karfullmaktige
 ---
 
 # Styrelsen
@@ -97,7 +98,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Mimi First Carr</h4>
-        <p>Näringslivsansvarig Ansvarig</p>
+        <p>Näringslivsansvarig</p>
         <a href="mailto:naringslivsansvari@iare.nu">naringslivsansvarig@iare.nu</a>
       </div>
     </div>
@@ -114,7 +115,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Emilia Frykholm</h4>
         <p>Programansvarig Student</p>
-        <a href="mailto:pas@iare.nu">pas@iare.nu</a>
+        <a href="mailto:programansvarigstudent@iare.nu">programansvarigstudent@iare.nu</a>
       </div>
     </div>
   </div>

@@ -9,12 +9,11 @@ function formatDate(isoString) {
     if (!isoString) return '';
     const date = new Date(isoString);
 
-    const year = date.getUTCFullYear();
-    const month = String(date.getUTCMonth() + 1).padStart(2, '0');  // months are from 0 to 11
-    const day = String(date.getUTCDate()).padStart(2, '0');
-// add 2h to hours to get swedish time
-    const hours = String(date.getUTCHours() + 2).padStart(2, '0');
-    const minutes = String(date.getUTCMinutes()).padStart(2, '0')
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');  // months are from 0 to 11
+    const day = String(date.getDate()).padStart(2, '0');
+    let hours = String(date.getHours()).padStart(2, '0');
+    const minutes = String(date.getMinutes()).padStart(2, '0')
 
     return `${year}-${month}-${day} ${hours}:${minutes}`;
 }
@@ -55,12 +54,13 @@ function EventCalendar() {
                     start: item.start && (item.start.dateTime || item.start.date),
                     end: item.end && (item.end.dateTime || item.end.date),
                 }));
-                // beginning of this month
-                const month_end = new Date(currentYear, currentMonth, 1).getTime();
+
+                // two weeks from now
+                const two_weeks_from_now = new Date(currentDate.getTime() + 14 * 24 * 60 * 60 * 1000).getTime();
 
                 const upcomingEvents = eventData.filter(event => {
                     const eventTimestamp = new Date(event.start).getTime();
-                    return eventTimestamp >= currentDate && eventTimestamp < month_end;
+                    return eventTimestamp >= currentDate && eventTimestamp < two_weeks_from_now;
                 });
 
                 upcomingEvents.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());

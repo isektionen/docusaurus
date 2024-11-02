@@ -1,3 +1,6 @@
+---
+pagination_next: projects/iskillnad
+---
 # The reception
 
 The reception is about welcoming the new generation of I-are in the absolute best way, with porter-brown ovvars and schmecks. With two weeks until the start of the semester, we gather on campus and welcome the newly admitted students in the best way we can! The reception is the section's biggest event with over 170 members who are there for zero!

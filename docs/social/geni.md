@@ -1,3 +1,6 @@
+---
+pagination_prev: projects/seniorkollegiet
+---
 # GenI
 ### Vad är Geni?
 GenI, förkortning av ”Genus på I”, är I-sektionens JML-nämnd och finns till som en plattform för diskussion av JML-frågor. JML står för jämställdhet, mångfald och likabehandling, och GenI uppmärksammar och arbetar aktivt med JML-relaterade frågor och inkludering, med målet att alla ska kunna känna sig välkomna och trygga med att vara sig själva på I-sektionen. 
