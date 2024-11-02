@@ -115,7 +115,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Emilia Frykholm</h4>
         <p>Programansvarig Student</p>
-        <a href="mailto:pas@iare.nu">pas@iare.nu</a>
+        <a href="mailto:programansvarigstudent@iare.nu">programansvarigstudent@iare.nu</a>
       </div>
     </div>
   </div>

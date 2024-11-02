@@ -118,7 +118,7 @@ The board meets several times a week and officially meets five times a year. Our
       <div class="card__body">
         <h4>Emilia Frykholm</h4>
         <p>Pas</p>
-        <a href="mailto:pas@iare.nu">pas@iare.nu</a>
+        <a href="mailto:programansvarigstudent@iare.nu">programansvarigstudent@iare.nu</a>
       </div>
     </div>
   </div>

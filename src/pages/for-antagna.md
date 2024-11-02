@@ -27,6 +27,6 @@ Det finns många privatpersoner som vill hyra ut rum eller lägenheter i Stockho
 
 **Välkommen!**
 
-Gustaf Svensson, ÖPH
+ÖPH
 
 <img src={require("/static/img/Oph.jpg").default} width="230"/>
