@@ -1,3 +1,6 @@
+---
+pagination_prev: central/valberedningen
+---
 # NLN
 
 ### Organization:

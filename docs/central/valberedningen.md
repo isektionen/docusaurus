@@ -1,3 +1,6 @@
+---
+pagination_next: business/businesscom
+---
 # Valberedningen
 
 Valberedningen på sektionen består av tre till sju förtroendevalda ledamöter, varav en är förtroendevald Ordförande och en plats är reserverad för Ettan. Valberedningens uppgift är att marknadsföra och sköta valprocessen av alla förtroendevalda poster på sektionen inför och under varje sektionsmöte. Valprocessen går rent praktiskt till som följande:

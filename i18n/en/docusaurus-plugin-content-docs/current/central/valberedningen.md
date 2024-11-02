@@ -1,3 +1,7 @@
+---
+pagination_next: business/businesscom
+---
+
 # Election Committee
 
 The election committee at the section consists of three to seven elected members, one of whom is the elected Chairman and one place is reserved for One. The election committee's task is to promote and manage the election process for all elected positions on the section before and during each section meeting. In practical terms, the selection process is as follows:

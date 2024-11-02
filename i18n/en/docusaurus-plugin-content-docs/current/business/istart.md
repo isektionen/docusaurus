@@ -1,3 +1,6 @@
+---
+pagination_next: event/cmi
+---
 # iStart
 
 ### What is iStart - KTH Entrepreneurship Society?

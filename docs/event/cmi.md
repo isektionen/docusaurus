@@ -1,3 +1,6 @@
+---
+pagination_prev: business/istart
+---
 # Clubmästeriet
 
 ### Vad är Clubmästeriet?
