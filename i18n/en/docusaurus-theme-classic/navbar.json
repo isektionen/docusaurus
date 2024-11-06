@@ -31,12 +31,12 @@
     "message": "News",
     "description": "Navbar item with label Nyheter"
   },
-  "item.label.För företag": {
-    "message": "For businesses",
+  "item.label.För Företag": {
+    "message": "For Businesses",
     "description": "Navbar item with label Företag"
   },
-  "item.label.Om sektionen": {
-    "message": "About the chapter",
+  "item.label.Om Sektionen": {
+    "message": "About the Chapter",
     "description": "Navbar item with label Om sektionen"
   },
   "item.label.Trygghetsfunktioner": {
