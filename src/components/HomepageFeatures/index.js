@@ -5,13 +5,20 @@ import styles from './styles.module.css';
 import { EventCalendar } from './calendar';
 import Translate from '@docusaurus/Translate';
 import Link from "@docusaurus/Link";
+import { useColorMode } from '@docusaurus/theme-common';
 import BcgIcon from '@site/static/img/bcg.svg';
 import AvgIcon from '@site/static/img/AVG.svg';
+import AvgIconDark from '@site/static/img/AVGDark.svg';
 import EmcIcon from '@site/static/img/emc.svg';
+import EmcIconDark from '@site/static/img/emcDark.svg';
 import DeloitteIcon from '@site/static/img/deloitte.svg';
+import DeloitteIconDark from '@site/static/img/deloitteDark.svg';
 import McKinseyIcon from '@site/static/img/mckinsey.svg';
+import MckinseyIconDark from '@site/static/img/mckinseyDark.svg';
 import BainIcon from '@site/static/img/bain.svg';
+import BainIconDark from '@site/static/img/bainDark.svg';
 import PwcIcon from '@site/static/img/pwc.svg';
+import PwcIconDark from '@site/static/img/pwcDark.svg';
 
 const FeatureList = [
   {
@@ -78,8 +85,7 @@ function Feature({ img, title, description }) {
 
 
 export default function HomepageFeatures() {
-
-
+    const { colorMode } = useColorMode();
   return (
     <section className={styles.features}>
       <div className="container">
@@ -118,28 +124,63 @@ export default function HomepageFeatures() {
           </div>
           <div className="row" style={{ justifyContent: "center", textAlign: "center" }}>
               <div className="col col--3">
-                  <a href={"https://appliedvaluegroup.com/"}><AvgIcon width={200} height={100}/></a>
+                  <a href={"https://appliedvaluegroup.com/"}>
+                      {colorMode === 'dark' ? (
+                          <AvgIconDark width={200} height={100}/>
+                      ) : (
+                          <AvgIcon width={200} height={100}/>
+                      )}
+                  </a>
               </div>
 
               <div className="col col--3">
-                    <a href={"https://www.ericsson.com/en/careers/strategic-programs-practice"}><EmcIcon width={200} height={100}/></a>
+                    <a href={"https://www.ericsson.com/en/careers/strategic-programs-practice"}>
+                        {colorMode === 'dark' ? (
+                            <EmcIconDark width={200} height={100}/>
+                        ) : (
+                            <EmcIcon width={200} height={100}/>
+                        )}
+                    </a>
               </div>
 
               <div className="col col--3">
-                    <a href={"https://www2.deloitte.com/se/sv.html"}><DeloitteIcon width={200} height={100}/></a>
+                    <a href={"https://www2.deloitte.com/se/sv.html"}>
+                        {colorMode === 'dark' ? (
+                            <DeloitteIconDark width={200} height={100}/>
+                        ) : (
+                            <DeloitteIcon width={200} height={100}/>
+                        )}
+                        </a>
               </div>
           </div>
           <div className="row" style={{ justifyContent: "center", textAlign: "center" }}>
               <div className="col col--3">
-                  <a href={"https://www.mckinsey.com/careers/"}><McKinseyIcon width={200} height={100}/></a>
+                  <a href={"https://www.mckinsey.com/careers/"}>
+                      {colorMode === 'dark' ? (
+                          <MckinseyIconDark width={200} height={100} />
+                      ) : (
+                          <McKinseyIcon width={200} height={100} />
+                      )}
+                  </a>
               </div>
 
               <div className="col col--3">
-                  <a href={"https://www.bain.com/"}><BainIcon width={200} height={100}/></a>
+                  <a href={"https://www.bain.com/"}>
+                      {colorMode === 'dark' ? (
+                          <BainIconDark width={200} height={100} />
+                      ) : (
+                          <BainIcon width={200} height={100} />
+                      )}
+                  </a>
               </div>
-
               <div className="col col--3">
-                  <a href={"https://www.pwc.se/karriar/"}><PwcIcon width={200} height={100}/></a>
+                  <a href={"https://www.pwc.se/karriar/"}>
+                      {colorMode === 'dark' ? (
+                          <PwcIconDark width={200} height={100} />
+                      ) : (
+                          <PwcIcon width={200} height={100} />
+                      )}
+                  </a>
               </div>
           </div>
       </div>

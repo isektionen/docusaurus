@@ -65,6 +65,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       //Headerns element
       navbar: {
         title: 'I-sektionen KTH',
@@ -101,7 +106,7 @@ const config = {
                 href: 'https://drive.google.com/drive/folders/1v3UvdSYbOsk1f2zUqJ3VmoEz9vevuJKe?usp=drive_link',
                 label: 'Dokument',
               },
-              {href: 'https://drive.google.com/file/d/1w-9MTxMKx7OploFJI-0G9Wr_A832I0WW/view?usp=sharing', 
+              {href: 'https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfS3XMwR6yHKLAoA1AJXhIQmEgEZ0cQF0e13fJZgDFdOPHmyQ/viewform&sa=D&source=docs&ust=1730890495001202&usg=AOvVaw1Jpa0NcJc6CRtQEDwQfZDQ',
               label: 'Äskningsformulär'},
             ],
           },
@@ -152,7 +157,7 @@ const config = {
               {
                 html: `<a href="https://github.com/isektionen/docusaurus">
                 <img src="/img/github.svg" alt=""/>
-                </a>`
+                </a>`,
               }
             ],
           },
