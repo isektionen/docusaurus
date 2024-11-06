@@ -65,11 +65,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      colorMode: {
-        defaultMode: 'light',
-        disableSwitch: false,
-        respectPrefersColorScheme: true,
-      },
       //Headerns element
       navbar: {
         title: 'I-sektionen KTH',
@@ -156,7 +151,7 @@ const config = {
             items: [
               {
                 html: `<a href="https://github.com/isektionen/docusaurus">
-                <img src="/img/github.svg" alt=""/>
+                <img src="/img/github.svg" id="github_logo" alt=""/>
                 </a>`,
               }
             ],
@@ -165,7 +160,7 @@ const config = {
             title: 'KTH',
             items: [
               {
-                html: `<a href="https://www.kth.se/"><img src="/img/kth.svg" width ="28" alt=""></a>`,
+                html: `<a href="https://www.kth.se/"><img src="/img/kth.svg" id="kth_logo" width ="28" alt=""></a>`,
               }
             ],
           },
