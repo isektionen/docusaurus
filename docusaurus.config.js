@@ -89,22 +89,6 @@ const config = {
 
           { to: '/blog', label: 'Aktuellt', position: 'left' },
           { to: '/section', label: 'Om Sektionen', position: 'left' },
-          
-          
-                  
-          {
-            type: 'dropdown',
-            label: 'Dokument',
-            position: 'right',
-            items: [
-              {
-                href: 'https://drive.google.com/drive/folders/1v3UvdSYbOsk1f2zUqJ3VmoEz9vevuJKe?usp=drive_link',
-                label: 'Dokument',
-              },
-              {href: 'https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfS3XMwR6yHKLAoA1AJXhIQmEgEZ0cQF0e13fJZgDFdOPHmyQ/viewform&sa=D&source=docs&ust=1730890495001202&usg=AOvVaw1Jpa0NcJc6CRtQEDwQfZDQ',
-              label: 'Äskningsformulär'},
-            ],
-          },
           {
             type: 'dropdown',
             label: 'Plugga på I',
@@ -119,14 +103,33 @@ const config = {
           
           { to: '/business', label: 'För Företag', position: 'left' },
           {
-            href: 'https://www.facebook.com/IndustriellEkonomiKTH',
-            label: 'Facebook',
+            type: 'dropdown',
+            label: 'Länkar',
             position: 'right',
+            items: [
+              {
+                href: 'https://drive.google.com/drive/folders/1v3UvdSYbOsk1f2zUqJ3VmoEz9vevuJKe?usp=drive_link',
+                label: 'Dokument',
+              },
+              {
+                href: 'https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfS3XMwR6yHKLAoA1AJXhIQmEgEZ0cQF0e13fJZgDFdOPHmyQ/viewform&sa=D&source=docs&ust=1730890495001202&usg=AOvVaw1Jpa0NcJc6CRtQEDwQfZDQ',
+                label: 'Äskningsformulär'
+              },
+              {
+                href: 'https://www.facebook.com/IndustriellEkonomiKTH',
+                label: 'Facebook'
+              },
+              {
+                href: 'https://sangbok.iare.se/',
+                label: 'Sångbok'
+              },
+
+            ],
           },
           {
             type: 'localeDropdown',
             position: 'right',
-          },
+          }
         ],
       },
       //footerns element
