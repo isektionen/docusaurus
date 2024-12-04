@@ -63,12 +63,16 @@
     "message": "Studies",
     "description": "Navbar item with label The Studies"
   },
-  "item.label.Dokument": {
-    "message": "Documents",
+  "item.label.Länkar": {
+    "message": "Links",
     "description": "Navbar item with label documents"
   },
   "item.label.Äskningsformulär": {
     "message": "Request form",
+    "description": "Navbar item with label Request form"
+  },
+  "item.label.Sångbok": {
+    "message": "Song book",
     "description": "Navbar item with label Request form"
   },
   "item.label.Vad är en sektion?": {
