@@ -15,6 +15,6 @@ The selection committee attaches great importance to maintaining the integrity o
 
 ### President
 
-__Harald Ingemarsson__ I-22 valberedningen@iare.nu
+__Gustav Hermansson__ I-23 valberedningen@iare.nu
 
 <img src={require("/static/img/Val.jpg").default} width="230"/>
