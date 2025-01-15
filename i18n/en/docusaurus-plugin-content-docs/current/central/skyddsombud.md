@@ -6,6 +6,6 @@ A student safety representative has the same rights and obligations as an employ
 
 You can turn to the Safety Representative if you want to report incidents, both in the physical (for example, the chapter room or other premises on campus) and the psychosocial work environment (for example, teachers who do not behave fairly, violations or sexual abuse), if you have questions about the safety and well-being work at the chapter or if you simply want someone to talk to.
 
-__Sofia Tillman__ I-22 skyddsombud@iare.nu
+__Jeanette Frycklund__ I-22 skyddsombud@iare.nu
 
 <img src={require("/static/img/Skydd.jpg").default} width="230"/>.
