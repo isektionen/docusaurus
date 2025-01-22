@@ -1,4 +1,4 @@
-# Safety representative
+# Safety Representative
 
 According to the Work Environment Act, each chapter must have a student safety representative, whose task is to represent and advocate for the students in the chapter. The safety representative is appointed by the students in the chapter.
 

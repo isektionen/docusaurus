@@ -40,12 +40,12 @@
     "description": "Navbar item with label Om sektionen"
   },
   "item.label.Trygghetsfunktioner": {
-    "message": "Safety functions & well being",
+    "message": "Safety Functions & Well-being",
     "description": "Navbar item with label Trygghetsfunktioner"
   },
   "item.label.Styrelsen": {
-    "message": "The board",
-    "description": "Navbar item with label The board"
+    "message": "The Board",
+    "description": "Navbar item with label The Board"
   },
   "item.label.Översikt": {
     "message": "Overview",
@@ -76,15 +76,15 @@
     "description": "Navbar item with label Request form"
   },
   "item.label.Vad är en sektion?": {
-    "message": "What a chapter is",
+    "message": "What is a Chapter?",
     "description": "Navbar item with label What a chapter is"
   },
   "item.label.För sökande": {
-    "message": "For applicants",
+    "message": "For Applicants",
     "description": "Navbar item with label For applicants"
   },
   "item.label.För antagna": {
-    "message": "For admitted students",
+    "message": "For Admitted Students",
     "description": "Navbar item with label For admitted students"
   }
 }
