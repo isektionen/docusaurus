@@ -12,7 +12,7 @@
     "description": "The generated-index page description for category Business in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Eventklustret": {
-    "message": "Event cluster",
+    "message": "Event Cluster",
     "description": "The label for category Eventklustret in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Event cluster.link.generated-index.description": {
@@ -28,7 +28,7 @@
     "description": "The generated-index page description for category Projekt in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Social cluster": {
-    "message": "Social cluster",
+    "message": "Social Cluster",
     "description": "The label for category Social cluster in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Social cluster.link.generated-index.description": {
@@ -36,7 +36,7 @@
     "description": "The generated-index page description for category Social cluster in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Centrala funktioner": {
-    "message": "Central functions",
+    "message": "Central Functions",
     "description": "The label for category Centrala funktioner in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Näringsliv": {
@@ -48,7 +48,7 @@
     "description": "The label for category Projekt in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Sociala klustret": {
-    "message": "The social cluster",
+    "message": "The Social Cluster",
     "description": "The label for category Sociala klustret in sidebar tutorialSidebar"
   }
 }
