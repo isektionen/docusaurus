@@ -50,11 +50,6 @@ Bachelor’s Thesis, Basic Level: 15 ECTS
 
 ## Courses in Year 4-5 
 
-Under årskurs 4 och 5 fortsätter du din utbildning genom att fördjupa din kunskap inom ramen för masterprogrammet Industriell ekonomi (Industrial Engineering and Management, TIEMM). Detta sker genom parallella studier inom både industriell ekonomi och vald teknikspecialisering på avancerad nivå. Därför går ej någon generell poänguppdelning att göra, dock läser alla Examensarbete på 30 ECTS.
-
-Blandade kurser beroende av teknikspecialisering, 90 ECTS
-Examensarbete, avancerad nivå, 30 ECTS    
-
 During the fourth and fifth years, you will deepen your knowledge within the framework of the master’s program in Industrial Engineering and Management (TIEMM). This involves parallel studies in IEM and your chosen technical specialization at an advanced level. Since courses vary depending on specialization, no general credit breakdown is provided, but all students complete a master’s thesis worth 30 ECTS.
 
 Various Courses Depending on Technical Specialization: 90 ECTS
