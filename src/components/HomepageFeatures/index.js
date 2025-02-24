@@ -7,10 +7,9 @@ import Translate from '@docusaurus/Translate';
 import Link from "@docusaurus/Link";
 import { useColorMode } from '@docusaurus/theme-common';
 import BcgIcon from '@site/static/img/bcg.svg';
+import BcgIconDark from '@site/static/img/bcgDark.svg';
 import AvgIcon from '@site/static/img/AVG.svg';
 import AvgIconDark from '@site/static/img/AVGDark.svg';
-import EmcIcon from '@site/static/img/emc.svg';
-import EmcIconDark from '@site/static/img/emcDark.svg';
 import DeloitteIcon from '@site/static/img/deloitte.svg';
 import DeloitteIconDark from '@site/static/img/deloitteDark.svg';
 import McKinseyIcon from '@site/static/img/mckinsey.svg';
@@ -19,6 +18,8 @@ import BainIcon from '@site/static/img/bain.svg';
 import BainIconDark from '@site/static/img/bainDark.svg';
 import PwcIcon from '@site/static/img/pwc.svg';
 import PwcIconDark from '@site/static/img/pwcDark.svg';
+import RolandBergerIcon from '@site/static/img/Roland_Berger_logo.svg';
+import RolandBergerIconDark from '@site/static/img/Roland_Berger_logo_dark.svg';
 
 const FeatureList = [
   {
@@ -108,14 +109,6 @@ export default function HomepageFeatures() {
 
         </div>
           <div className="text--center">
-              <h2 style={{textAlign: "center"}}>
-                  <Translate>
-                      Huvudsamarbetspartner
-                  </Translate>
-              </h2>
-              <a href={"https://www.bcg.com/"}><BcgIcon width={300} height={200}/></a>
-          </div>
-          <div className="text--center">
               <h2>
                   <Translate>
                       Våra Samarbetspartners
@@ -133,14 +126,15 @@ export default function HomepageFeatures() {
                   </a>
               </div>
 
+              
               <div className="col col--3">
-                    <a href={"https://www.ericsson.com/en/careers/strategic-programs-practice"}>
-                        {colorMode === 'dark' ? (
-                            <EmcIconDark width={200} height={100}/>
-                        ) : (
-                            <EmcIcon width={200} height={100}/>
-                        )}
-                    </a>
+                  <a href={"https://www.bain.com/"}>
+                      {colorMode === 'dark' ? (
+                          <BainIconDark width={200} height={100} />
+                      ) : (
+                          <BainIcon width={200} height={100} />
+                      )}
+                  </a>
               </div>
 
               <div className="col col--3">
@@ -165,20 +159,31 @@ export default function HomepageFeatures() {
               </div>
 
               <div className="col col--3">
-                  <a href={"https://www.bain.com/"}>
-                      {colorMode === 'dark' ? (
-                          <BainIconDark width={200} height={100} />
-                      ) : (
-                          <BainIcon width={200} height={100} />
-                      )}
-                  </a>
+                    <a href={"https://www.rolandberger.com/en/"}>
+                        {colorMode === 'dark' ? (
+                            <RolandBergerIconDark width={200} height={100}/>
+                        ) : (
+                            <RolandBergerIcon width={200} height={100}/>
+                        )}
+                    </a>
               </div>
+
               <div className="col col--3">
                   <a href={"https://www.pwc.se/karriar/"}>
                       {colorMode === 'dark' ? (
                           <PwcIconDark width={200} height={100} />
                       ) : (
                           <PwcIcon width={200} height={100} />
+                      )}
+                  </a>
+              </div>
+
+              <div className="col col--3">
+                  <a href={"https://www.bcg.com/"}>
+                      {colorMode === 'dark' ? (
+                          <BcgIconDark width={150} height={100}/>
+                      ) : (
+                          <BcgIcon width={150} height={100}/>
                       )}
                   </a>
               </div>
