@@ -24,7 +24,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt=""/>
+      <img src={require("/static/img/Vice.jpg").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Karl Philip Petterson</h4>
         <p>Vice Ordförande</p>
@@ -35,7 +35,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/Kassor.jpg").default} className="w-50" alt="Edvin Ramström"/>
       <div class="card__body">
         <h4>Rebecka Norlén</h4>
         <p>Kassör</p>
@@ -46,7 +46,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/Admin.jpg").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Adrian Troedsson</h4>
         <p>Administrativt Ansvarig</p>
@@ -62,7 +62,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt=""/>
+      <img src={require("/static/img/Kommunikation.jpg").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Thea Averskog</h4>
         <p>Kommunikations-ansvarig</p>
@@ -73,7 +73,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt=""/>
+      <img src={require("/static/img/Event.jpg").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Tove Kellberg</h4>
         <p>Eventansvarig</p>
@@ -84,7 +84,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/Socialt.jpg").default} className="w-50" alt="Edvin Ramström"/>
       <div class="card__body">
         <h4>Sakarias Åman Rosengren</h4>
         <p>Socialt Ansvarig</p>
@@ -95,7 +95,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/Naringslivsansv.jpg").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Mimi First Carr</h4>
         <p>Näringslivsansvarig</p>
@@ -111,7 +111,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt=""/>
+      <img src={require("/static/img/Programansv.jpg").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Emilia Frykholm</h4>
         <p>Programansvarig Student</p>
@@ -122,7 +122,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/Oph.jpg").default} className="w-50" alt="Emma Hellström"/>
+      <img src={require("/static/img/Ettansplats.jpg").default} className="w-50" alt="Emma Hellström"/>
       <div class="card__body">
         <h4>Jibril Jemal</h4>
         <p>Ettans Plats</p>

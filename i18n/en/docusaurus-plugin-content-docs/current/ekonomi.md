@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Engineering capital
+# Engineering Capital
 
 ### What is IK?
 

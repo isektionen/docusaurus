@@ -1,4 +1,4 @@
-# Chapter
+# The Chapter
 
 ### How does the chapter work?
 

@@ -1,4 +1,4 @@
-# The auditors
+# The Auditors
 
 ### Purpose
 The purpose of the audit is described in the statutes as follows:
