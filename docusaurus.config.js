@@ -174,7 +174,6 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © 2023 KA ansvarig utgivare,  av I-T gruppen`,
       },
       prism: {
         theme: lightCodeTheme,
