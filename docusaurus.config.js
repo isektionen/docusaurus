@@ -1,6 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 //Fil för att ändra header och footer
+import { Analytics } from "@vercel/analytics/react"
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 require('dotenv').config()
@@ -36,6 +37,13 @@ const config = {
     locales: ['en', 'sv'],
   },
 
+  scripts: [
+    {
+      src: "https://vercel.live/analytics/script.js",
+      async: true,
+    },
+  ],
+    
   presets: [
     [
       'classic',
@@ -61,6 +69,8 @@ const config = {
       }),
     ],
   ],
+
+  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -179,9 +189,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
     }
 
     ),
+
+    
 };
 
 module.exports = config;
