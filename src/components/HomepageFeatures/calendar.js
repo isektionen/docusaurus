@@ -20,7 +20,7 @@ function formatDate(isoString) {
 
 function EventComponent({ title, description, start, end }) {
     return (
-        <div className={clsx('col col--4')}>
+        <div className={clsx('col col--4', styles.eventContainer)}>
             <div className={clsx(styles.eventCard)}>
                 <h3>{title}</h3>
                 <p>{description}</p>
@@ -74,7 +74,7 @@ function EventCalendar() {
 
     return (
   
-            <div className="row">
+            <div className="row" style={{ display: 'flex'}}>
             
             {events.map((event, idx) => (
                 <EventComponent key={idx} {...event} />
