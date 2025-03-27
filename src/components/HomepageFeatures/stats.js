@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import clsx from 'clsx';
 import { createClient } from '@supabase/supabase-js';
+import { useColorMode } from '@docusaurus/theme-common';
 
 const stats = [
   { label: "Antal medlemmar", value: "500+" },
@@ -30,14 +31,17 @@ async function fetchBeerCount() {
 }
 
 function Stat({ value, label }) {
+const { colorMode } = useColorMode();
+const textColor = colorMode === 'dark' ? '#ffffff' : '#7D5A3C';
+const textColor2 = colorMode === 'dark' ? '#ffffff' : '#6c757d';  
+
   return (
-    
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      <h2 style={{ fontSize: '2.5rem', fontWeight: 'bold', color: '#7D5A3C' }}>
+      <h2 style={{ fontSize: '2.5rem', fontWeight: 'bold', color: textColor }}>
           {value !== null ? value : 'Laddar...'}
         </h2>
-        <p style={{ fontSize: "1.5rem", color: "#6c757d" }}>{label}</p> {/* Increase label size */}
+        <p style={{ fontSize: "1.5rem", color: textColor2 }}>{label}</p> 
       </div>
     </div>
   );
