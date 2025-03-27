@@ -3,6 +3,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import { EventCalendar } from './calendar';
+import Stats from './stats';
 import Translate from '@docusaurus/Translate';
 import Link from "@docusaurus/Link";
 import { useColorMode } from '@docusaurus/theme-common';
@@ -107,6 +108,15 @@ export default function HomepageFeatures() {
           ))}
 
 
+        </div>
+
+        <div className="text--center">
+          <h2>
+            <Translate>
+                Sektionen i siffror
+            </Translate>
+          </h2>
+          <Stats />
         </div>
           <div className="text--center">
               <h2>
