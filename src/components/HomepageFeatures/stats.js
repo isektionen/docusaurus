@@ -5,7 +5,7 @@ import { useColorMode } from '@docusaurus/theme-common';
 
 const stats = [
   { label: "Antal medlemmar", value: "500+" },
-  { label: "Issy öl (sedan 2017)", value: "74891" },
+  { label: "Sålda öl (sedan 2017)", value: "74891" },
   { label: "Antal IT-grupper", value: "1" },
 ];
 
@@ -63,7 +63,7 @@ const [beerCount, setBeerCount] = useState(null);
 
 
   const updatedStats = stats.map((stat) =>
-    stat.label === 'Issy öl (sedan 2017)' ? { ...stat, value: beerCount } : stat
+    stat.label === 'Sålda öl (sedan 2017)' ? { ...stat, value: beerCount } : stat
   );
     
   return (
