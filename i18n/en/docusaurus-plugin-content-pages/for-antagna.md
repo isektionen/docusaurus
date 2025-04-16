@@ -1,4 +1,4 @@
-# For admitted students
+# For Admitted Students
 ## Congratulations on Your Spot in Industrial Engineering and Management!
 
 This is where it begins! The section has a vibrant student life, and during the spring, 150 dedicated students work to warmly welcome a new cohort with open arms. To ensure that you, the new students, get to know your class and have the best possible start to your time at KTH, your adventure begins with the Reception.
@@ -7,12 +7,12 @@ On August 14th, it’s time for the enrollment meeting. When you arrive at campu
 
 A few days before the enrollment meeting, one of your Mentors will contact you to check in and remind you of what’s good to have available during the Reception (see below). A couple of weeks before the enrollment meeting, the schedule for the first two weeks will be published on KTH’s website, followed by updates every two weeks. If you have any questions before then, feel free to contact the Head of the Reception (ÖPH), who is responsible for the event. ÖPH 2025 is Rebecka Larsson Hjelm, and she can be reached at oph@iare.nu.
 
-## What should I bring?
+## What Should I Bring?
 ### First day
 
 Many activities will take place outdoors, including on the first day. Make sure to wear clothes you’re comfortable sitting on the grass in. The most important thing is to **bring a valid ID** for the enrollment meeting! Also, dress appropriately for the weather.
 
-### The rest of the Reception
+### The Rest of the Reception
 The Reception includes a variety of activities from morning to evening. The following clothing items might be useful during the weeks, so it’s good to have them readily available:
 
 * Formal wear for upscale sittings, such as a dark suit or a dress
@@ -21,7 +21,7 @@ The Reception includes a variety of activities from morning to evening. The foll
 * Swimwear
 
 ## Housing
-### Joing the housing queue!
+### Joing the Housing Queue!
 
 You can do this at sssb.se. It’s never too late to join the queue, and you never know when your accumulated queue time might come in handy. SSSB regularly posts last-minute student rooms, which are offered on a first-come, first-served basis. If you’re lucky, you might secure a last-minute room even if you don’t have many queue days. SSSB is the student housing agency co-owned by THS (The Student Union at KTH) and several other unions in Stockholm. To live in or join SSSB’s queue, you must have a THS membership. Other organizations also offer student housing. One of them is Stockholm Housing Agency (Stockholms stads bostadsförmedling). You can learn more about their student housing here: http://www.bostad.stockholm.se/sv/Student/
 

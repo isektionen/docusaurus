@@ -16,9 +16,7 @@ Billing questions: ekonomi.naringsliv@iare.nu
 
 ### Chairman
 
-__Gabriel Otta__
-I-23
-naringsliv@iare.nu
+__Gabriel Otta__ I-23, naringsliv@iare.nu
 
 <img src={require("/static/img/Nln.jpg").default} width="230"/>
 

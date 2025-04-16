@@ -9,6 +9,6 @@ Vi anordnar bland annat frukostar med företag som jobbar med hållbarhet på ol
 
 Vi samarbetar både med andra nämnder på sektionen och välgörenhetsorganisationer för att tillsammans bidra till ett hållbart samhälle.
 ### Ordförande
-__Saga Jakobsson__ I-23 iskillnad@iare.nu
+__Saga Jakobsson__ I-23, iskillnad@iare.nu
 
 <img src={require("/static/img/Iskillnad.jpg").default} width="230"/>

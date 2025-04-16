@@ -22,7 +22,7 @@ Viktigt att veta är att fixa sittningar och pubar är minst lika kul som att g�
 För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på clubmasteriet@iare.nu
 
 ### Clubmästare,
-__Anna Stark__ I-23
+__Anna Stark__ I-23, clubmasteriet@iare.nu
 
 
 <img src={require("/static/img/Cmi.jpg").default} width="230"/>

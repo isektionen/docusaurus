@@ -7,6 +7,5 @@ Idrottsnämndens uppdrag är att erbjuda I-sektionens medlemmar ett brett utbud 
 
 Några exempel på uppskattade aktiviteter som Idrottsnämnden anordnar under året är fotbollsmatcherna mot Handelshögskolan och Indek i Uppsala, skidresan till Alperna och löpgruppen I-run.
 ### Ordförande
-__John Nelson__ I-23
-idrott@iare.nu
+__John Nelson__ I-23, idrott@iare.nu
 <img src={require("/static/img/Idrott.jpg").default} width="230"/>
