@@ -65,6 +65,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       //Headerns element
       navbar: {
         title: 'I-sektionen KTH',
@@ -169,13 +174,14 @@ const config = {
           },
           
         ],
-        copyright: `Copyright © 2023 KA ansvarig utgivare,  av I-T gruppen`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    }
+
+    ),
 };
 
 module.exports = config;
