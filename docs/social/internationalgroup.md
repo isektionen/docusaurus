@@ -8,6 +8,6 @@ Internationella gruppen är I-sektionens nämnd som står för inkludering av de
 I nuläget har internationella gruppen 30 medlemmar och organisationen är decentraliserad och dynamisk för att alla ska kunna vara med och komma med idéer och  ta egna initiativ.
 ### Ordförande
 
-__Erik Folkman__ I-23, Internationellt@iare.nu
+__Erik Folkman__ I-23, internationellt@iare.nu
 
 <img src={require("/static/img/Internationella.jpg").default} width="230"/>

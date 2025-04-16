@@ -14,6 +14,6 @@ In addition, the goal is to create and launch the I-chapter's own alumni podcast
 Involvement in I-Alumni means varied work with many different types of projects. For those who want, there is a lot of responsibility to bear .
 
 ### President
-__Edvin Röhr__ I-23 alumni@iare.nu
+__Edvin Röhr__ I-23, alumni@iare.nu
 
 <img src={require("/static/img/Ialumni.jpg").default} width="230"/>

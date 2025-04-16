@@ -14,5 +14,5 @@ If you want to work on JML issues, organize fun events and contribute to making 
 Do not hesitate to contact us at geni@iare.nu if you have any comments or want to know more about our work! 
 You can also leave anonymous feedback via our contact form: https://forms.gle/MsUj8ZpcZfRuzLjr9 
 
-__Alva Åslund__ I-22
+__Alva Åslund__ I-22, geni@iare.nu
 <img src={require("/static/img/Geni.jpg").default} width="230"/>
