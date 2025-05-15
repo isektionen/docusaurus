@@ -21,8 +21,8 @@ All that is required from participants at our events is a positive attitude and 
 
 ### Chairman
 
-__Erik Bringle__ I-23
+__Axel Bandmann__ I-24
 i-case@iare.nu
 
-<img src={require("/static/img/Icase.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
 

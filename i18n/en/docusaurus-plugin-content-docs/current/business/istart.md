@@ -10,6 +10,6 @@ Stockholm produces the second highest number of unicorn companies (startups valu
 As a member of iStart, you gain direct insight into Stockholm’s entrepreneurial scene. Together, we organize events where we meet startups, investors, mentors, and other relevant players in the startup ecosystem. We also connect with students from similar societies at other universities, both in Sweden and internationally. Pitch competitions, workshops, VC events, and visits to startup
 ### Chairman
 
-__Burak Gül__ I-23, istart@iare.nu
+__Alfred Andersson__ I-24, istart@iare.nu
 
-<img src={require("/static/img/Istart.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
