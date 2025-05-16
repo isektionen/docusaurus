@@ -1,6 +1,3 @@
----
-pagination_prev: event/reception
----
 # iSkillnad
 
 iSkillnad är ett nämndinitiativ som har som syfte att aktivt bidra till FNs hållbarhetsmål, Agenda 2030. Vi agerar bland annat som en plattform för att underlätta hållbarhetsarbetet hos andra nämnder samt för sektionen i sin helhet. Dessutom arrangerar vi även egna event kopplade till Agenda 2030.
