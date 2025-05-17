@@ -63,8 +63,16 @@ const [beerCount, setBeerCount] = useState(null);
 
 
   const updatedStats = stats.map((stat) =>
-    stat.label === 'Sålda öl (sedan 2017)' ? { ...stat, value: beerCount } : stat
-  );
+    stat.label === 'Sålda öl (sedan 2017)'
+    ? {
+        ...stat,
+        value:
+          beerCount != null
+            ? beerCount.toLocaleString('sv-SE')
+            : 'Laddar...', // Or '0', '–', etc.
+      }
+    : stat
+);
     
   return (
     <div className="container my-4">
