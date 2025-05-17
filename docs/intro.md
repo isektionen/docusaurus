@@ -7,4 +7,4 @@ sidebar_position: 1
 Det här är sektionskartan!
 
 <img src={require("/static/img/sektionskarta_arsskifte.jpg").default}/>
-Du kan bläddra bland alla nämnder i sidofältet! Vi är säkra på att du kommer hitta något som passar dig!s
+Du kan bläddra bland alla nämnder i sidofältet! Vi är säkra på att du kommer hitta något som passar dig!

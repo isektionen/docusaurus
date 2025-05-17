@@ -1,5 +1,5 @@
 ---
-pagination_next: projects/iskillnad
+pagination_next: projects/seniorkollegiet
 ---
 # Mottagningen
 
