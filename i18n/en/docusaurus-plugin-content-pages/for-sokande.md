@@ -1,4 +1,4 @@
-# For applicants
+# For Applicants
 
 ## The Job and the Future
 

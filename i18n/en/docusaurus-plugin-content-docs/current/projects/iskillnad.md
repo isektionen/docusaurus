@@ -9,6 +9,6 @@ Among other things, we organize breakfasts with companies that work with sustain
 
 We collaborate both with other committees in the section and with charitable organizations to jointly contribute to a sustainable society.
 ### Chairman
-__Saga Jakobsson__ I-23 iskillnad@iare.nu
+__Saga Jakobsson__ I-23, iskillnad@iare.nu
 
 <img src={require("/static/img/Iskillnad.jpg").default} width="230"/>

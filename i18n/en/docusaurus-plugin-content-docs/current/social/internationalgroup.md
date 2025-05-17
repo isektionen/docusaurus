@@ -8,6 +8,6 @@ The International Group is the committee within the I-Chapter responsible for th
 Currently, the International Group has 30 members, and the organization is decentralized and dynamic, allowing members to contribute ideas and take their own initiatives.
 ### President
 
-__Erik Folkman__ I-23, Internationellt@iare.nu
+__Erik Folkman__ I-23, internationellt@iare.nu
 
 <img src={require("/static/img/Internationella.jpg").default} width="230"/>

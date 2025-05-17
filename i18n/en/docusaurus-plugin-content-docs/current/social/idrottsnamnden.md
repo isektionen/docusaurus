@@ -5,7 +5,7 @@ Idrottsnämnden (The Sports Committee) consists of approximately 30 sports enthu
 The mission of Idrottsnämnden is to offer members of the I-chapter wide range of sports-related activities. Balancing studies with exercise and a social life can be challenging, and the Sports Committee aims to make this easier by providing opportunities for social engagement in a sporting spirit.
 
 Some examples of popular activities organized by the Sports Committee throughout the year include football matches against the Stockholm School of Economics and Indek in Uppsala, the ski trip to the Alps, and the running group I-run.
-### Ordförande
-__John Nelson__ I-23
-idrott@iare.nu
+
+### President
+__John Nelson__ I-23, idrott@iare.nu
 <img src={require("/static/img/Idrott.jpg").default} width="230"/>
