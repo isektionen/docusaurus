@@ -14,6 +14,6 @@ iStart ger sektionens medlemmar utrymme att diskutera och komma i kontakt med va
 
 ### Ordförande
 
-__Burak Gül__ I-23, istart@iare.nu
+__Alfred Andersson__ I-23, istart@iare.nu
 
-<img src={require("/static/img/Istart.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

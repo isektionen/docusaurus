@@ -14,6 +14,6 @@ Valberedningen lägger stor vikt vid att bibehålla integriteten hos alla sökan
 
 ### Ordförande
 
-__Gustav Hermansson__ I-23, valberedningen@iare.nu
+__Alvin Ljungren__ I-24, valberedningen@iare.nu
 
-<img src={require("/static/img/Val.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

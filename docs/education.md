@@ -16,7 +16,7 @@ Kram Studienämnden
 
 ### Ordförande
 
-__Jonathan Howser__ I-22, sno@iare.nu
+__Dario Raffaelli__ I-24, sno@iare.nu
 
-<img src={require("/static/img/Studie.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
 
