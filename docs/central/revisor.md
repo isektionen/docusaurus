@@ -26,8 +26,8 @@ I rollen som revisor kan man även lämna både feedback och förslag till andra
 För att komma i kontakt med revisionen kan du kontakta revisorerna på revisorer@iare.nu
 
 #### Revisorer,
-__Gustaf Svensson__, I-19 __Max Kenning__, I-21 
+__David Carlsson__ I-24, __Max Kenning__ I-21 
 
 
 
-<img src={require("/static/img/Revisor.jpg").default} width="500"/>
+<img src={require("/static/img/profile.png").default} width="500"/>

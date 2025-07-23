@@ -8,6 +8,6 @@ KMN består av fyra grupper som ser till att sektionens kommunikation och ansikt
 
 ### Reporter
 
-__Tuva Gunnarsson__ I-23, reporter@iare.nu
+__Axel Bengtsson__ I-24, reporter@iare.nu
 
-<img src={require("/static/img/Kmn.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

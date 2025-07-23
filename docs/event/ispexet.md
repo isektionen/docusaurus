@@ -11,6 +11,6 @@ Spexdirecteur och nämndansvarig 2023/2024 är Alma Gunnarsson, I-21. För mer i
 
 ### Directeur
 
-__Gustaf Petersson__ I-21
+__Sakarias Åman Rosengren__ I-21
 
-<img src={require("/static/img/Ispexet.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

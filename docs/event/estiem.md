@@ -31,6 +31,6 @@ Vill du kontakta ESTIEM kan du nå Ordförande på estiem@iare.nu och Local Resp
 
 ### Ordförande
 
-__Mathea Belsa Krohné__ I-23, estiem@iare.nu
+__Malte Rudström__ I-23, estiem@iare.nu
 
-<img src={require("/static/img/Estiem.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
