@@ -6,7 +6,9 @@ Under Eventveckan, veckan innan Dagen I, händer det mycket kul, som frukost- oc
 Vår målsättning är att skapa en karriärmässa med ett brett urval av företag som speglar de områden du studerar och vill arbeta inom efter examen. Dagen - I består av ca 40 medlemmar som tillsammans jobbar mot en händelsefylld vecka.
 
 Om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se, eller kontakta projektledaren på projektledare@dageni.se
-### Projektledare Dagen I 2024/2025
+### Projektledare Dagen I 2025/2026
+
 __Robin Akela__ I-24, dageni@iare.nu    
+
 <img src={require("/static/img/profile.png").default} width="230"/>
 

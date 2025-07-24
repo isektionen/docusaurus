@@ -7,5 +7,7 @@ The mission of Idrottsnämnden is to offer members of the I-chapter wide range o
 Some examples of popular activities organized by the Sports Committee throughout the year include football matches against the Stockholm School of Economics and Indek in Uppsala, the ski trip to the Alps, and the running group I-run.
 
 ### President
-__John Nelson__ I-23, idrott@iare.nu
-<img src={require("/static/img/Idrott.jpg").default} width="230"/>
+
+__Lukas Ermeskog__ I-24, idrott@iare.nu
+
+<img src={require("/static/img/profile.png").default} width="230"/>
