@@ -8,6 +8,6 @@ The Student Council is the chapter's opportunity to influence THS (Tekniska Hög
 
 During the financial year 2023/2024, the I-chapter has 3 members in the Council. These are:
 
-__Harald Ingemarsson__, I-22  
-__Frida Andersson__, I-21  
-__Suppleant Alma Gunnarsson__, I-21
+__Axel Schelander__ I-23,
+__Johan Svensson__ I-22,
+__Seppleant Harald Ingemarsson__ I-22

@@ -16,6 +16,6 @@ During the year, IK organizes together with partners various recruitment events 
 
 ### Chairman
 
-__Stellan Ban Spaak__ I-23, ordforande.ik@iare.nu
+__Alex Upman__ I-24, ordforande.ik@iare.nu
 
-<img src={require("/static/img/Ik.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

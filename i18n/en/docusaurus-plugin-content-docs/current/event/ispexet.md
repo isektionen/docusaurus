@@ -11,6 +11,6 @@ Spex director and committee manager 2023/2024 is Alma Gunnarsson, I-21. For more
 
 ### Directeur
 
-__Gustaf Petersson__ I-21
+__Sakarias Åman Rosengren__ I-22
 
-<img src={require("/static/img/Ispexet.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

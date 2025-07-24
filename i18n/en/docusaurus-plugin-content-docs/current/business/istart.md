@@ -11,6 +11,6 @@ As a member of iStart, you gain direct insight into Stockholm’s entrepreneuria
 
 ### Chairman
 
-__Burak Gül__ I-23, istart@iare.nu
+__Alfred Andersson__ I-23, istart@iare.nu
 
-<img src={require("/static/img/Istart.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

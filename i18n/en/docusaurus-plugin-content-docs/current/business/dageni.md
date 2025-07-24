@@ -7,7 +7,8 @@ Our goal is to create a career fair with a wide selection of companies that repr
 
 If you would like to know more about Dagen I, you can either visit www.dageni.se, or contact the project manager at projektledare@dageni.se.
 
-### Project Manager Dagen-I 2024/2025
-__Timur Armak__ I-23, dageni@iare.nu
+### Project Manager Dagen-I 2025/2026
 
-<img src={require("/static/img/Dageni.jpg").default} width="230"/>
+__Robin Akela__ I-24, dageni@iare.nu 
+
+<img src={require("/static/img/profile.png").default} width="230"/>
