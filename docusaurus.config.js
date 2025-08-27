@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 //Fil för att ändra header och footer
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { themes } = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 require('dotenv').config()
 
 /** @type {import('@docusaurus/types').Config} */
@@ -10,7 +11,7 @@ const config = {
   plugins: [
     [
       "docusaurus-plugin-dotenv",
-      { 
+      {
         systemvars: true,
       },
     ],
@@ -85,10 +86,10 @@ const config = {
             label: 'Sektionen',
             position: 'left',
             items: [
-              { to: '/docs/board', label: 'Styrelsen'},
+              { to: '/docs/board', label: 'Styrelsen' },
               { to: '/trygghet', label: 'Trygghetsfunktioner' },
-              { to: '/docs/intro', label: 'Översikt'},
-              
+              { to: '/docs/intro', label: 'Översikt' },
+
             ],
           },
 
@@ -99,13 +100,13 @@ const config = {
             label: 'Plugga på I',
             position: 'left',
             items: [
-              { to: '/section', label: 'Vad är en sektion?'},
-              { to: '/for-sokande', label: 'För sökande'},
-              { to: 'for-antagna', label: 'För antagna'},
+              { to: '/section', label: 'Vad är en sektion?' },
+              { to: '/for-sokande', label: 'För sökande' },
+              { to: 'for-antagna', label: 'För antagna' },
             ],
 
           },
-          
+
           { to: '/business', label: 'För Företag', position: 'left' },
           {
             type: 'dropdown',
@@ -124,11 +125,11 @@ const config = {
                 href: 'https://www.facebook.com/IndustriellEkonomiKTH',
                 label: 'Facebook'
               },
-//              {
-//                href: 'https://sangbok.iare.se/',
-//                label: 'Sångbok'
-//              },
-              
+              //              {
+              //                href: 'https://sangbok.iare.se/',
+              //                label: 'Sångbok'
+              //              },
+
             ],
           },
           {
@@ -150,8 +151,8 @@ const config = {
                 <a href="https://calendar.google.com/calendar/u/0/embed?src=iare.nu_pre97odp8btuq3u2a9i6u3fnbc@group.calendar.google.com&ctz=Europe/Stockholm"><img src="/img/googlecal.svg" width ="31" alt=""/></a>`,
               },
 
-              ],
-            
+            ],
+
           },
 
           {
@@ -172,7 +173,7 @@ const config = {
               }
             ],
           },
-          
+
         ],
       },
       prism: {
