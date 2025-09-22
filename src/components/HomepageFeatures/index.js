@@ -21,7 +21,7 @@ import PwcIcon from '@site/static/img/pwc.svg';
 import PwcIconDark from '@site/static/img/pwcDark.svg';
 import RolandBergerIcon from '@site/static/img/Roland_Berger_logo.svg';
 import RolandBergerIconDark from '@site/static/img/Roland_Berger_logo_dark.svg';
-
+import GoogleCalIcon from '@site/static/img/googlecal.svg';
 const FeatureList = [
   {
     title: <Translate>Engagera dig</Translate>,
@@ -91,11 +91,21 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <h2>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+        <a
+          href="https://calendar.google.com/calendar/u/0/embed?src=iare.nu_pre97odp8btuq3u2a9i6u3fnbc@group.calendar.google.com&ctz=Europe/Stockholm"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ display: 'flex', alignItems: 'center', margin: 0 }}
+        >
+          <GoogleCalIcon style={{ height: '3rem', alignItems: 'center', margin: 0 }} />
+        </a>
+        <h2 style={{ margin: 0, lineHeight: 1, alignItems: 'center'}}>
           <Translate>
             Kommande evenemang
           </Translate>
         </h2>
+        </div>
         <EventCalendar />
 
 
