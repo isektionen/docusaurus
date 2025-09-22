@@ -1,6 +1,6 @@
 # Kravallen
 
-Imagine singing, music and dancing under a bright spring sky. Dazzling spotlights, confetti flying in the wind and a cold drink in hand on a dance floor full of happy students. The last time it happened in Maskinparken was in 2019, but those who wait for something good never wait too long. Kravallen is back!
+Imagine singing, music and dancing under a bright spring sky. Dazzling spotlights, confetti flying in the wind and a cold drink in hand on a dance floor full of happy students. The last time it happened in Maskinparken was in 2024, but those who wait for something good never wait too long. Kravallen is back!
 
 Kravallen is organized by students from Industrial Economics at KTH and takes place in the Maskinparken on the KTH campus Valhallavägen for one evening.
 

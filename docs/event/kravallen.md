@@ -1,6 +1,6 @@
 # Kravallen
 
-Tänk dig sång, musik och dans under en ljus vårhimmel. Bländande strålkastare, konfetti som flyger i vinden och en kall dryck i handen på ett dansgolv fullt av glada studenter. Senaste gången det inträffade i Maskinparken var 2019, men den som väntar på något gott väntar aldrig för länge. Kravallen är tillbaka!
+Tänk dig sång, musik och dans under en ljus vårhimmel. Bländande strålkastare, konfetti som flyger i vinden och en kall dryck i handen på ett dansgolv fullt av glada studenter. Senaste gången det inträffade i Maskinparken var 2024, men den som väntar på något gott väntar aldrig för länge. Kravallen är tillbaka!
 
 Kravallen arrangeras av studenter från Industriell Ekonomi på KTH och äger rum i Maskinparken på KTH campus Valhallavägen under en kväll.
 
