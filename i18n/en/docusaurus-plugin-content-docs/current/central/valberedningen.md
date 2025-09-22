@@ -15,6 +15,6 @@ The selection committee attaches great importance to maintaining the integrity o
 
 ### President
 
-__Alvin Ljungren__ I-24, valberedningen@iare.nu
+__Alvin Ljunggren__ I-24, valberedningen@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
