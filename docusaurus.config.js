@@ -125,10 +125,10 @@ const config = {
                 href: 'https://www.facebook.com/IndustriellEkonomiKTH',
                 label: 'Facebook'
               },
-              //              {
-              //                href: 'https://sangbok.iare.se/',
-              //                label: 'Sångbok'
-              //              },
+              {
+                href: 'https://sangbok.iare.se/',
+                label: 'Sångbok'
+              },
 
             ],
           },
