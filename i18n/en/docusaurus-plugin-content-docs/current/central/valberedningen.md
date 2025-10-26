@@ -17,4 +17,4 @@ The selection committee attaches great importance to maintaining the integrity o
 
 __Alvin Ljunggren__ I-24, valberedningen@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+[<img src={require("/static/img/profile.png").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)

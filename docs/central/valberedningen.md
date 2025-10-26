@@ -16,4 +16,4 @@ Valberedningen lägger stor vikt vid att bibehålla integriteten hos alla sökan
 
 __Alvin Ljunggren__ I-24, valberedningen@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+[<img src={require("/static/img/profile.png").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)
