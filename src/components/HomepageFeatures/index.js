@@ -22,6 +22,8 @@ import PwcIconDark from '@site/static/img/pwcDark.svg';
 import RolandBergerIcon from '@site/static/img/Roland_Berger_logo.svg';
 import RolandBergerIconDark from '@site/static/img/Roland_Berger_logo_dark.svg';
 import GoogleCalIcon from '@site/static/img/googlecal.svg';
+import kpmgIcon from '@site/static/img/KPMG_Logo_Blue.png';
+import kpmgIconDark from '@site/static/img/KPMG_Logo_White.png';
 const FeatureList = [
   {
     title: <Translate>Engagera dig</Translate>,
@@ -211,6 +213,17 @@ export default function HomepageFeatures() {
                 )}
               </a>
             </div>
+
+            <div className="col col--3">
+              <a href={"https://kpmg.com/se/sv.html"}>
+                {colorMode === 'dark' ? (
+                  <img src={kpmgIconDark} width={200} height={100} />
+                ) : (
+                  <img src={kpmgIcon} width={200} height={100} />
+                )}
+              </a>
+            </div>
+
           </div>
         </div>
       </div>
