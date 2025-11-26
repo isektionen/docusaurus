@@ -11,3 +11,5 @@ During the financial year 2025/2026, the I-chapter has 3 members in the Council.
 __Axel Schelander__ I-23,
 __Johan Svensson__ I-22,
 __Suppleant Harald Ingemarsson__ I-22
+
+<img src={require("/static/img/kf.webp").default} width="500"/>
