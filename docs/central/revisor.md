@@ -31,4 +31,4 @@ __David Carlsson__ I-24, __Karl Philip Petterson__ I-23
 
 
 
-<img src={require("/static/img/profile.png").default} width="500"/>
+<img src={require("/static/img/revisor1.webp").default} width="500"/>
