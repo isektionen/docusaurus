@@ -10,4 +10,4 @@ KMN consists of four groups that ensure that the chapter's communication and pub
 
 __Axel Bengtsson__ I-24, reporter@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/Kommunikation.webp").default} width="230"/>
