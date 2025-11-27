@@ -18,5 +18,5 @@ Frågor gällande fakturor: ekonomi.naringsliv@iare.nu
 
 __Lovisa Svedborg__ I-24, naringsliv@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/nln.webp").default} width="230"/>
 
