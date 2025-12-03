@@ -16,7 +16,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/ordforande.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Adrian Troedsson</h4>
         <p>President</p>
@@ -27,7 +27,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/vice.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Alma Gunnarsson</h4>
         <p>Vice President</p>
@@ -38,7 +38,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/kassor.webp").default} className="w-50" alt="Edvin Ramström"/>
       <div class="card__body">
         <h4>Huraiz Akbar</h4>
         <p>Treasurer</p>
@@ -49,7 +49,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/admin.webp").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Rebecka Norlén</h4>
         <p>Admin</p>
@@ -65,7 +65,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/kommunikationansvarig.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Zacharias Svenblad</h4>
         <p>Communications</p>
@@ -76,7 +76,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/event.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Jeanette Frycklund</h4>
         <p>Event</p>
@@ -87,7 +87,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/socialtansvarig.webp").default} className="w-50" alt="Edvin Ramström"/>
       <div class="card__body">
         <h4>Aron Dovrén</h4>
         <p>Social</p>
@@ -98,7 +98,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/naringslivsansvarig.webp").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Timur Armak</h4>
         <p>Corporate Relations</p>
@@ -114,7 +114,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/pas.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Nora Einerth</h4>
         <p>Pas</p>
