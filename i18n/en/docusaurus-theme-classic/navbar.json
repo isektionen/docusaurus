@@ -86,5 +86,9 @@
   "item.label.För antagna": {
     "message": "For Admitted Students",
     "description": "Navbar item with label For admitted students"
+  },
+  "item.label.Jubileum": {
+    "message": "Anniversary",
+    "description": "Navbar item with label Jubilee"
   }
 }

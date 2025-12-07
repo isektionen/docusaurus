@@ -107,7 +107,15 @@ const config = {
 
           },
 
+          
           { to: '/business', label: 'För Företag', position: 'left' },
+
+          {
+            label: 'Jubileum',
+            href: 'https://osa.iare.one/event/133/jubileumsgasquen-2026?fbclid=IwY2xjawOSkJhleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe2mY_2dTDWC7uQBUAgd41WtixNEDezFKIbdu073dw5NV9Yq-hX4DftTu9n20_aem_HMqyexMk_nKdqXocxGlOYQ',
+            position: 'left',
+          },
+
           {
             type: 'dropdown',
             label: 'Länkar',
