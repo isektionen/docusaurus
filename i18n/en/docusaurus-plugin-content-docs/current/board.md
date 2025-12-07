@@ -127,7 +127,7 @@ The board meets several times a week and officially meets five times a year. Our
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt="Emma Hellström"/>
       <div class="card__body">
-        <h4>Elected on SM#1</h4>
+        <h4>Leona Giertz Odelberg</h4>
         <p>First Year Representative</p>
         <a href="mailto:ettansplats@iare.nu">ettansplats@iare.nu</a>
       </div>

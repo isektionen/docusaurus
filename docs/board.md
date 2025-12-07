@@ -124,7 +124,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt="Emma Hellström"/>
       <div class="card__body">
-        <h4>Väljs pả SM#1</h4>
+        <h4>Leona Giertz Odelberg</h4>
         <p>Ettans Plats</p>
         <a href="mailto:ettansplats@iare.nu">ettansplats@iare.nu</a>
       </div>

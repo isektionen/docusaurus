@@ -5,7 +5,7 @@ iSpexet är Industriell ekonomis sektionsspex och bildades år 1997. Ett spex ä
 
 Om du gillar studentliv, gemenskap och framför allt om du gillar att ha kul så är iSpexet gruppen för dig!
 
-Spexdirecteur och nämndansvarig 2025/2026 är Sakarias Åman Rosengren, I-22. För mer information om iSpexet, besök vår Facebooksida eller www.ispexet.se.
+Spexdirecteur och nämndansvarig 2025/2026 är Sakarias Åman Rosengren, I-22. För mer information om iSpexet, besök vår Facebooksida eller www.ispexet.iare.se.
 
 *iSpexet – för ett riktigt roligt och studentikost år på KTH!*
 
