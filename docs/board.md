@@ -13,7 +13,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/ordforande.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Adrian Troedsson</h4>
         <p>Ordförande</p>
@@ -24,7 +24,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/vice.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Alma Gunnarsson</h4>
         <p>Vice Ordförande</p>
@@ -35,7 +35,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/kassor.webp").default} className="w-50" alt="Edvin Ramström"/>
       <div class="card__body">
         <h4>Huraiz Akbar</h4>
         <p>Kassör</p>
@@ -46,7 +46,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/admin.webp").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Rebecka Norlén</h4>
         <p>Administrativt Ansvarig</p>
@@ -62,7 +62,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/kommunikationansvarig.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Zacharias Svenblad</h4>
         <p>Kommunikations-ansvarig</p>
@@ -73,7 +73,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/event.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Jeanette Frycklund</h4>
         <p>Eventansvarig</p>
@@ -84,7 +84,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/socialtansvarig.webp").default} className="w-50" alt="Edvin Ramström"/>
       <div class="card__body">
         <h4>Aron Dovrén</h4>
         <p>Socialt Ansvarig</p>
@@ -95,7 +95,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/naringslivsansvarig.webp").default} className="w-50" alt="Another Person"/>
       <div class="card__body">
         <h4>Timur Armak</h4>
         <p>Näringslivsansvarig</p>
@@ -111,7 +111,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/pas.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Nora Einerth</h4>
         <p>Programansvarig Student</p>
