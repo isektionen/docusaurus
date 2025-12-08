@@ -21,7 +21,7 @@ All that is required from participants at our events is a positive attitude and 
 
 ### Chairman
 
-__Axel Bandman__ I-24, i-case@iare.nu
+Jackie Wu I-24, i-case@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 
