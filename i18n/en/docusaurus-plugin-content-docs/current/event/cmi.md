@@ -26,4 +26,4 @@ To get in touch with Clubmästeriet, you can contact the club masters at clubmas
 __Alva Bäckström__ I-24, clubmasteriet@iare.nu
 
 
-<img src={require("/static/img/cmi.webp").default} width="230"/>
+<img src={require("/static/img/Cmi.webp").default} width="230"/>
