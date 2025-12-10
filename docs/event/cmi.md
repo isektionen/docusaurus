@@ -25,4 +25,4 @@ För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på cl
 __Alva Bäckström__ I-24, clubmasteriet@iare.nu
 
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/Cmi.webp").default} width="230"/>

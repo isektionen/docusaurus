@@ -7,4 +7,4 @@ The Porter General is a position of responsibility with three main responsibilit
 ### Porter General
 __Harald Ingemarsson__ I-22, portergeneralen@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/porter.webp").default} width="230"/>

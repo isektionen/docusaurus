@@ -18,4 +18,4 @@ During the year, IK organizes together with partners various recruitment events 
 
 __Alex Upman__ I-24, ordforande.ik@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/ik.webp").default} width="230"/>

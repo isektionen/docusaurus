@@ -8,4 +8,4 @@ We collaborate both with other committees in the section and with charitable org
 ### Chairman
 __My Höggren__ I-24, iskillnad@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/iskillnad.webp").default} width="230"/>

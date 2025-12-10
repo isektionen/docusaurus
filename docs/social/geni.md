@@ -16,4 +16,4 @@ Du kan även lämna anonym feedback via vårt kontaktformulär: https://forms.gl
 
 __Rebecka Norlén__ I-23, geni@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/geni.webp").default} width="230"/>

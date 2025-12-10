@@ -9,7 +9,7 @@ Mottagningen styrs av MSG (Mottagningens styrgrupp), med förtroendevalda ÖPH i
 
 Funderar du på att söka Industriell Ekonomi eller är du till och med en nyantagen I-are som väntar på att Mottagningen ska börja? Då har du verkligen någonting att se fram emot! Du är på väg mot ett riktigt äventyr och oavsett vem du är så kommer du bli en del av I-sektionen – en plats med stark gemenskap, många skratt och möjlighet till stor utveckling. Bara fantasin sätter gränser för vart din resa leder dig, men något som är säkert är att det börjar med Mottagningen! Phöset ser fram emot att träffa dig och lovar att göra allt för att välkomna dig på bästa sätt, oavsett vem du är eller var du kommer ifrån. Du kommer snart märka att Mottagningen består av flera hemligheter och du kommer få många överraskningar längs vägens gång, så häng med oss och upplev en tid du aldrig kommer glömma!
 
-Tveka dig inte att höra av dig till Mottagningsansvariga ÖPH Rebecka Larsson Hjelm på mejlen nedan om du har några som helst frågor. Ha det bra så ses vi snart!
+Tveka dig inte att höra av dig till Mottagningsansvariga ÖPH Rebecka Norlén på mejlen nedan om du har några som helst frågor. Ha det bra så ses vi snart!
 
 ### Kontakt
 
@@ -17,6 +17,6 @@ Vill du kontakta ÖPH kan du kontakta via mejlen oph@iare.nu
 
 ### ÖPH
 
-__Rebecka Larsson Hjelm__ I-23, oph@iare.nu
+__Rebecka Norlén__ I-23, oph@iare.nu
 
-<img src={require("/static/img/Oph.jpg").default} width="230"/>
+<img src={require("/static/img/geni.webp").default} width="230"/>

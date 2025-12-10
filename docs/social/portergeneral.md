@@ -8,4 +8,4 @@ Portergeneralen är en ansvarspost med huvudsakligen tre ansvarsområden gentemo
 
 __Harald Ingemarsson__ I-22, portergeneralen@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/porter.webp").default} width="230"/>

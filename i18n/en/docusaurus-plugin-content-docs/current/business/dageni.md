@@ -11,4 +11,4 @@ If you would like to know more about Dagen I, you can either visit www.dageni.se
 
 __Robin Akela__ I-24, dageni@iare.nu 
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/dageni.webp").default} width="230"/>
