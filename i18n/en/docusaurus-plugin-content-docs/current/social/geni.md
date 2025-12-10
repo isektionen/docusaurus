@@ -15,4 +15,4 @@ Do not hesitate to contact us at geni@iare.nu if you have any comments or want t
 You can also leave anonymous feedback via our contact form: https://forms.gle/MsUj8ZpcZfRuzLjr9 
 
 __Rebecka Norlén__ I-23, geni@iare.nu
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/geni.webp").default} width="230"/>

@@ -10,5 +10,5 @@ Om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dag
 
 __Robin Akela__ I-24, dageni@iare.nu    
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/dageni.webp").default} width="230"/>
 

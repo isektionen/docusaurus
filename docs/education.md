@@ -18,5 +18,5 @@ Kram Studienämnden
 
 __Dario Raffaelli__ I-24, sno@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/sno.webp").default} width="230"/>
 

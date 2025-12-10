@@ -13,5 +13,5 @@ Nämnden består av ca 40 studenter, vilket är perfekt för att lära känna fo
 
 __Valter Svensson__ I-24, kultur@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/cultur.webp").default} width="230"/>
 

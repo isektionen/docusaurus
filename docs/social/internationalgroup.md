@@ -10,4 +10,4 @@ I nuläget har internationella gruppen 30 medlemmar och organisationen är decen
 
 __Johan Elsell__ I-24, internationellt@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/internationella.webp").default} width="230"/>

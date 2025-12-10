@@ -16,4 +16,4 @@ iStart ger sektionens medlemmar utrymme att diskutera och komma i kontakt med va
 
 __Alfred Andersson__ I-23, istart@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/istart.webp").default} width="230"/>

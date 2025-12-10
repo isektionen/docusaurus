@@ -10,4 +10,4 @@ Some examples of popular activities organized by the Sports Committee throughout
 
 __Lukas Ermeskog__ I-24, idrott@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/idrott.webp").default} width="230"/>

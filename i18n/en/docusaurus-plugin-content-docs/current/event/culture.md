@@ -11,4 +11,4 @@ The committee consists of about 40 students, which is perfect for getting to kno
 
 __Valter Svensson__ I-24, kultur@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/cultur.webp").default} width="230"/>

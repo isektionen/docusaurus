@@ -8,4 +8,4 @@ You can turn to the Safety Representative if you want to report incidents, both 
 
 __Jeanette Frycklund__ I-23, skyddsombud@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/Skydd.jpg").default} width="230"/>

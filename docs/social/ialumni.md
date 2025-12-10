@@ -17,4 +17,4 @@ Engagemang i I-Alumni innebär varierande arbete med många olika typer av proje
 
 __Oscar Hay__ I-23, alumni@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/ialumni.webp").default} width="230"/>
