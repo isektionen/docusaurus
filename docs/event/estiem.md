@@ -33,4 +33,4 @@ Vill du kontakta ESTIEM kan du nå Ordförande på estiem@iare.nu och Local Resp
 
 __Malte Rudström__ I-24, estiem@iare.nu
 
-<img src={require("/static/img/estiem.webp").default} width="230"/>
+<img src={require("/static/img/Estiem.webp").default} width="230"/>

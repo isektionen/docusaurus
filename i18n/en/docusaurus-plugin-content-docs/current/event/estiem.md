@@ -29,4 +29,4 @@ You can reach ESTIEM's president at estiem@iare.nu or the local responsible at l
 
 __Malte Rudström__ I-24, estiem@iare.nu
 
-<img src={require("/static/img/estiem.webp").default} width="230"/>
+<img src={require("/static/img/Estiem.webp").default} width="230"/>
