@@ -22,8 +22,10 @@ import PwcIconDark from '@site/static/img/pwcDark.svg';
 import RolandBergerIcon from '@site/static/img/Roland_Berger_logo.svg';
 import RolandBergerIconDark from '@site/static/img/Roland_Berger_logo_dark.svg';
 import GoogleCalIcon from '@site/static/img/googlecal.svg';
-import kpmgIcon from '@site/static/img/KPMG_Logo_Blue.png';
-import kpmgIconDark from '@site/static/img/KPMG_Logo_White.png';
+import KpmgIcon from '@site/static/img/KPMG_Logo_Blue.png';
+import KpmgIconDark from '@site/static/img/KPMG_Logo_White.png';
+import StrategyIcon from '@site/static/img/strategy.svg';
+
 const FeatureList = [
   {
     title: <Translate>Engagera dig</Translate>,
@@ -197,7 +199,7 @@ export default function HomepageFeatures() {
             <div className="col col--3">
               <a href={"https://www.pwc.se/karriar/"}>
                 {colorMode === 'dark' ? (
-                  <PwcIconDark width={200} height={100} />
+                  <PwcIcon width={200} height={100} />
                 ) : (
                   <PwcIcon width={200} height={100} />
                 )}
@@ -217,9 +219,19 @@ export default function HomepageFeatures() {
             <div className="col col--3">
               <a href={"https://kpmg.com/se/sv.html"}>
                 {colorMode === 'dark' ? (
-                  <img src={kpmgIconDark} width={200} height={100} />
+                  <img src={KpmgIconDark} width={200} height={100} />
                 ) : (
-                  <img src={kpmgIcon} width={200} height={100} />
+                  <img src={KpmgIcon} width={200} height={100} />
+                )}
+              </a>
+            </div>
+
+            <div className="col col--3">
+              <a href={"https://www.strategyand.pwc.com/"}>
+                {colorMode === 'dark' ? (
+                  <StrategyIcon width={200} height={100} style={{ filter: 'invert(100%)' }} />
+                ) : (
+                  <StrategyIcon width={200} height={100} />
                 )}
               </a>
             </div>
