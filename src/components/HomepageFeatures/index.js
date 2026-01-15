@@ -18,7 +18,7 @@ import MckinseyIconDark from '@site/static/img/mckinseyDark.svg';
 import BainIcon from '@site/static/img/bain.svg';
 import BainIconDark from '@site/static/img/bainDark.svg';
 import PwcIcon from '@site/static/img/pwc.svg';
-import PwcIconDark from '@site/static/img/pwcDark.svg';
+import PwcIconDark from '@site/static/img/pwc_dark.svg';
 import RolandBergerIcon from '@site/static/img/Roland_Berger_logo.svg';
 import RolandBergerIconDark from '@site/static/img/Roland_Berger_logo_dark.svg';
 import GoogleCalIcon from '@site/static/img/googlecal.svg';
@@ -199,7 +199,7 @@ export default function HomepageFeatures() {
             <div className="col col--3">
               <a href={"https://www.pwc.se/karriar/"}>
                 {colorMode === 'dark' ? (
-                  <PwcIcon width={200} height={100} />
+                  <PwcIconDark width={200} height={100} />
                 ) : (
                   <PwcIcon width={200} height={100} />
                 )}
