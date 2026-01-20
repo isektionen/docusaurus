@@ -23,5 +23,5 @@ Enda som krävs på de som deltar på våra event är ett glatt humör och nyfik
 
 Jackie Wu I-24, i-case@iare.nu 
 
-<img src={require("/static/img/icase.webp").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
 
