@@ -14,18 +14,18 @@ Valberedningen lägger stor vikt vid att bibehålla integriteten hos alla sökan
 
 ### Ordförande
 
-__Alvin Ljunggren__ I-67, valberedningen@iare.nu
+__Alvin Ljunggren__ I-24, valberedningen@iare.nu
 
 [<img src={require("/static/img/valen.webp").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)
 
 ### Valberedningsledamöter
 
-__Kasper Gundewall__ I-67, vbledamot@iare.nu  
-__Carl Wicander__ I-67, vbledamot@iare.nu  
-__Liva Herlenius__ I-67, vbledamot@iare.nu  
-__Axel Hideki Engman__ I-67, vbledamot@iare.nu  
-__Valdemar Floden__ I-67, vbledamot@iare.nu     
-__Vilgot Crawford__ I-67, vbledamot@iare.nu 
+__Kasper Gundewall__ I-24, vbledamot@iare.nu  
+__Carl Wicander__ I-24, vbledamot@iare.nu  
+__Liva Herlenius__ I-24, vbledamot@iare.nu  
+__Axel Hideki Engman__ I-24, vbledamot@iare.nu  
+__Valdemar Floden__ I-25, vbledamot@iare.nu     
+__Vilgot Crawford__ I-24, vbledamot@iare.nu 
 
 <img src={require("/static/img/vbledamot1.webp").default} width="230"/>
 <img src={require("/static/img/vbledamot2.webp").default} width="230"/>

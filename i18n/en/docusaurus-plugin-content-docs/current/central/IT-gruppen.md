@@ -1,5 +1,5 @@
 
-# IT-Gruppen 
+# IT-Group 
 We have weekly meetings where attendance is encouraged but completely voluntary. You choose what you want to spend your time on, for example:
 
 Web Development: Help drive and further develop our section website, iare.se. Here you can try everything from frontend design to backend logic.
@@ -12,9 +12,9 @@ Personal Projects: Got an idea for an app, a bot, or something else cool? Here y
 
 
 
-### The man... The myth... The legend... G.O.A.T
+### IT-Responsible
 
-__Kasper Gundewall__ I-67, webmaster@iare.nu  
+__Kasper Gundewall__ I-24, webmaster@iare.nu  
 
 
 <img src={require("/static/img/vbledamot1.webp").default} width="230"/>
