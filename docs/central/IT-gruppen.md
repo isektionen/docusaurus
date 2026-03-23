@@ -12,9 +12,9 @@ Egna projekt: Har du en idé till en app, en bot eller något annat coolt? Här 
 
 
 
-### The man... The myth... The legend... G.O.A.T
+### IT-Ansvarig
 
-__Kasper Gundewall__ I-67, webmaster@iare.nu  
+__Kasper Gundewall__ I-24, webmaster@iare.nu  
 
 
 <img src={require("/static/img/vbledamot1.webp").default} width="230"/>
