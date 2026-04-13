@@ -87,6 +87,10 @@
     "message": "For Admitted Students",
     "description": "Navbar item with label For admitted students"
   },
+  "item.label.I-tidning": {
+    "message": "I-Magazine",
+    "description": "Navbar item with label I-Magazine"
+  },
   "item.label.Jubileum": {
     "message": "Anniversary",
     "description": "Navbar item with label Jubilee"

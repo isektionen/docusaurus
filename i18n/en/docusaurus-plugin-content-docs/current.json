@@ -50,5 +50,10 @@
   "sidebar.tutorialSidebar.category.Sociala klustret": {
     "message": "The Social Cluster",
     "description": "The label for category Sociala klustret in sidebar tutorialSidebar"
-  }
+  },
+  "sidebar.tutorialSidebar.category.I-tidning": {
+  "message": "I-Magazine",
+  "description": "The label for category I-tidning in sidebar tutorialSidebar"
 }
+}
+
