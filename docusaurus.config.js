@@ -110,8 +110,8 @@ const config = {
           
           { to: '/business', label: 'För Företag', position: 'left' },
           {
-            label: 'I-tidning',
-            to: '/docs/i-tidning',  
+            label: 'I-tidningen',
+            to: '/i-tidning',  
             position: 'left',
           },
           {
