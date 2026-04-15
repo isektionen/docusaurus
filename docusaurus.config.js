@@ -109,13 +109,17 @@ const config = {
 
           
           { to: '/business', label: 'För Företag', position: 'left' },
-
+          {
+            label: 'I-tidningen',
+            to: '/i-tidning',  
+            position: 'left',
+          },
           {
             label: 'Jubileum',
             href: 'https://jubileum.iare.se',
             position: 'left',
           },
-
+          
           {
             type: 'dropdown',
             label: 'Länkar',
