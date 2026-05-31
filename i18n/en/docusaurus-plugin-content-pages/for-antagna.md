@@ -3,9 +3,9 @@
 
 This is where it begins! The section has a vibrant student life, and during the spring, 150 dedicated students work to warmly welcome a new cohort with open arms. To ensure that you, the new students, get to know your class and have the best possible start to your time at KTH, your adventure begins with the Reception.
 
-On August 11th, it’s time for the enrollment meeting. When you arrive at campus in the morning, you’ll be divided into 16 small groups, also known as Mentor Groups. This marks the start of the Reception, which involves exciting activities from morning to evening. You’ll get an introduction to the section’s traditions and attend sittings that include dinner, singing, performances, and after-parties. Most of the time, we’ll be around campus to familiarize you with KTH’s areas, but occasionally, we’ll go to other places in Stockholm. Participation in the Reception is entirely voluntary (however, the enrollment meeting is mandatory. If you cannot attend, you must contact student counselor Michelle Eng Medin at svl-cinek@itm.kth.se).
+On August 10th, it’s time for the enrollment meeting. When you arrive at campus in the morning, you’ll be divided into 16 small groups, also known as Mentor Groups. This marks the start of the Reception, which involves exciting activities from morning to evening. You’ll get an introduction to the section’s traditions and attend sittings that include dinner, singing, performances, and after-parties. Most of the time, we’ll be around campus to familiarize you with KTH’s areas, but occasionally, we’ll go to other places in Stockholm. Participation in the Reception is entirely voluntary (however, the enrollment meeting is mandatory. If you cannot attend, you must contact student counselor Michelle Eng Medin at svl-cinek@itm.kth.se).
 
-A few days before the enrollment meeting, one of your Mentors will contact you to check in and remind you of what’s good to have available during the Reception (see below). A couple of weeks before the enrollment meeting, the schedule for the first two weeks will be published on KTH’s website, followed by updates every two weeks. If you have any questions before then, feel free to contact the Head of the Reception (ÖPH), who is responsible for the event. ÖPH 2025 is Rebecka Larsson Hjelm, and she can be reached at oph@iare.nu.
+A few days before the enrollment meeting, one of your Mentors will contact you to check in and remind you of what’s good to have available during the Reception (see below). A couple of weeks before the enrollment meeting, the schedule for the first two weeks will be published on KTH’s website, followed by updates every two weeks. If you have any questions before then, feel free to contact the Head of the Reception (ÖPH), who is responsible for the event. ÖPH 2026 is Rebecka Norlén, and she can be reached at oph@iare.nu.
 
 ## What Should I Bring?
 ### First day
@@ -33,6 +33,6 @@ Many private individuals rent out rooms or apartments in Stockholm. You can find
 
 **Välkommen!**
 
-__Rebecka Larsson Hjelm__ I-23, oph@iare.nu
+__Rebecka Norlén__ I-23, oph@iare.nu
 
-<img src={require("/static/img/Oph.jpg").default} width="230"/>
+<img src={require("/static/img/overphose.jpg").default} width="230"/>
