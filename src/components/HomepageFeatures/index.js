@@ -25,6 +25,7 @@ import GoogleCalIcon from '@site/static/img/googlecal.svg';
 import KpmgIcon from '@site/static/img/KPMG_Logo_Blue.png';
 import KpmgIconDark from '@site/static/img/KPMG_Logo_White.png';
 import StrategyIcon from '@site/static/img/strategy.svg';
+import JaneStreetIcon from '@site/static/img/janestreet.png';
 
 const FeatureList = [
   {
@@ -235,7 +236,12 @@ export default function HomepageFeatures() {
                 )}
               </a>
             </div>
-
+            
+            <div className="col col--3">
+             <a href={"https://www.janestreet.com/"}>
+                <img src={JaneStreetIcon} width={200} height={100} style={{ objectFit: 'contain' }} />
+              </a>
+            </div>
           </div>
         </div>
       </div>
