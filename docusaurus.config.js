@@ -141,7 +141,10 @@ const config = {
                 href: 'https://sangbok.iare.se/',
                 label: 'Sångbok'
               },
-
+              {
+                href: 'https://forms.gle/sagBbNXZdu1yFUuC7',
+                label : 'Verifikat fomulär'
+              },
             ],
           },
           {
