@@ -17,7 +17,7 @@ The selection committee attaches great importance to maintaining the integrity o
 
 __Alvin Ljunggren__ I-24, valberedningen@iare.nu
 
-[<img src={require("/static/img/valen.webp").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)
+[<img src={require("/static/img/profile.png").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)
 
 ### Election committee board members
 
@@ -29,10 +29,10 @@ __Valdemar Floden__ I-25, vbledamot@iare.nu
 __Vilgot Crawford__ I-24, vbledamot@iare.nu
 
 
-<img src={require("/static/img/vbledamot1.webp").default} width="230"/>
-<img src={require("/static/img/vbledamot2.webp").default} width="230"/>
-<img src={require("/static/img/vbledamot3.webp").default} width="230"/>
-<img src={require("/static/img/vbledamot4.webp").default} width="230"/>
-<img src={require("/static/img/vbettan.webp").default} width="230"/>
-<img src={require("/static/img/vb5.webp").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
 

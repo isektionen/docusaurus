@@ -15,4 +15,4 @@ Do not hesitate to contact Reception Manager ÖPH Rebecka Norlén at oph@iare.nu
 
 __Rebecka Norlén__ I-23, oph@iare.nu
 
-<img src={require("/static/img/geni.webp").default} width="230"/>
+<img src={require("/static/img/overphose.jpg").default} width="230"/>
