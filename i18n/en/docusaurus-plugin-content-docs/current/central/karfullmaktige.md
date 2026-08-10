@@ -12,4 +12,4 @@ __Axel Schelander__ I-23,
 __Johan Svensson__ I-22,
 __Suppleant Harald Ingemarsson__ I-22
 
-<img src={require("/static/img/kf.webp").default} width="500"/>
+<img src={require("/static/img/profile.png").default} width="500"/>

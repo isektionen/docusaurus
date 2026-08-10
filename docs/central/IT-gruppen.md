@@ -17,4 +17,4 @@ Egna projekt: Har du en idé till en app, en bot eller något annat coolt? Här 
 __Kasper Gundewall__ I-24, webmaster@iare.nu  
 
 
-<img src={require("/static/img/vbledamot1.webp").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

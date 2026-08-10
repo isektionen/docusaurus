@@ -10,4 +10,4 @@ SOFt is the committee for those who are curious and open to solving problems and
 
 __Axel Othérus__ I-23, soft@iare.nu
 
-<img src={require("/static/img/soft.webp").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

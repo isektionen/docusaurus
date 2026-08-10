@@ -10,4 +10,4 @@ Några exempel på uppskattade aktiviteter som Idrottsnämnden anordnar under å
 
 __Lukas Ermeskog__ I-24, idrott@iare.nu
 
-<img src={require("/static/img/idrott.webp").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>
