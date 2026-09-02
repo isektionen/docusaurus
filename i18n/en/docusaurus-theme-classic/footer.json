@@ -58,5 +58,9 @@
    "link.title.Sociala medier": {
     "message": "Socials",
     "description": "The title of the footer links column with title=KTH in the footer"
+  },
+  "link.title.Mera": {
+    "message": "Mera",
+    "description": "The title of the footer links column with title=Mera in the footer"
   }
 }

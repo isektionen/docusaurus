@@ -6,6 +6,12 @@ const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 require('dotenv').config()
 
+// Docusaurus serves every non-default locale under /<locale>/ (e.g. /en/).
+// The raw <img src> strings in the footer html below are not baseUrl/locale
+// aware, so "/img/..." 404s on the English site. Build the correct prefix here.
+const currentLocale = process.env.DOCUSAURUS_CURRENT_LOCALE || 'sv';
+const assetBase = currentLocale === 'sv' ? '/' : `/${currentLocale}/`;
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   plugins: [
@@ -161,9 +167,9 @@ const config = {
             title: 'Sociala medier',
             items: [
               {
-                html: `<a href="https://www.facebook.com/IndustriellEkonomiKTH"><img src="/img/facebook.svg" style="margin-right: 5px" width ="31" alt=""/></a>
-                <a href="https://www.instagram.com/isektionen_kth/"><img src="/img/instagram.svg" style="margin-right: 4px" width ="31" alt=""/></a>
-                <a href="https://calendar.google.com/calendar/u/0/embed?src=iare.nu_pre97odp8btuq3u2a9i6u3fnbc@group.calendar.google.com&ctz=Europe/Stockholm"><img src="/img/googlecal.svg" width ="31" alt=""/></a>`,
+                html: `<a href="https://www.facebook.com/IndustriellEkonomiKTH"><img src="${assetBase}img/facebook.svg" style="margin-right: 5px" width ="31" alt=""/></a>
+                <a href="https://www.instagram.com/isektionen_kth/"><img src="${assetBase}img/instagram.svg" style="margin-right: 4px" width ="31" alt=""/></a>
+                <a href="https://calendar.google.com/calendar/u/0/embed?src=iare.nu_pre97odp8btuq3u2a9i6u3fnbc@group.calendar.google.com&ctz=Europe/Stockholm"><img src="${assetBase}img/googlecal.svg" width ="31" alt=""/></a>`,
               },
 
             ],
@@ -175,7 +181,7 @@ const config = {
             items: [
               {
                 html: `<a href="https://github.com/isektionen/docusaurus">
-                <img src="/img/github.svg" id="github_logo" alt=""/>
+                <img src="${assetBase}img/github.svg" id="github_logo" alt=""/>
                 </a>`,
               }
             ],
@@ -184,7 +190,15 @@ const config = {
             title: 'KTH',
             items: [
               {
-                html: `<a href="https://www.kth.se/"><img src="/img/kth.svg" id="kth_logo" width ="28" alt=""></a>`,
+                html: `<a href="https://www.kth.se/"><img src="${assetBase}img/kth.svg" id="kth_logo" width ="28" alt=""></a>`,
+              }
+            ],
+          },
+          {
+            title: 'Mera',
+            items: [
+              {
+                html: `<a href="https://www.mera.se/marken"><img src="${assetBase}img/mera.svg" id="mera_logo" height="31" alt="Mera"></a>`,
               }
             ],
           },

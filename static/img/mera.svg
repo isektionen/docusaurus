@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="534" height="231" viewBox="0 0 534 231">
+  <rect width="534" height="231" rx="20" fill="#000"/>
+  <rect x="3" y="3" width="528" height="225" rx="18" fill="none" stroke="#fff" stroke-width="4"/>
+  <rect x="10" y="10" width="514" height="211" rx="14" fill="none" stroke="#fff" stroke-width="2"/>
+
+  <text x="267" y="108"
+        text-anchor="middle"
+        fill="#fff"
+        font-family="Arial Black, Arial, Helvetica, sans-serif"
+        font-size="91"
+        font-weight="900"
+        letter-spacing="-5">mera.se</text>
+
+  <text x="267" y="181"
+        text-anchor="middle"
+        fill="#fff"
+        font-family="'Brush Script MT', 'Segoe Script', cursive"
+        font-size="42"
+        font-style="italic">profil &amp; reklam</text>
+</svg>
