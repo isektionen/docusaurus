@@ -23,7 +23,7 @@ To get in touch with Clubmästeriet, you can contact the club masters at clubmas
 
 ### Club Master
 
-__Alva Bäckström__ I-24, clubmasteriet@iare.nu
+__Tom Hedberg__ I-24, clubmasteriet@iare.nu
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

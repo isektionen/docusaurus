@@ -19,9 +19,11 @@ I-Case is open to everyone (regardless of academic year) and also offers trainin
 
 All that is required from participants at our events is a positive attitude and curiosity!
 
+Read more at [i-case.indek.se](https://i-case.indek.se/)
+
 ### Chairman
 
-Jackie Wu I-24, i-case@iare.nu
+__Alice Rosenblad__ I-24, i-case@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

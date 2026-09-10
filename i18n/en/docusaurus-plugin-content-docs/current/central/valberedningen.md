@@ -15,18 +15,17 @@ The selection committee attaches great importance to maintaining the integrity o
 
 ### President
 
-__Alvin Ljunggren__ I-24, valberedningen@iare.nu
+__Zacharias Svenblad__ I-24, valberedningen@iare.nu
 
 [<img src={require("/static/img/profile.png").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)
 
 ### Election committee board members
 
-__Kasper Gundewall__ I-24, vbledamot@iare.nu  
-__Carl Wicander__ I-24, vbledamot@iare.nu  
-__Liva Herlenius__ I-24, vbledamot@iare.nu  
-__Axel Hideki Engman__ I-24, vbledamot@iare.nu  
-__Valdemar Floden__ I-25, vbledamot@iare.nu     
-__Vilgot Crawford__ I-24, vbledamot@iare.nu
+__Matteo Bodell__ I-24, vbledamot@iare.nu  
+__Valdemar Flodén__ I-25, vbledamot@iare.nu  
+__Leona Giertz__ I-24, vbledamot@iare.nu  
+__Elise Morling__ I-24, vbledamot@iare.nu  
+__Alicia Risberg__ I-24, vbledamot@iare.nu
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>
@@ -34,5 +33,8 @@ __Vilgot Crawford__ I-24, vbledamot@iare.nu
 <img src={require("/static/img/profile.png").default} width="230"/>
 <img src={require("/static/img/profile.png").default} width="230"/>
 <img src={require("/static/img/profile.png").default} width="230"/>
-<img src={require("/static/img/profile.png").default} width="230"/>
+
+### First-year seat
+
+Elected at SM#1
 

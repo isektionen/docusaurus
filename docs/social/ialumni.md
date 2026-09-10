@@ -15,6 +15,6 @@ Engagemang i I-Alumni innebär varierande arbete med många olika typer av proje
 
 ### Ordförande
 
-__Oscar Hay__ I-23, alumni@iare.nu
+__Vakant__ – alumni@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

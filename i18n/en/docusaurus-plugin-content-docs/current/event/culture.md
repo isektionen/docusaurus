@@ -9,6 +9,6 @@ The committee consists of about 40 students, which is perfect for getting to kno
 
 ## Cultural Attaché
 
-__Valter Svensson__ I-24, kultur@iare.nu
+__Lee Tingvall__ I-24, kultur@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

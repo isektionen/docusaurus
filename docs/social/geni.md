@@ -14,6 +14,6 @@ Om du vill arbeta med JML-frågor, anordna roliga event och vara med och bidra t
 Tveka inte att höra av sig på geni@iare.nu om du har synpunkter eller vill veta mer om vårt arbete! 
 Du kan även lämna anonym feedback via vårt kontaktformulär: https://forms.gle/MsUj8ZpcZfRuzLjr9 
 
-__Rebecka Norlén__ I-23, geni@iare.nu
+__Janina Molin__ I-23, geni@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

@@ -27,7 +27,7 @@ För att komma i kontakt med revisionen kan du kontakta revisorerna på revisore
 
 #### Revisorer 
 
-__David Carlsson__ I-24, __Karl Philip Petterson__ I-23
+__Adrian Troedsson__ I-24, __David Carlsson__ I-24
 
 
 

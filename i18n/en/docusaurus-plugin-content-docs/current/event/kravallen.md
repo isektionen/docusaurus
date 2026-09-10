@@ -7,3 +7,9 @@ Kravallen is organized by students from Industrial Economics at KTH and takes pl
 Kravallen is a social event that unites Stockholm students and enriches Stockholm's student life. Joy and community among students is a central concept that Kravallen focuses on, as a large part of student life is otherwise concentrated at each individual university. Kravallen is a step in creating a common student life and thus making Stockholm a better and more enjoyable student city. The rally is created by students, for students, but everyone over 18 is welcome!
 
 For tickets and more info: kravallen.se
+
+### Project Manager
+
+__Adrian Troedsson__
+
+<img src={require("/static/img/profile.png").default} width="230"/>

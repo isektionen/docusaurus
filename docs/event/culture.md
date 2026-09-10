@@ -11,7 +11,7 @@ Nämnden består av ca 40 studenter, vilket är perfekt för att lära känna fo
 
 ### Kulturattaché
 
-__Valter Svensson__ I-24, kultur@iare.nu
+__Lee Tingvall__ I-24, kultur@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

@@ -14,9 +14,11 @@ Advertisement: naringsliv@iare.nu
 Lunch lecture / event: event.naringsliv@iare.nu
 Billing questions: ekonomi.naringsliv@iare.nu
 
+Website: [nln.indek.se](https://nln.indek.se/)
+
 ### Chairman
 
-__Lovisa Svedborg__ I-24, naringsliv@iare.nu
+__Axel Århammar__ I-24, naringsliv@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 
