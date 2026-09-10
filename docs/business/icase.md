@@ -19,9 +19,11 @@ I-Case finns här för samtliga (oavsett akademisk ålder) och erbjuder dessutom
 
 Enda som krävs på de som deltar på våra event är ett glatt humör och nyfikenhet!
 
+Läs mer på [i-case.indek.se](https://i-case.indek.se/)
+
 ### Ordförande
 
-Jackie Wu I-24, i-case@iare.nu 
+__Alice Rosenblad__ I-24, i-case@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

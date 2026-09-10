@@ -6,6 +6,6 @@ Vi anordnar bland annat frukostar med företag som jobbar med hållbarhet på ol
 
 Vi samarbetar både med andra nämnder på sektionen och välgörenhetsorganisationer för att tillsammans bidra till ett hållbart samhälle.
 ### Ordförande
-__My Höggren__ I-24, iskillnad@iare.nu
+__Linnea Wasing__ I-24, iskillnad@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

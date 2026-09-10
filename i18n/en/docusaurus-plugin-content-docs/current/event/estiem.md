@@ -27,6 +27,6 @@ You can reach ESTIEM's president at estiem@iare.nu or the local responsible at l
 
 #### President
 
-__Malte Rudström__ I-24, estiem@iare.nu
+__Danya Murad__ I-24, estiem@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

@@ -15,7 +15,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Adrian Troedsson</h4>
+        <h4>Aron Dovrén</h4>
         <p>Ordförande</p>
         <a href="mailto:ordf@iare.nu">ordf@iare.nu</a>
       </div>
@@ -26,7 +26,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Alma Gunnarsson</h4>
+        <h4>Gustav Hermansson</h4>
         <p>Vice Ordförande</p>
         <a href="mailto:vice@iare.nu">vice@iare.nu</a>
       </div>
@@ -35,9 +35,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Huraiz Akbar</h4>
+        <h4>Melker Palmblad</h4>
         <p>Kassör</p>
         <a href="mailto:kassor@iare.nu">kassor@iare.nu</a>
       </div>
@@ -46,9 +46,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Rebecka Norlén</h4>
+        <h4>Alvin Ljunggren</h4>
         <p>Administrativt Ansvarig</p>
         <a href="mailto:admin@iare.nu">admin@iare.nu</a>
       </div>
@@ -64,7 +64,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Zacharias Svenblad</h4>
+        <h4>Kasper Gundewall</h4>
         <p>Kommunikations-ansvarig</p>
         <a href="mailto:kommunikation@iare.nu">kommunikation@iare.nu</a>
       </div>
@@ -75,7 +75,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Jeanette Frycklund</h4>
+        <h4>Rebecka Norlén</h4>
         <p>Eventansvarig</p>
         <a href="mailto:event@iare.nu">event@iare.nu</a>
       </div>
@@ -84,9 +84,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Aron Dovrén</h4>
+        <h4>Jonathan Essien</h4>
         <p>Socialt Ansvarig</p>
         <a href="mailto:socialt@iare.nu">socialt@iare.nu</a>
       </div>
@@ -95,9 +95,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Timur Armak</h4>
+        <h4>Anton Li</h4>
         <p>Näringslivsansvarig</p>
         <a href="mailto:naringslivsansvari@iare.nu">naringslivsansvarig@iare.nu</a>
       </div>
@@ -113,7 +113,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Nora Einerth</h4>
+        <h4>Dario Raffaelli</h4>
         <p>Programansvarig Student</p>
         <a href="mailto:programansvarigstudent@iare.nu">programansvarigstudent@iare.nu</a>
       </div>
@@ -122,9 +122,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Emma Hellström"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Leona Giertz Odelberg</h4>
+        <h4>Väljs på SM#1</h4>
         <p>Ettans Plats</p>
         <a href="mailto:ettansplats@iare.nu">ettansplats@iare.nu</a>
       </div>

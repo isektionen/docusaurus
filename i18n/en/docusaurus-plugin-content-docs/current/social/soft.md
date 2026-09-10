@@ -8,6 +8,6 @@ SOFt is the committee for those who are curious and open to solving problems and
 
 ### Chairperson
 
-__Axel Othérus__ I-23, soft@iare.nu
+__Alexander Malmkvist__ I-23, soft@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

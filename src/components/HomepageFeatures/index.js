@@ -239,7 +239,15 @@ export default function HomepageFeatures() {
             
             <div className="col col--3">
              <a href={"https://www.janestreet.com/"}>
-                <img src={JaneStreetIcon} width={200} height={100} style={{ objectFit: 'contain' }} />
+                <img
+                  src={JaneStreetIcon}
+                  width={200}
+                  height={100}
+                  style={{
+                    objectFit: 'contain',
+                    filter: colorMode === 'dark' ? 'invert(100%)' : 'none',
+                  }}
+                />
               </a>
             </div>
           </div>

@@ -18,7 +18,7 @@ The board meets several times a week and officially meets five times a year. Our
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Adrian Troedsson</h4>
+        <h4>Aron Dovrén</h4>
         <p>President</p>
         <a href="mailto:ordf@iare.nu">ordf@iare.nu</a>
       </div>
@@ -29,7 +29,7 @@ The board meets several times a week and officially meets five times a year. Our
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Alma Gunnarsson</h4>
+        <h4>Gustav Hermansson</h4>
         <p>Vice President</p>
         <a href="mailto:vice@iare.nu">vice@iare.nu</a>
       </div>
@@ -38,9 +38,9 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Huraiz Akbar</h4>
+        <h4>Melker Palmblad</h4>
         <p>Treasurer</p>
         <a href="mailto:kassor@iare.nu">kassor@iare.nu</a>
       </div>
@@ -49,9 +49,9 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Rebecka Norlén</h4>
+        <h4>Alvin Ljunggren</h4>
         <p>Admin</p>
         <a href="mailto:admin@iare.nu">admin@iare.nu</a>
       </div>
@@ -67,7 +67,7 @@ The board meets several times a week and officially meets five times a year. Our
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Zacharias Svenblad</h4>
+        <h4>Kasper Gundewall</h4>
         <p>Communications</p>
         <a href="mailto:kommunikation@iare.nu">kommunikation@iare.nu</a>
       </div>
@@ -78,7 +78,7 @@ The board meets several times a week and officially meets five times a year. Our
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Jeanette Frycklund</h4>
+        <h4>Rebecka Norlén</h4>
         <p>Event</p>
         <a href="mailto:event@iare.nu">event@iare.nu</a>
       </div>
@@ -87,9 +87,9 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Edvin Ramström"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Aron Dovrén</h4>
+        <h4>Jonathan Essien</h4>
         <p>Social</p>
         <a href="mailto:socialt@iare.nu">socialt@iare.nu</a>
       </div>
@@ -98,9 +98,9 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Another Person"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Timur Armak</h4>
+        <h4>Anton Li</h4>
         <p>Corporate Relations</p>
         <a href="mailto:naringslivsansvari@iare.nu">naringslivsansvarig@iare.nu</a>
       </div>
@@ -116,7 +116,7 @@ The board meets several times a week and officially meets five times a year. Our
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Nora Einerth</h4>
+        <h4>Dario Raffaelli</h4>
         <p>Pas</p>
         <a href="mailto:programansvarigstudent@iare.nu">programansvarigstudent@iare.nu</a>
       </div>
@@ -125,9 +125,9 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt="Emma Hellström"/>
+      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Leona Giertz Odelberg</h4>
+        <h4>Elected at SM#1</h4>
         <p>First Year Representative</p>
         <a href="mailto:ettansplats@iare.nu">ettansplats@iare.nu</a>
       </div>

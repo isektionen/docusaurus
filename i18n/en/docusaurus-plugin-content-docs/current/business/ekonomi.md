@@ -16,6 +16,6 @@ During the year, IK organizes together with partners various recruitment events 
 
 ### Chairman
 
-__Alex Upman__ I-24, ordforande.ik@iare.nu
+__Arvid Stubberöd__ I-24, ordforande.ik@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

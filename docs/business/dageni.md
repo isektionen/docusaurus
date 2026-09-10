@@ -8,7 +8,7 @@ Vår målsättning är att skapa en karriärmässa med ett brett urval av föret
 Om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se, eller kontakta projektledaren på projektledare@dageni.se
 ### Projektledare Dagen I 2025/2026
 
-__Robin Akela__ I-24, dageni@iare.nu    
+__Rebecka Gessler__ I-24, dageni@iare.nu    
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

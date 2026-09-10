@@ -8,3 +8,9 @@ Kravallen är ett socialt evenemang som förenar stockholmsstudenter och berikar
 
 För biljetter och mer info: kravallen.se
 
+### Projektledare
+
+__Adrian Troedsson__
+
+<img src={require("/static/img/profile.png").default} width="230"/>
+
