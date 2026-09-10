@@ -7,8 +7,8 @@ Our goal is to create a career fair with a wide selection of companies that repr
 
 If you would like to know more about Dagen I, you can either visit www.dageni.se, or contact the project manager at projektledare@dageni.se.
 
-### Project Manager Dagen-I 2025/2026
+### Project Manager Dagen-I 2026/2027
 
-__Rebecka Gessler__ I-24, dageni@iare.nu 
+__Rebecca Gessler__ I-25, dageni@iare.nu 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

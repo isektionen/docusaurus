@@ -5,12 +5,12 @@ iSpexet är Industriell ekonomis sektionsspex och bildades år 1997. Ett spex ä
 
 Om du gillar studentliv, gemenskap och framför allt om du gillar att ha kul så är iSpexet gruppen för dig!
 
-Spexdirecteur och nämndansvarig 2025/2026 är Erik Burnäs, I-22. För mer information om iSpexet, besök vår Facebooksida eller www.ispexet.iare.se.
+Spexdirecteur och nämndansvarig 2026/2027 är Erik Burnäs, I-23. För mer information om iSpexet, besök vår Facebooksida eller www.ispexet.iare.se.
 
 *iSpexet – för ett riktigt roligt och studentikost år på KTH!*
 
 ### Directeur
 
-__Erik Burnäs__ I-22
+__Erik Burnäs__ I-23
 
 <img src={require("/static/img/profile.png").default} width="230"/>

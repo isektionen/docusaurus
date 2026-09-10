@@ -16,6 +16,6 @@ Under året anordnar vi i IK tillsammans med samarbetspartners olika rekrytering
 
 ### Ordförande
 
-__Arvid Stubberöd__ I-24, ordforande.ik@iare.nu
+__Arvid Stubberöd__ I-25, ordforande.ik@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

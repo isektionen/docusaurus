@@ -14,7 +14,7 @@ Personal Projects: Got an idea for an app, a bot, or something else cool? Here y
 
 ### IT-Responsible
 
-__Leo Näreskog__ I-24, webmaster@iare.nu  
+__Leo Näreskog__ I-25, webmaster@iare.nu  
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

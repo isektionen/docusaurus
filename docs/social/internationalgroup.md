@@ -8,6 +8,6 @@ Internationella gruppen är I-sektionens nämnd som står för inkludering av de
 I nuläget har internationella gruppen 30 medlemmar och organisationen är decentraliserad och dynamisk för att alla ska kunna vara med och komma med idéer och  ta egna initiativ.
 ### Ordförande
 
-__Cornelis Barman__ I-24, internationellt@iare.nu
+__Cornelis Barman__ I-25, internationellt@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
