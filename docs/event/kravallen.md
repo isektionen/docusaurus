@@ -10,7 +10,7 @@ För biljetter och mer info: kravallen.se
 
 ### Projektledare
 
-__Adrian Troedsson__
+__Adrian Troedsson__ I-22
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

@@ -14,7 +14,7 @@ Egna projekt: Har du en idé till en app, en bot eller något annat coolt? Här 
 
 ### IT-Ansvarig
 
-__Leo Näreskog__ I-24, webmaster@iare.nu  
+__Leo Näreskog__ I-25, webmaster@iare.nu  
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

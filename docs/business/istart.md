@@ -14,6 +14,6 @@ iStart ger sektionens medlemmar utrymme att diskutera och komma i kontakt med va
 
 ### Ordförande
 
-__Valter Westerholm__ I-23, istart@iare.nu
+__Valter Westerholm__ I-25, istart@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

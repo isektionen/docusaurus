@@ -27,7 +27,7 @@ To get in touch with the audit, you can contact the auditors at revisorer@iare.n
 
 #### Auditors
 
-__Adrian Troedsson__ I-24, __David Carlsson__ I-24
+__Adrian Troedsson__ I-22, __David Carlsson__ I-24
 
 
 

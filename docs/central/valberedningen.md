@@ -20,9 +20,9 @@ __Zacharias Svenblad__ I-24, valberedningen@iare.nu
 
 ### Valberedningsledamöter
 
-__Matteo Bodell__ I-24, vbledamot@iare.nu  
+__Matteo Bodell__ I-25, vbledamot@iare.nu  
 __Valdemar Flodén__ I-25, vbledamot@iare.nu  
-__Leona Giertz__ I-24, vbledamot@iare.nu  
+__Leona Giertz__ I-25, vbledamot@iare.nu  
 __Elise Morling__ I-24, vbledamot@iare.nu  
 __Alicia Risberg__ I-24, vbledamot@iare.nu  
 

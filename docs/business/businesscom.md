@@ -18,7 +18,7 @@ Hemsida: [nln.indek.se](https://nln.indek.se/)
 
 ### Ordförande
 
-__Axel Århammar__ I-24, naringsliv@iare.nu
+__Axel Århammar__ I-25, naringsliv@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

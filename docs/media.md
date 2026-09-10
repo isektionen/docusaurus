@@ -8,6 +8,6 @@ KMN består av fyra grupper som ser till att sektionens kommunikation och ansikt
 
 ### Ordförande
 
-__Matteo Bodell__ I-24, reporter@iare.nu
+__Matteo Bodell__ I-25, reporter@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

@@ -10,6 +10,6 @@ For tickets and more info: kravallen.se
 
 ### Project Manager
 
-__Adrian Troedsson__
+__Adrian Troedsson__ I-22
 
 <img src={require("/static/img/profile.png").default} width="230"/>

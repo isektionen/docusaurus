@@ -8,7 +8,7 @@ SOFt är nämnden för dig som är nyfiken och öppen för att lösa problem och
 
 ### Ordförande
 
-__Alexander Malmkvist__ I-23, soft@iare.nu
+__Alexander Malmkvist__ I-24, soft@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 
