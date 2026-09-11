@@ -90,9 +90,5 @@
   "item.label.INDEX": {
     "message": "INDEX",
     "description": "Navbar item with label INDEX"
-  },
-  "item.label.Jubileum": {
-    "message": "Anniversary",
-    "description": "Navbar item with label Jubilee"
   }
 }

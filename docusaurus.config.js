@@ -121,12 +121,6 @@ const config = {
             position: 'left',
           },
           {
-            label: 'Jubileum',
-            href: 'https://jubileum.iare.se',
-            position: 'left',
-          },
-          
-          {
             type: 'dropdown',
             label: 'Länkar',
             position: 'right',
