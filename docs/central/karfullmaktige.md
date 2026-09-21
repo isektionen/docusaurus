@@ -8,7 +8,7 @@ Kårfullmäktige är sektionens möjlighet till att påverka THS (Tekniska Högs
 Under verksamhetsåret 2026/2027 har I-sektionen 3 ledamöter i Kårfullmäktige. Dessa är:
 
 __Kasper Gundewall__ I-24,
-__Karl Philip Pettersson__ I-23,
+__Karl Philip (kpp) Pettersson__ I-23,
 __Suppleant Axel Othérus__ I-23
 
 <img src={require("/static/img/profile.png").default} width="500"/>
