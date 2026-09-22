@@ -27,7 +27,7 @@ const MyPage = () => {
     { id: 21, label: 'Kulturnämnden', href: 'docs/event/culture', position: { top: '67%', left: '12%' } },
     { id: 22, label: 'Studienämnden', href: 'docs/education', position: { top: '57%', left: '27%' } },
     { id: 23, label: 'Ingenjörskapital', href: 'docs/ekonomi', position: { top: '34%', left: '68%' } },
-    { id: 24, label: 'Kommunikationsnämnden', href: 'docs/media', position: { top: '57%', left: '55%' } },
+    { id: 24, label: 'KMN', href: 'docs/media', position: { top: '57%', left: '55%' } },
     { id: 25, label: 'Revisorer', href: 'docs/central/revisor', position: { top: '22%', left: '83%' } },
     { id: 26, label: 'Styrelsen', href: 'docs/board', position: { top: '43%', left: '40%' } },
     // Add more buttons as needed
