@@ -121,6 +121,11 @@ const config = {
             position: 'left',
           },
           {
+            label: 'Merch',
+            href: 'https://merch.iare.se',
+            position: 'left',
+          },
+          {
             type: 'dropdown',
             label: 'Länkar',
             position: 'right',
