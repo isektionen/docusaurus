@@ -1,5 +1,5 @@
 ---
-pagination_prev: event/reception
+pagination_prev: projects/kravallen
 pagination_next: social/geni
 ---
 # Seniorkollegiet

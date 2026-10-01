@@ -27,7 +27,7 @@ Som en förening har I-Sektionen Stadgar som bestämmer hur Sektionens verksamhe
 
 
 __Sektionsmötet__   
-Sektionsmötet, oftast förkortat SM, är I-Sektionens högsta beslutande organ. Ändringar i Stadgar och Reglemente, beslut om hur framtiden för sektionen ska se ut, och så vidare, beslutas av SM. Alla sektionsmedlemmar har rätt att närvara vid SM och påverka vad som ska diskuteras. Detta görs främst genom Motioner. En motion är ett yrkande på att sektionen ska uträtta någonting eller ändra Stadgar och Reglemente vilket i sin tur förändrar Sektionens verksamhet. *Under fliken “Dokument” i menyn ovan finns en mall för en motion.* Vid frågor och hjälp kring hur man skickar in en motion, vänligen kontakta Vice Ordförande på vice@iare.nu.
+Sektionsmötet, oftast förkortat SM, är I-Sektionens högsta beslutande organ. Ändringar i Stadgar och Reglemente, beslut om hur framtiden för sektionen ska se ut, och så vidare, beslutas av SM. Alla sektionsmedlemmar har rätt att närvara vid SM och påverka vad som ska diskuteras. Detta görs främst genom Motioner. En motion är ett yrkande på att sektionen ska uträtta någonting eller ändra Stadgar och Reglemente vilket i sin tur förändrar Sektionens verksamhet. *Under fliken “Dokument” i menyn ovan finns en mall för en motion.* Vid frågor och hjälp kring hur man skickar in en motion, vänligen kontakta Vice Ordförande på vice@indek.se.
 
 __Styrelsen__   
 Styrelsen är sektionens verkställande enhet och arbetar både strategiskt och operativt. Styrelsen verkställer de beslut som tas av SM, men jobbar också för att förbättra sektionen med egna projekt. Det operativa arbetet består främst i koordinering av sektionens resurser bland dess nämnder. Beskrivning av vad varje styrelsemedlem ansvarar för står i Reglemente.     

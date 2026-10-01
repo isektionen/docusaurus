@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-pagination_next: central/karfullmaktige
+pagination_next: central/it-ansvarig
 ---
 
 # Styrelsen
@@ -17,7 +17,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Aron Dovrén</h4>
         <p>Ordförande</p>
-        <a href="mailto:ordf@iare.nu">ordf@iare.nu</a>
+        <a href="mailto:ordf@indek.se">ordf@indek.se</a>
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Gustav Hermansson</h4>
         <p>Vice Ordförande</p>
-        <a href="mailto:vice@iare.nu">vice@iare.nu</a>
+        <a href="mailto:vice@indek.se">vice@indek.se</a>
       </div>
     </div>
   </div>
@@ -39,7 +39,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Melker Palmblad</h4>
         <p>Kassör</p>
-        <a href="mailto:kassor@iare.nu">kassor@iare.nu</a>
+        <a href="mailto:kassor@indek.se">kassor@indek.se</a>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Alvin Ljunggren</h4>
         <p>Administrativt Ansvarig</p>
-        <a href="mailto:admin@iare.nu">admin@iare.nu</a>
+        <a href="mailto:admin@indek.se">admin@indek.se</a>
       </div>
     </div>
   </div>
@@ -66,7 +66,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Kasper Gundewall</h4>
         <p>Kommunikations-ansvarig</p>
-        <a href="mailto:kommunikation@iare.nu">kommunikation@iare.nu</a>
+        <a href="mailto:kommunikation@indek.se">kommunikation@indek.se</a>
       </div>
     </div>
   </div>
@@ -77,7 +77,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Rebecka Norlén</h4>
         <p>Eventansvarig</p>
-        <a href="mailto:event@iare.nu">event@iare.nu</a>
+        <a href="mailto:event@indek.se">event@indek.se</a>
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Jonathan Essien</h4>
         <p>Socialt Ansvarig</p>
-        <a href="mailto:socialt@iare.nu">socialt@iare.nu</a>
+        <a href="mailto:socialt@indek.se">socialt@indek.se</a>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Anton Li</h4>
         <p>Näringslivsansvarig</p>
-        <a href="mailto:naringslivsansvari@iare.nu">naringslivsansvarig@iare.nu</a>
+        <a href="mailto:naringslivsansvarig@indek.se">naringslivsansvarig@indek.se</a>
       </div>
     </div>
   </div>
@@ -115,7 +115,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
       <div class="card__body">
         <h4>Dario Raffaelli</h4>
         <p>Programansvarig Student</p>
-        <a href="mailto:programansvarigstudent@iare.nu">programansvarigstudent@iare.nu</a>
+        <a href="mailto:programansvarigstudent@indek.se">programansvarigstudent@indek.se</a>
       </div>
     </div>
   </div>
@@ -124,9 +124,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
     <div class="card d-flex align-items-center">
       <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Väljs på SM#1</h4>
+        <h4>Catharina Ståhlberg</h4>
         <p>Ettans Plats</p>
-        <a href="mailto:ettansplats@iare.nu">ettansplats@iare.nu</a>
+        <a href="mailto:ettansplats@indek.se">ettansplats@indek.se</a>
       </div>
     </div>
   </div>

@@ -23,7 +23,7 @@ Rent praktiskt är revisorernas roll att granska sektionens verksamhet. Det inne
 I rollen som revisor kan man även lämna både feedback och förslag till andra förtroendevalda. Detta ingår inte i det formella arbetet, men det är viktigt att inse den position man sitter i, och chansen att arbeta proaktivt med beslut istället för reaktivt. Man kan agera bollplank åt andra förtroendevalda, däremot primärt styrelsen, och vid behov rådge dem. Detta utgör den stödjande funktionen.
 
 #### Kontakt
-För att komma i kontakt med revisionen kan du kontakta revisorerna på revisorer@iare.nu
+För att komma i kontakt med revisionen kan du kontakta revisorerna på revisorer@indek.se
 
 #### Revisorer 
 

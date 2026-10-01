@@ -1,5 +1,5 @@
 ---
-pagination_next: projects/seniorkollegiet
+pagination_next: projects/ekonom-i
 ---
 # The Reception
 
@@ -9,10 +9,10 @@ The reception is managed by MSG (The reception steering group), with elected ÖP
 
 Are you thinking of applying for Industrial Economics or are you even a newly admitted I student waiting for Reception to begin? Then you really have something to look forward to! You are on your way to a real adventure and no matter who you are, you will be part of the I section - a place with strong community, lots of laughs and the opportunity for great development. Only the imagination sets limits to where your journey will take you, but one thing is certain is that it starts with the Reception! Phöset looks forward to meeting you and promises to do everything to welcome you in the best possible way, no matter who you are or where you come from. You will soon notice that the Reception consists of several secrets and you will get many surprises along the way, so join us and experience a time you will never forget!
 
-Do not hesitate to contact Reception Manager ÖPH Rebecka Norlén at oph@iare.nu if you have any questions. Have a good time and see you soon!
+Do not hesitate to contact Reception Manager ÖPH Rebecka Norlén at oph@indek.se if you have any questions. Have a good time and see you soon!
 
 ### ÖPH
 
-__Rebecka Norlén__ I-23, oph@iare.nu
+__Rebecka Norlén__ I-23, oph@indek.se
 
 <img src={require("/static/img/overphose.jpg").default} width="230"/>

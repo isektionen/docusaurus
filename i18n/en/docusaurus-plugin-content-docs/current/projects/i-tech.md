@@ -1,5 +1,8 @@
-
-# IT-Group 
+---
+pagination_prev: projects/ekonom-i
+pagination_next: projects/kravallen
+---
+# I-Tech
 We have weekly meetings where attendance is encouraged but completely voluntary. You choose what you want to spend your time on, for example:
 
 Web Development: Help drive and further develop our section website, iare.se. Here you can try everything from frontend design to backend logic.
@@ -14,7 +17,7 @@ Personal Projects: Got an idea for an app, a bot, or something else cool? Here y
 
 ### IT-Responsible
 
-__Leo Näreskog__ I-25, webmaster@iare.nu  
+__Leo Näreskog__ I-25, webmaster@indek.se  
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

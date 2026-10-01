@@ -27,10 +27,10 @@ fram emot din ansökan och att få träffa dig på en intervju!
 
 
 ### Kontakt
-Vill du kontakta ESTIEM kan du nå Ordförande på estiem@iare.nu och Local Responsible på lr.stockholm@estiem.org
+Vill du kontakta ESTIEM kan du nå Ordförande på estiem@indek.se och Local Responsible på lr.stockholm@estiem.org
 
 ### Ordförande
 
-__Danya Murad__ I-25, estiem@iare.nu
+__Danya Murad__ I-25, estiem@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>

@@ -8,6 +8,6 @@ Some examples of popular activities organized by the Sports Committee throughout
 
 ### President
 
-__Felix Rönnlund__ I-25, idrott@iare.nu
+__Felix Rönnlund__ I-25, idrott@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>

@@ -1,5 +1,5 @@
 ---
-pagination_prev: board
+pagination_prev: central/it-ansvarig
 ---
 # Ledamöter till Kårfullmäktige
 
