@@ -15,6 +15,6 @@ Engagemang i I-Alumni innebär varierande arbete med många olika typer av proje
 
 ### Ordförande
 
-__Vakant__ – alumni@iare.nu
+__Hannes Johansson__ I-26, alumni@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>

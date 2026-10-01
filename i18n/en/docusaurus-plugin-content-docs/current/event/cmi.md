@@ -19,11 +19,11 @@ It is important to know that arranging meetings and pubs is at least as much fun
 
 ### Contact
 
-To get in touch with Clubmästeriet, you can contact the club masters at clubmasteriet@iare.nu.
+To get in touch with Clubmästeriet, you can contact the club masters at clubmasteriet@indek.se.
 
 ### Club Master
 
-__Tom Hedberg__ I-25, clubmasteriet@iare.nu
+__Tom Hedberg__ I-25, clubmasteriet@indek.se
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

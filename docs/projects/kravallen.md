@@ -1,3 +1,7 @@
+---
+pagination_prev: projects/i-tech
+pagination_next: projects/seniorkollegiet
+---
 # Kravallen
 
 Tänk dig sång, musik och dans under en ljus vårhimmel. Bländande strålkastare, konfetti som flyger i vinden och en kall dryck i handen på ett dansgolv fullt av glada studenter. Senaste gången det inträffade i Maskinparken var 2024, men den som väntar på något gott väntar aldrig för länge. Kravallen är tillbaka!
@@ -10,7 +14,7 @@ För biljetter och mer info: kravallen.se
 
 ### Projektledare
 
-__Adrian Troedsson__ I-22
+__Vakant__
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

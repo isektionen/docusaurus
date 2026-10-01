@@ -12,10 +12,10 @@ Tanken är att utbildningen ska ge studenter god kunskap i att självständigt a
 
 ### Samarbeten med andra sektioner och näringsliv
 
-Under året anordnar vi i IK tillsammans med samarbetspartners olika rekryteringsevent såsom föreläsningar och företagsbesök, ofta i kombination med marknadsföring och CV-screening. Låter detta intressant, kontakta oss gärna ordforande.ik@iare.nu
+Under året anordnar vi i IK tillsammans med samarbetspartners olika rekryteringsevent såsom föreläsningar och företagsbesök, ofta i kombination med marknadsföring och CV-screening. Låter detta intressant, kontakta oss gärna ordforande.ik@indek.se
 
 ### Ordförande
 
-__Arvid Stubberöd__ I-25, ordforande.ik@iare.nu
+__Arvid Stubberöd__ I-25, ordforande.ik@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>

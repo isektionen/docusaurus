@@ -23,7 +23,7 @@ Read more at [i-case.indek.se](https://i-case.indek.se/)
 
 ### Chairman
 
-__Alice Rosenblad__ I-25, i-case@iare.nu
+__Alice Rosenblad__ I-25, i-case@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

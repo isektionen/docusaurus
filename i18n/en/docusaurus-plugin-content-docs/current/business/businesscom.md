@@ -10,15 +10,15 @@ The Corporate Relations Committee consists of approximately 45 members within th
 The Corporate Relations Committee serves as the bridge between the I-chapter and career opportunities. We share the various opportunities companies offer with students through email newsletters, Facebook posts, events, and advertising on our website. By actively building relationships with a range of companies, we aim to establish long-term, mutually beneficial collaborations that provide students with valuable information and future opportunities.
 
 ### Contact
-Advertisement: naringsliv@iare.nu
-Lunch lecture / event: event.naringsliv@iare.nu
-Billing questions: ekonomi.naringsliv@iare.nu
+Advertisement: naringsliv@indek.se
+Lunch lecture / event: event.naringsliv@indek.se
+Billing questions: ekonomi.naringsliv@indek.se
 
 Website: [nln.indek.se](https://nln.indek.se/)
 
 ### Chairman
 
-__Axel Århammar__ I-25, naringsliv@iare.nu
+__Axel Århammar__ I-25, naringsliv@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

@@ -4,7 +4,7 @@ Det är nu det börjar! Sektionen har ett sprudlande studentliv och under våren
 
 Den 10/8 är det dags för upprop och när ni kommer till campus på morgonen kommer vi dela in er i 16 små grupper, även kallade nollegrupper. Då börjar Mottagningen och det innebär spännande aktiviteter från morgon till kväll. Ni får en introduktion till sektionens traditioner och går på sittningar som består av middag, sång, framträdanden och tillhörande efterfester. För det mesta rör vi oss omkring på Campus för att ni ska bli bekanta med KTHs områden men ibland åker vi iväg till andra platser i Stockholm. Allt deltagande i Mottagningen är helt frivilligt (Uppropet är dock obligatoriskt. Kan du inte komma på uppropet måste du kontakta studievägledare Michelle Eng Medin på svl-cinek@itm.kth.se).
 
-Några dagar innan uppropet kommer du att kontaktas av en av dina Faddrar som stämmer av läget inför uppropet och påminner om vad som är bra att ha tillgängligt under Mottagningen (se nedan). Ett par veckor innan uppropet släpps schemat för de två första veckorna på KTHs hemsida och sedan två veckor i taget. Har du några frågor innan dess är du varmt välkommen att kontakta ÖPH (Överphösare) som är ansvarig för Mottagningen. ÖPH 2026 är Rebecka Norlén och nås på oph@iare.nu.
+Några dagar innan uppropet kommer du att kontaktas av en av dina Faddrar som stämmer av läget inför uppropet och påminner om vad som är bra att ha tillgängligt under Mottagningen (se nedan). Ett par veckor innan uppropet släpps schemat för de två första veckorna på KTHs hemsida och sedan två veckor i taget. Har du några frågor innan dess är du varmt välkommen att kontakta ÖPH (Överphösare) som är ansvarig för Mottagningen. ÖPH 2026 är Rebecka Norlén och nås på oph@indek.se.
 
 ## Vad skall jag ha med mig?
 ### Första dagen
@@ -27,6 +27,6 @@ Det finns många privatpersoner som vill hyra ut rum eller lägenheter i Stockho
 
 **Välkommen!**
 
-__Rebecka Norlén__ I-23, oph@iare.nu
+__Rebecka Norlén__ I-23, oph@indek.se
 
 <img src={require("/static/img/overphose.jpg").default} width="230"/>

@@ -10,15 +10,15 @@ Näringslivsnämnden (NLN) består av cirka 45 medlemmar inom I-sektionen. Tills
 Näringslivsnämnden (NLN) är länken mellan I-sektionen och näringslivet. Vi kommunicerar näringslivets alla möjligheter till studenterna via mailutskick, Facebook-inlägg, företagsevent och annonsering på vår hemsida. Genom att aktivt bygga relationer med olika företag strävar vi efter att skapa långsiktiga och givande samarbeten, som förser studenterna med värdefull information och möjligheter inför framtiden.
 
 ### Kontakt
-Samarbete annonsering: naringsliv@iare.nu
-Samarbete lunchföreläsning/event: event.naringsliv@iare.nu
-Frågor gällande fakturor: ekonomi.naringsliv@iare.nu
+Samarbete annonsering: naringsliv@indek.se
+Samarbete lunchföreläsning/event: event.naringsliv@indek.se
+Frågor gällande fakturor: ekonomi.naringsliv@indek.se
 
 Hemsida: [nln.indek.se](https://nln.indek.se/)
 
 ### Ordförande
 
-__Axel Århammar__ I-25, naringsliv@iare.nu
+__Axel Århammar__ I-25, naringsliv@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 
