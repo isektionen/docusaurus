@@ -18,4 +18,4 @@ Hugs to the Study Board
 
 __Hugo Holmer__ I-23, sno@indek.se
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/hugo-holmer.webp").default} width="230"/>

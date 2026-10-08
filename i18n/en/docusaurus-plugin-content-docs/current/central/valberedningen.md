@@ -28,7 +28,7 @@ __Elise Morling__ I-24, vbledamot@indek.se
 __Alicia Risberg__ I-24, vbledamot@indek.se
 
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/matteo-bodell.webp").default} width="230"/>
 <img src={require("/static/img/profile.png").default} width="230"/>
 <img src={require("/static/img/profile.png").default} width="230"/>
 <img src={require("/static/img/profile.png").default} width="230"/>

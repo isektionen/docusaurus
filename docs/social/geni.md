@@ -16,4 +16,4 @@ Du kan även lämna anonym feedback via vårt kontaktformulär: https://forms.gl
 
 __Janina Molin__ I-25, geni@indek.se
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/janina-molin.webp").default} width="230"/>

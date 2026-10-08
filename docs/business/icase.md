@@ -25,5 +25,5 @@ Läs mer på [i-case.indek.se](https://i-case.indek.se/)
 
 __Alice Rosenblad__ I-25, i-case@indek.se
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/alice-rosenblad.webp").default} width="230"/>
 

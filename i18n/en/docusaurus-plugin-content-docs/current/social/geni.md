@@ -15,4 +15,4 @@ Do not hesitate to contact us at geni@indek.se if you have any comments or want 
 You can also leave anonymous feedback via our contact form: https://forms.gle/MsUj8ZpcZfRuzLjr9 
 
 __Janina Molin__ I-25, geni@indek.se
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/janina-molin.webp").default} width="230"/>

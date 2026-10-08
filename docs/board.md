@@ -13,7 +13,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/aron-dovren.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Aron Dovrén</h4>
         <p>Ordförande</p>
@@ -24,7 +24,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/gustav-hermansson.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Gustav Hermansson</h4>
         <p>Vice Ordförande</p>
@@ -35,7 +35,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/melker-palmblad.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Melker Palmblad</h4>
         <p>Kassör</p>
@@ -46,7 +46,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/alvin-ljunggren.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Alvin Ljunggren</h4>
         <p>Administrativt Ansvarig</p>
@@ -73,7 +73,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/rebecka-norlen.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Rebecka Norlén</h4>
         <p>Eventansvarig</p>
@@ -84,9 +84,9 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/cornelis-barman.webp").default} className="w-50" alt=""/>
       <div class="card__body">
-        <h4>Jonathan Essien</h4>
+        <h4>Cornelis Barman</h4>
         <p>Socialt Ansvarig</p>
         <a href="mailto:socialt@indek.se">socialt@indek.se</a>
       </div>
@@ -111,7 +111,7 @@ Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gång
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/dario-raffaelli.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Dario Raffaelli</h4>
         <p>Programansvarig Student</p>
