@@ -23,7 +23,7 @@ In practical terms, the auditors' role is to audit the chapter's activities. Thi
 As an auditor, you can also provide both feedback and suggestions to other elected officials. This is not part of the formal work, but it is important to realize the position you are in, and the chance to work proactively with decisions instead of reactively. You can act as a sounding board for other elected representatives, but primarily the board, and advise them if necessary. This is the support function.
 
 #### Contact
-To get in touch with the audit, you can contact the auditors at revisorer@iare.nu
+To get in touch with the audit, you can contact the auditors at revisorer@indek.se
 
 #### Auditors
 

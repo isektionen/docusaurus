@@ -9,6 +9,6 @@ If you would like to know more about Dagen I, you can either visit www.dageni.se
 
 ### Project Manager Dagen-I 2026/2027
 
-__Rebecca Gessler__ I-25, dageni@iare.nu 
+__Rebecca Gessler__ I-25, dageni@indek.se 
 
 <img src={require("/static/img/rebecka-gessler.webp").default} width="230"/>

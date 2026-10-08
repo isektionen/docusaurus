@@ -1,5 +1,5 @@
 ---
-pagination_next: projects/seniorkollegiet
+pagination_next: projects/ekonom-i
 ---
 # Mottagningen
 
@@ -13,10 +13,10 @@ Tveka dig inte att höra av dig till Mottagningsansvariga ÖPH Rebecka Norlén p
 
 ### Kontakt
 
-Vill du kontakta ÖPH kan du kontakta via mejlen oph@iare.nu
+Vill du kontakta ÖPH kan du kontakta via mejlen oph@indek.se
 
 ### ÖPH
 
-__Rebecka Norlén__ I-23, oph@iare.nu
+__Rebecka Norlén__ I-23, oph@indek.se
 
 <img src={require("/static/img/overphose.jpg").default} width="230"/>

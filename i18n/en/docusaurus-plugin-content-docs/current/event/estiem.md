@@ -23,10 +23,10 @@ our recruitment pub and get the chance to win a guaranteed spot for Destination 
 are looking forward to receiving your application and meeting you for an interview!
 
 ### Contact
-You can reach ESTIEM's president at estiem@iare.nu or the local responsible at lr_stockholm@estiem.org
+You can reach ESTIEM's president at estiem@indek.se or the local responsible at lr_stockholm@estiem.org
 
 #### President
 
-__Danya Murad__ I-25, estiem@iare.nu
+__Danya Murad__ I-25, estiem@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>

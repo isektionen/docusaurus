@@ -19,10 +19,10 @@ Viktigt att veta är att fixa sittningar och pubar är minst lika kul som att g�
 
 ### Kontakt
 
-För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på clubmasteriet@iare.nu
+För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på clubmasteriet@indek.se
 
 ### Clubmästare,
-__Tom Hedberg__ I-25, clubmasteriet@iare.nu
+__Tom Hedberg__ I-25, clubmasteriet@indek.se
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

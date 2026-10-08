@@ -1,5 +1,8 @@
-
-# IT-Gruppen 
+---
+pagination_prev: projects/ekonom-i
+pagination_next: projects/kravallen
+---
+# I-Tech
 Vi har veckovisa möten där närvaro är uppskattad men helt frivillig. Du väljer själv vad du vill lägga din tid på, till exempel:
 
 Webbutveckling: Hjälp till att driva och vidareutveckla vår sektionshemsida iare.se. Här får du testa på allt från frontend-design till backend-logik.
@@ -14,7 +17,7 @@ Egna projekt: Har du en idé till en app, en bot eller något annat coolt? Här 
 
 ### IT-Ansvarig
 
-__Leo Näreskog__ I-25, webmaster@iare.nu  
+__Leo Näreskog__ I-25, webmaster@indek.se  
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

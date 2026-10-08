@@ -23,7 +23,7 @@ Läs mer på [i-case.indek.se](https://i-case.indek.se/)
 
 ### Ordförande
 
-__Alice Rosenblad__ I-25, i-case@iare.nu
+__Alice Rosenblad__ I-25, i-case@indek.se
 
 <img src={require("/static/img/alice-rosenblad.webp").default} width="230"/>
 

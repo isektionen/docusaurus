@@ -15,17 +15,17 @@ The selection committee attaches great importance to maintaining the integrity o
 
 ### President
 
-__Zacharias Svenblad__ I-24, valberedningen@iare.nu
+__Zacharias Svenblad__ I-24, valberedningen@indek.se
 
 [<img src={require("/static/img/profile.png").default} width="230" />](https://k43p5r.github.io/Plubben_poangjakt/)
 
 ### Election committee board members
 
-__Matteo Bodell__ I-25, vbledamot@iare.nu  
-__Valdemar Flodén__ I-25, vbledamot@iare.nu  
-__Leona Giertz__ I-25, vbledamot@iare.nu  
-__Elise Morling__ I-24, vbledamot@iare.nu  
-__Alicia Risberg__ I-24, vbledamot@iare.nu
+__Matteo Bodell__ I-25, vbledamot@indek.se  
+__Valdemar Flodén__ I-25, vbledamot@indek.se  
+__Leona Giertz__ I-25, vbledamot@indek.se  
+__Elise Morling__ I-24, vbledamot@indek.se  
+__Alicia Risberg__ I-24, vbledamot@indek.se
 
 
 <img src={require("/static/img/matteo-bodell.webp").default} width="230"/>
@@ -36,5 +36,7 @@ __Alicia Risberg__ I-24, vbledamot@iare.nu
 
 ### First-year seat
 
-Elected at SM#1
+__Grace Yang__ I-26, vbledamot@indek.se
+
+<img src={require("/static/img/profile.png").default} width="230"/>
 

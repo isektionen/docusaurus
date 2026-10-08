@@ -16,7 +16,7 @@ Kram Studienämnden
 
 ### Ordförande
 
-__Hugo Holmer__ I-23, sno@iare.nu
+__Hugo Holmer__ I-23, sno@indek.se
 
 <img src={require("/static/img/hugo-holmer.webp").default} width="230"/>
 

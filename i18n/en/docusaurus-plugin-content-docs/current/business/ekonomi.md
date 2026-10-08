@@ -12,10 +12,10 @@ The idea is that the education should give students good knowledge in independen
 
 ### Collaborations with other sections and business
 
-During the year, IK organizes together with partners various recruitment events such as lectures and company visits, often in combination with marketing and CV screening. If this sounds interesting, please contact us ordforande.ik@iare.nu
+During the year, IK organizes together with partners various recruitment events such as lectures and company visits, often in combination with marketing and CV screening. If this sounds interesting, please contact us ordforande.ik@indek.se
 
 ### Chairman
 
-__Arvid Stubberöd__ I-25, ordforande.ik@iare.nu
+__Arvid Stubberöd__ I-25, ordforande.ik@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>

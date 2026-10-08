@@ -9,6 +9,6 @@ The committee consists of about 40 students, which is perfect for getting to kno
 
 ## Cultural Attaché
 
-__Lee Tingvall__ I-25, kultur@iare.nu
+__Lee Tingvall__ I-25, kultur@indek.se
 
 <img src={require("/static/img/lee-tingvall.webp").default} width="230"/>

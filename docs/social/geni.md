@@ -11,9 +11,9 @@ Genom att fixa roliga och lärorika event för hela sektionen såsom pubar, för
 Om du vill arbeta med JML-frågor, anordna roliga event och vara med och bidra till att I-sektionen är en öppen och inkluderande plats är GenI nämnden för dig! 
 
 ## Kontakt
-Tveka inte att höra av sig på geni@iare.nu om du har synpunkter eller vill veta mer om vårt arbete! 
+Tveka inte att höra av sig på geni@indek.se om du har synpunkter eller vill veta mer om vårt arbete! 
 Du kan även lämna anonym feedback via vårt kontaktformulär: https://forms.gle/MsUj8ZpcZfRuzLjr9 
 
-__Janina Molin__ I-25, geni@iare.nu
+__Janina Molin__ I-25, geni@indek.se
 
 <img src={require("/static/img/janina-molin.webp").default} width="230"/>

@@ -11,7 +11,7 @@ Nämnden består av ca 40 studenter, vilket är perfekt för att lära känna fo
 
 ### Kulturattaché
 
-__Lee Tingvall__ I-25, kultur@iare.nu
+__Lee Tingvall__ I-25, kultur@indek.se
 
 <img src={require("/static/img/lee-tingvall.webp").default} width="230"/>
 

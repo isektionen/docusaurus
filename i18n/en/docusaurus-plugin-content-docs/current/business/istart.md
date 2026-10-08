@@ -11,6 +11,6 @@ As a member of iStart, you gain direct insight into Stockholm’s entrepreneuria
 
 ### Chairman
 
-__Valter Westerholm__ I-25, istart@iare.nu
+__Valter Westerholm__ I-25, istart@indek.se
 
 <img src={require("/static/img/valter-westerholm.webp").default} width="230"/>

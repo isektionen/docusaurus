@@ -6,6 +6,6 @@ Portergeneralen är en ansvarspost med huvudsakligen tre ansvarsområden gentemo
 
 ### Portergeneral
 
-__Johan Svensson__ I-22, portergeneralen@iare.nu
+__Johan Svensson__ I-22, portergeneralen@indek.se
 
 <img src={require("/static/img/profile.png").default} width="230"/>
