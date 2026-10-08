@@ -11,4 +11,4 @@ If you would like to know more about Dagen I, you can either visit www.dageni.se
 
 __Rebecca Gessler__ I-25, dageni@iare.nu 
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/rebecka-gessler.webp").default} width="230"/>

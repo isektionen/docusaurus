@@ -8,4 +8,4 @@ You can turn to the Safety Representative if you want to report incidents, both 
 
 __Astrid Bergvall__ I-25, skyddsombud@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/astrid-bergvall.webp").default} width="230"/>

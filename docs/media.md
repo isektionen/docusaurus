@@ -10,4 +10,4 @@ KMN består av fyra grupper som ser till att sektionens kommunikation och ansikt
 
 __Matteo Bodell__ I-25, reporter@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/matteo-bodell.webp").default} width="230"/>

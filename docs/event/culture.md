@@ -13,5 +13,5 @@ Nämnden består av ca 40 studenter, vilket är perfekt för att lära känna fo
 
 __Lee Tingvall__ I-25, kultur@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/lee-tingvall.webp").default} width="230"/>
 

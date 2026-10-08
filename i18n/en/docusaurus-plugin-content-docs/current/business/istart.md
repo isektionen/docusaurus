@@ -13,4 +13,4 @@ As a member of iStart, you gain direct insight into Stockholm’s entrepreneuria
 
 __Valter Westerholm__ I-25, istart@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/valter-westerholm.webp").default} width="230"/>

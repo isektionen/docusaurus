@@ -10,4 +10,4 @@ Currently, the International Group has 30 members, and the organization is decen
 
 __Cornelis Barman__ I-25, internationellt@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/cornelis-barman.webp").default} width="230"/>

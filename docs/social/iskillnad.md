@@ -8,4 +8,4 @@ Vi samarbetar både med andra nämnder på sektionen och välgörenhetsorganisat
 ### Ordförande
 __Linnea Wasing__ I-25, iskillnad@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/linnea-wasing.webp").default} width="230"/>

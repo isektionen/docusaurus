@@ -18,5 +18,5 @@ Kram Studienämnden
 
 __Hugo Holmer__ I-23, sno@iare.nu
 
-<img src={require("/static/img/profile.png").default} width="230"/>
+<img src={require("/static/img/hugo-holmer.webp").default} width="230"/>
 
