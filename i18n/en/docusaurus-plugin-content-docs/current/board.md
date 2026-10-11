@@ -65,7 +65,7 @@ The board meets several times a week and officially meets five times a year. Our
 
   <div class="col col--3">
     <div class="card d-flex align-items-center">
-      <img src={require("/static/img/profile.png").default} className="w-50" alt=""/>
+      <img src={require("/static/img/kasper-gundewall.webp").default} className="w-50" alt=""/>
       <div class="card__body">
         <h4>Kasper Gundewall</h4>
         <p>Communications</p>
